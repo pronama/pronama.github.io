@@ -1,0 +1,157 @@
+﻿@font-face {
+  font-family: mplus-1p-medium;
+  src: url('http://mplus-fonts.sourceforge.jp/webfonts/mplus-1p-medium.ttf') format("truetype"); }
+
+body {
+  -ms-text-autospace: ideograph-alpha; }
+
+body, h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, h1 small, h2 small, h3 small {
+  font-family: Verdana, "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, sans-serif; }
+
+h1, h2, h3 {
+  font-family: mplus-1p-medium, Verdana, "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, sans-serif; }
+
+h3 {
+  font-size: 25px; }
+
+.mark, mark {
+  background-color: #fce3e3; }
+
+.social-buttons {
+  margin: 40px auto; }
+  .social-buttons .list-inline > li {
+    padding: 0;
+    vertical-align: top; }
+
+.character-card div {
+  display: inline-block;
+  vertical-align: middle; }
+.character-card p {
+  margin-bottom: 0; }
+
+.face-wrapper {
+  width: 256px;
+  height: 256px; }
+  .face-wrapper div {
+    position: absolute;
+    left: 50%;
+    top: 0;
+    margin-left: -128px;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    background-size: 100%; }
+  .face-wrapper div.msg {
+    display: none; }
+
+/* grid */
+.col-xs-15, .col-sm-15, .col-md-15, .col-lg-15 {
+  position: relative;
+  min-height: 1px;
+  padding-right: 10px;
+  padding-left: 10px; }
+
+.col-xs-15 {
+  width: 20%;
+  float: left; }
+
+@media (min-width: 768px) {
+  .col-sm-15 {
+    width: 20%;
+    float: left; } }
+
+@media (min-width: 992px) {
+  .col-md-15 {
+    width: 20%;
+    float: left; } }
+
+@media (min-width: 1200px) {
+  .col-lg-15 {
+    width: 20%;
+    float: left; } }
+
+.vcenter {
+  display: inline-block;
+  vertical-align: middle;
+  float: none;
+  margin: 0; }
+
+/* faces */
+.face-anzu-chan {
+  width: 256px;
+  height: 256px;
+  background: url('../images/characters/faces/faces.png') 0 0; }
+
+.msg-anzu-chan {
+  width: 256px;
+  height: 128px;
+  background: url('../images/characters/faces/faces.png') 0 -256px; }
+
+.face-claudia-san {
+  width: 256px;
+  height: 256px;
+  background: url('../images/characters/faces/faces.png') 0 -384px; }
+
+.msg-claudia-san {
+  width: 256px;
+  height: 128px;
+  background: url('../images/characters/faces/faces.png') 0 -640px; }
+
+.face-conoha-chan {
+  width: 256px;
+  height: 256px;
+  background: url('../images/characters/faces/faces.png') 0 -768px; }
+
+.msg-conoha-chan {
+  width: 256px;
+  height: 128px;
+  background: url('../images/characters/faces/faces.png') 0 -1024px; }
+
+.face-pronama-chan {
+  width: 256px;
+  height: 256px;
+  background: url('../images/characters/faces/faces.png') 0 -1152px; }
+
+.msg-pronama-chan {
+  width: 256px;
+  height: 128px;
+  background: url('../images/characters/faces/faces.png') 0 -1408px; }
+
+.face-query-chan {
+  width: 256px;
+  height: 256px;
+  background: url('../images/characters/faces/faces.png') 0 -1536px; }
+
+.msg-query-chan {
+  width: 256px;
+  height: 128px;
+  background: url('../images/characters/faces/faces.png') 0 -1792px; }
+
+.face-unity-chan {
+  width: 256px;
+  height: 256px;
+  background: url('../images/characters/faces/faces.png') 0 -1920px; }
+
+.msg-unity-chan {
+  width: 256px;
+  height: 128px;
+  background: url('../images/characters/faces/faces.png') 0 -2176px; }
+
+.msg1 {
+  width: 256px;
+  height: 128px;
+  background: url('../images/characters/faces/faces.png') 0 -2304px; }
+
+.msg2 {
+  width: 256px;
+  height: 128px;
+  background: url('../images/characters/faces/faces.png') 0 -2432px; }
+
+/* teaser */
+.question {
+  margin: 30px auto; }
+
+h3 {
+  margin-top: 30px; }
+
+/*# sourceMappingURL=teaser.css.map */
