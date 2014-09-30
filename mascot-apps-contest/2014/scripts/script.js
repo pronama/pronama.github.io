@@ -286,4 +286,11 @@ $(function () {
     }, function () {
     });
 
+    $(window).konami(function () {
+        $(".icon-pronama-chan")
+            .addClass("animated rotateIn")
+            .one(animeEnd, function () {
+                $(this).removeClass("animated rotateIn");
+            });
+    });
 });
