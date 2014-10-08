@@ -26,6 +26,14 @@
 </head>
 <body id="page-top" data-spy="scroll" data-target=".navbar-default">
     <!-- Input Konami code -->
+    <script>
+        function getParameterByName(name) {
+            name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+            var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+                results = regex.exec(location.search);
+            return results == null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+        }
+    </script>
     <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
         <div class="container-fluid">
             <div class="navbar-header">
@@ -153,6 +161,9 @@
                             if (d.getElementById(id)) return;
                             js = d.createElement(s); js.id = id;
                             js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&appId=767727909916605&version=v2.0";
+                            if (getParameterByName("lang") == "ja-KS") {
+                                js.src = "//connect.facebook.net/ja_KS/sdk.js#xfbml=1&appId=767727909916605&version=v2.0";
+                            }
                             fjs.parentNode.insertBefore(js, fjs);
                         }(document, 'script', 'facebook-jssdk'));</script>
                     <script src="https://apis.google.com/js/platform.js" async defer>
@@ -882,6 +893,9 @@
                             if (d.getElementById(id)) return;
                             js = d.createElement(s); js.id = id;
                             js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&appId=530404300372885&version=v2.0";
+                            if (getParameterByName("lang") == "ja-KS") {
+                                js.src = "//connect.facebook.net/ja_KS/sdk.js#xfbml=1&appId=530404300372885&version=v2.0";
+                            }
                             fjs.parentNode.insertBefore(js, fjs);
                         }(document, 'script', 'facebook-jssdk'));</script>
                     <div id="likebox_container">
