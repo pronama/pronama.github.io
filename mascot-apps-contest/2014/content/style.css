@@ -69,6 +69,11 @@ ul.notes {
   .face-wrapper div.msg {
     display: none; }
 
+.new-character {
+  width: auto;
+  height: auto;
+  cursor: pointer; }
+
 .chara-details > tbody > tr > td {
   border-top-width: 0;
   white-space: nowrap; }

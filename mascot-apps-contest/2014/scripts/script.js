@@ -37,6 +37,13 @@ $(function () {
         $("#modal").modal();
     });
 
+    // for new characters
+    $(".new-character>img").click(function () {
+        var file = $(this).attr("data-image");
+        $("#character-img").attr("src", "images/characters/cuts/" + file);
+        $("#modal").modal();
+    });
+
     $("#character-img").click(function () {
         $("#modal").modal("hide");
     });
@@ -116,6 +123,18 @@ $(function () {
         cv: "？",
         audio: "query-chan.mp3",
         guideline: "http://www.query-chan.com/"
+    }, {
+        name: "東北ずん子",
+        twitter: "t_zunko",
+        web: "http://zunko.jp/",
+        job: "女子高生",
+        birthday: "10月27日",
+        age: "17歳",
+        height: "157cm",
+        like: "ずんだ餅",
+        cv: "佐藤聡美（VOICEROID+）",
+        audio: "zunko-chan.mp3",
+        guideline: "http://zunko.jp/guideline.html"
     }];
 
     for (var i = 0; i < cinfo.length; i++) {
