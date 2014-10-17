@@ -124,7 +124,8 @@ $(function () {
         audio: "query-chan.mp3",
         guideline: "http://www.query-chan.com/"
     }, {
-        name: "東北ずん子",
+        name: "東北じゅん子",
+        nick: "東北ずん子",
         twitter: "t_zunko",
         web: "http://zunko.jp/",
         job: "女子高生",
@@ -135,6 +136,15 @@ $(function () {
         cv: "佐藤聡美（VOICEROID+）",
         audio: "zunko-chan.mp3",
         guideline: "http://zunko.jp/guideline.html"
+    }, {
+        name: "ハッカドール１号",
+        twitter: "Hackadoll",
+        web: "http://hackadoll.com/",
+        job: "エンタメAI",
+        birthday: "？",
+        age: "17歳",
+        height: "162cm",
+        like: "きゅうり"
     }];
 
     for (var i = 0; i < cinfo.length; i++) {
@@ -149,8 +159,8 @@ $(function () {
                     '<tr><td>' + c.age + '</td></tr>' +
                     '<tr><td>' + c.height + '</td></tr>' +
                     '<tr><td>' + c.like + '</td></tr>' +
-                    '<tr><td><a class="voice" href="#" data-audio="' + c.audio + '" title="CV: ' + c.cv + '"><i class="glyphicon glyphicon-volume-up"></i></a></td></tr>' +
-                    '<tr><td><a href="' + c.guideline + '" target="_blank">ガイドライン</a></td></tr>' +
+                    '<tr><td>' + ((!c.audio) ? '<i class="glyphicon glyphicon-volume-up text-muted"></i>' : '<a class="voice" href="#" data-audio="' + c.audio + '" title="CV: ' + c.cv + '"><i class="glyphicon glyphicon-volume-up"></i></a>') + '</td></tr>' +
+                    '<tr><td>' + ((!c.guideline) ? '準備中' : '<a href="' + c.guideline + '" target="_blank">ガイドライン</a>') + '</td></tr>' +
                 '</tbody>' +
             '</table>'
         );
