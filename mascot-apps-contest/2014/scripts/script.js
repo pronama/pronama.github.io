@@ -144,7 +144,8 @@ $(function () {
         birthday: "？",
         age: "17歳",
         height: "162cm",
-        like: "きゅうり"
+        like: "きゅうり",
+        guideline: "http://blog.hackadoll.com/post/100296829970"
     }];
 
     for (var i = 0; i < cinfo.length; i++) {
