@@ -351,3 +351,28 @@ div#likebox_container .fbcomments iframe[style],
 div#likebox_container .fb_iframe_widget span {
     width: 100% !important;
 }
+
+// works
+
+
+.works-card {
+    margin: 50px 0 100px;
+
+    h3 {
+        margin-top: 0;
+    }
+
+    p {
+        line-height: 170%;
+    }
+
+    .author span {
+        vertical-align: bottom;
+    }
+}
+
+#screenshots {
+    img {
+        margin-bottom: 30px;
+    }
+}

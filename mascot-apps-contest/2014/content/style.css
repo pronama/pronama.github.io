@@ -262,4 +262,16 @@ img.work {
 div#likebox_container .fbcomments, div#likebox_container .fb_iframe_widget, div#likebox_container .fb_iframe_widget[style], div#likebox_container .fb_iframe_widget iframe[style], div#likebox_container .fbcomments iframe[style], div#likebox_container .fb_iframe_widget span {
   width: 100% !important; }
 
+.works-card {
+  margin: 50px 0 100px; }
+  .works-card h3 {
+    margin-top: 0; }
+  .works-card p {
+    line-height: 170%; }
+  .works-card .author span {
+    vertical-align: bottom; }
+
+#screenshots img {
+  margin-bottom: 30px; }
+
 /*# sourceMappingURL=style.css.map */

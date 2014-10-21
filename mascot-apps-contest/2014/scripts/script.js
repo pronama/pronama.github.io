@@ -241,48 +241,48 @@ $(function () {
             '</div>';
     }
     $("#qa-contents").html(qa_html);
-
-    var works = [
-        {
-            title: "プロ生LTタイマー",
-            author: "daisuke_nomura",
-            group: "",
-            url: "https://play.google.com/store/apps/details?id=jp.nomula.pronama.lttimer&hl=ja",
-            image: "z001.png",
-            thumb: "z001_thumb.png",
-            desc: "（これは作品例の紹介で、応募作品ではありません。）"
-        }, {
-            title: "World Wide Traveling feat.Query-chan",
-            author: "Nangok Software",
-            group: "",
-            url: "http://apps.microsoft.com/windows/ja-jp/app/world-wide-traveling-feat-query/2565b954-4a35-4cf8-80cb-df88ef7eafb5",
-            image: "z002.png",
-            thumb: "z002_thumb.png",
-            desc: "（これは作品例の紹介で、応募作品ではありません。）"
-        }, {
-            title: "ユニティちゃんAR",
-            author: "Unity Games Japan",
-            group: "",
-            url: "https://itunes.apple.com/app/id845892069",
-            image: "z003.png",
-            thumb: "z003_thumb.png",
-            desc: "（これは作品例の紹介で、応募作品ではありません。）"
-        }, {
-            title: "作品募集中です",
-            author: "pronama",
-            group: "",
-            url: "",
-            image: "http://placehold.jp/3d4070/ffffff/300x300.png?text=%E5%8B%9F%E9%9B%86%E4%B8%AD",
-            thumb: "http://placehold.jp/3d4070/ffffff/300x300.png?text=%E5%8B%9F%E9%9B%86%E4%B8%AD",
-            desc: "作品募集中です"
-        }
-    ];
-
+    /*
+        var works = [
+            {
+                title: "プロ生LTタイマー",
+                author: "daisuke_nomura",
+                group: "",
+                url: "https://play.google.com/store/apps/details?id=jp.nomula.pronama.lttimer&hl=ja",
+                image: "z001.png",
+                thumb: "z001_thumb.png",
+                desc: "（これは作品例の紹介で、応募作品ではありません。）"
+            }, {
+                title: "World Wide Traveling feat.Query-chan",
+                author: "Nangok Software",
+                group: "",
+                url: "http://apps.microsoft.com/windows/ja-jp/app/world-wide-traveling-feat-query/2565b954-4a35-4cf8-80cb-df88ef7eafb5",
+                image: "z002.png",
+                thumb: "z002_thumb.png",
+                desc: "（これは作品例の紹介で、応募作品ではありません。）"
+            }, {
+                title: "ユニティちゃんAR",
+                author: "Unity Games Japan",
+                group: "",
+                url: "https://itunes.apple.com/app/id845892069",
+                image: "z003.png",
+                thumb: "z003_thumb.png",
+                desc: "（これは作品例の紹介で、応募作品ではありません。）"
+            }, {
+                title: "作品募集中です",
+                author: "pronama",
+                group: "",
+                url: "",
+                image: "http://placehold.jp/3d4070/ffffff/300x300.png?text=%E5%8B%9F%E9%9B%86%E4%B8%AD",
+                thumb: "http://placehold.jp/3d4070/ffffff/300x300.png?text=%E5%8B%9F%E9%9B%86%E4%B8%AD",
+                desc: "作品募集中です"
+            }
+        ];
+    */
     var works_html = "";
-    for (var i = 0; i < 4; i++) {
+    for (var i = works.length - 1; i >= works.length - 5; i--) {
         works_html +=
-            '<div class="col-sm-6 col-md-3">' +
-            '<img src="' + ((works[i].thumb.lastIndexOf("http", 0) === 0) ? works[i].thumb : "images/works/" + works[i].thumb) + '" class="img-responsive img-rounded work hover-anime" data-anime="pulse" data-index="' + i + '" />' +
+            '<div class="col-xs-15 col-sm-15 col-md-15">' +
+            '<a href="works.html?id=' + works[i].id + '"><img src="' + ((works[i].thumb.lastIndexOf("http", 0) === 0) ? works[i].thumb : "images/works/" + works[i].thumb) + '" class="img-responsive img-rounded work hover-anime" data-anime="pulse" data-index="' + i + '" /></a>' +
             '</div>';
     }
     $("#works-contents").html(works_html);
@@ -392,16 +392,18 @@ $(function () {
 
     // end lang
 
+    /*
     $(".work").click(function () {
         var w = works[$(this).attr("data-index")];
         $("#work-title").text(w.title);
-        $("#work-image").attr("src", (w.image.lastIndexOf("http", 0) === 0) ? w.image : "images/works/" + w.image).attr("title", w.title);
+        $("#work-image").attr("src", (w.thumb.lastIndexOf("http", 0) === 0) ? w.thumb : "images/works/" + w.thumb).attr("title", w.title);
         $("#work-desc").text(w.desc);
-        $("#work-url").text(w.url).attr("href", w.url);
-        $("#work-author").text(w.author);
+        $("#work-url").text(w.urls[0]).attr("href", w.url);
+        $("#work-author").text(w.creator);
 
         $("#work-modal").modal();
     });
+    */
 
     $(".hover-anime").hover(function () {
         var anime = $(this).attr("data-anime");
