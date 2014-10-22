@@ -145,6 +145,8 @@ $(function () {
         age: "17歳",
         height: "162cm",
         like: "きゅうり",
+        cv: "高木美佑",
+        audio: "hackadoll_1go.mp3",
         guideline: "http://blog.hackadoll.com/post/100296829970"
     }];
 
