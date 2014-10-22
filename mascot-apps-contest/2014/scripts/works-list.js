@@ -62,4 +62,26 @@
     urls: ["https://itunes.apple.com/us/app/masukore/id927843063?l=ja&ls=1&mt=8", "https://play.google.com/store/apps/details?id=com.JunkGames.MasColle"],
     tags: ["アプリ", "iOS", "Android", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "クエリちゃん"],
     group: "JunkGames"
-}];
+}, {
+    id: "6",
+    title: "ウィンドウシッターのテーマ「マスコットアプリ文化祭」「SD あんずちゃん」（アプリ名: 那珂ちゃんの楽屋）",
+    desc: "ウィンドウシッターです。フォーカスのあるウィンドウにマスコットが乗っかります。オープンソースで開発しており、Windows 用の実行ファイルを配布しています。",
+    creator: {
+        name: "satofumi"
+    },
+    thumb: "006.jpg",
+    images: ["006_1.jpg", "006_2.jpg"],
+    urls: ["http://www.hyakuren-soft.sakura.ne.jp/koshikake/"],
+    tags: ["アプリ", "Windows", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "クエリちゃん"]
+}/*, {
+    id: "7",
+    title: "マスコットアプリ文化祭2014の協賛キャラにずん子さんがいます！",
+    desc: "ずん子さんのコンテストの紹介風漫画とずん子さんのアプリです。音声に合わせて、餅をつくずん子さんの動画（無音）を出力します。起動した日を緑色に塗りつぶした今月のカレンダーを表示します。飛んでくるずんだ餅を叩きます。",
+    creator: {
+        name: "水っぽいスープ"
+    },
+    thumb: "007.jpg",
+    images: ["007_1.jpg", "007_2.jpg"],
+    urls: ["http://www.pixiv.net/member_illust.php?mode=medium&illust_id=46640549"],
+    tags: ["アプリ", "イラスト"]
+}*/];
