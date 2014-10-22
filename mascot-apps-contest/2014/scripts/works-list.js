@@ -59,7 +59,7 @@
     },
     thumb: "005.jpg",
     images: ["005_1.jpg", "005_2.jpg"],
-    urls: ["https://play.google.com/store/apps/details?id=com.JunkGames.MasColle"],
-    tags: ["アプリ", "Android", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "クエリちゃん"],
+    urls: ["https://itunes.apple.com/us/app/masukore/id927843063?l=ja&ls=1&mt=8", "https://play.google.com/store/apps/details?id=com.JunkGames.MasColle"],
+    tags: ["アプリ", "iOS", "Android", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "クエリちゃん"],
     group: "JunkGames"
 }];
