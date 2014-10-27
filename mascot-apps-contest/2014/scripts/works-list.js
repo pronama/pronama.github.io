@@ -84,4 +84,18 @@
     images: ["007_1.jpg", "007_2.jpg", "007_3.jpg", "007_4.jpg"],
     urls: ["http://www.pixiv.net/member_illust.php?mode=medium&illust_id=46640549"],
     tags: ["アプリ", "漫画", "Windows", "東北ずん子"]
+}, {
+    id: "8",
+    title: "プロ生ちゃんのシティ・ジャンプ",
+    desc: "プロ生ちゃんがジャパニーズ・オタク・シティに設けられた足場をひたすら登るゲームです。プロ生ちゃんの好物・パイナップルをとるとおジャマブロックが消えます。 足場から落ちないように出来るだけ高い場所を目指して登ってください。クエリちゃんやユニティちゃんが応援しています。",
+    creator: {
+        name: "Mtk Fujiu.jp",
+        twitter: "mtk_f",
+        urls: ["http://blog.fujiu.jp/"]
+    },
+    thumb: "008.jpg",
+    images: ["008_1.jpg"],
+    urls: ["http://blog.fujiu.jp/2014/10/2014.html"],
+    tags: ["アプリ", "Unity", "プロ生ちゃん", "クエリちゃん", "ユニティちゃん"],
+    group: "にんじんグループ"
 }];
