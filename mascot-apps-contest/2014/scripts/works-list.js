@@ -98,4 +98,15 @@
     urls: ["http://blog.fujiu.jp/2014/10/2014.html"],
     tags: ["アプリ", "Unity", "プロ生ちゃん", "クエリちゃん", "ユニティちゃん"],
     group: "にんじんグループ"
+}, {
+    id: "9",
+    title: "プロ生ちゃんハロウィンバージョン",
+    desc: "イラスト（壁紙サイズ）",
+    creator: {
+        name: "呉学人"
+    },
+    thumb: "009.png",
+    images: ["009_1.png"],
+    urls: ["http://www.pixiv.net/member_illust.php?mode=medium&illust_id=46814447"],
+    tags: ["イラスト", "プロ生ちゃん"]
 }];
