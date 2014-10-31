@@ -109,4 +109,18 @@
     images: ["009_1.png"],
     urls: ["http://www.pixiv.net/member_illust.php?mode=medium&illust_id=46814447"],
     tags: ["イラスト", "プロ生ちゃん"]
+}, {
+    id: "10",
+    title: "コミポDEプロなま プロ生ちゃん×東北ずん子×クラウディ窓辺",
+    desc: "動画です。プロ生ちゃんとずん子とクラウディアがプログラミングを勉強するようです。ところがプロ生ちゃんが持ってきた機材が・・・！　それをクラウディアが・・・！　そしてずん子は・・・！　果たして3人の運命は！？　BGMはオリジナルです。",
+    creator: {
+        name: "Mtk Fujiu.jp",
+        twitter: "mtk_f",
+        urls: ["http://blog.fujiu.jp/"]
+    },
+    thumb: "010.jpg",
+    images: ["010_1.jpg"],
+    urls: ["http://www.nicovideo.jp/watch/sm24809581"],
+    tags: ["動画", "プロ生ちゃん", "東北ずん子", "クラウディア"],
+    group: "にんじんグループ"
 }];
