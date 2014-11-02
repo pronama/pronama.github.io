@@ -34,7 +34,7 @@
     thumb: "003.jpg",
     images: ["003_1.jpg", "003_2.jpg", "003_3.jpg", "003_4.jpg", "003_5.jpg", "003_6.jpg", "003_7.jpg"],
     urls: ["http://mikumikumouth.net/"],
-    tags: ["アプリ", "Windows", "プロ生ちゃん"]
+    tags: ["アプリ", "Windows", "プロ生ちゃん", "東北ずん子"]
 }, {
     id: "4",
     title: "Dancing Claudia",
@@ -123,4 +123,15 @@
     urls: ["http://www.nicovideo.jp/watch/sm24809581"],
     tags: ["動画", "プロ生ちゃん", "東北ずん子", "クラウディア"],
     group: "にんじんグループ"
+}, {
+    id: "11",
+    title: "「プロ生ちゃん」(ウィンドウ・アスレチックのテーマ)",
+    desc: "ウィンドウ情報を利用したマスコット表示アプリです。ウィンドウの上をマスコットが走ったりできます。オープンソースで開発しており、Windows 用の実行ファイルを配布しています。",
+    creator: {
+        name: "satofumi"
+    },
+    thumb: "011.png",
+    images: ["011_1.png"],
+    urls: ["http://hyakuren-soft.sakura.ne.jp/window_athletic/"],
+    tags: ["アプリ", "Windows", "プロ生ちゃん"]
 }];
