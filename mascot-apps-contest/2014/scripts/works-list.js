@@ -147,4 +147,15 @@
     images: ["012_1.jpg"],
     urls: ["http://unsolublesugar.com/20140903/212726/"],
     tags: ["レビュー", "美雲あんず"]
+}, {
+    id: "13",
+    title: "ゆにゆに！",
+    desc: "Unity Japan公式キャラクターことユニティちゃん！　ゆにゆに！はユニティちゃんの可愛さを存分に堪能できるアプリです。ユニティちゃんを触ったり、色んな角度から眺めたり…　※起動時及びタップ時にユニティちゃんが喋ってくれます。周囲の環境やボリュームにご注意下さい。",
+    creator: {
+        name: "sea_mountain"
+    },
+    thumb: "013.jpg",
+    images: ["013_1.jpg", "013_2.jpg", "013_3.jpg", "013_4.jpg"],
+    urls: ["https://play.google.com/store/apps/details?id=com.SeaMountain.UnityChan", "https://itunes.apple.com/app/id870035656", "http://qiita.com/seamountain@github/items/ab2c631d0785e653be34"],
+    tags: ["アプリ", "iOS", "Android", "ユニティちゃん"]
 }];
