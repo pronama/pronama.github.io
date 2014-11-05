@@ -134,4 +134,17 @@
     images: ["011_1.png"],
     urls: ["http://hyakuren-soft.sakura.ne.jp/window_athletic/"],
     tags: ["アプリ", "Windows", "プロ生ちゃん"]
+}, {
+    id: "12",
+    title: "あんずちゃんiPhoneケースレビュー",
+    desc: "SUZURIオフィシャルショップ「みくも屋」で購入した美雲あんずiPhoneケースのレビュー記事です。みんな買えば良いと思うよ。",
+    creator: {
+        name: "星影",
+        twitter: "unsoluble_sugar",
+        urls: ["http://unsolublesugar.com/"]
+    },
+    thumb: "012.jpg",
+    images: ["012_1.jpg"],
+    urls: ["http://unsolublesugar.com/20140903/212726/"],
+    tags: ["レビュー", "美雲あんず"]
 }];
