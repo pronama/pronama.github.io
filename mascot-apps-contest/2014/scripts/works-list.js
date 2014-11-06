@@ -125,7 +125,7 @@
     group: "にんじんグループ"
 }, {
     id: "11",
-    title: "「プロ生ちゃん」(ウィンドウ・アスレチックのテーマ)",
+    title: "「プロ生ちゃん」「東北ずん子」(ウィンドウ・アスレチックのテーマ)",
     desc: "ウィンドウ情報を利用したマスコット表示アプリです。ウィンドウの上をマスコットが走ったりできます。オープンソースで開発しており、Windows 用の実行ファイルを配布しています。",
     creator: {
         name: "satofumi"
@@ -133,7 +133,7 @@
     thumb: "011.png",
     images: ["011_1.png"],
     urls: ["http://hyakuren-soft.sakura.ne.jp/window_athletic/"],
-    tags: ["アプリ", "Windows", "プロ生ちゃん"]
+    tags: ["アプリ", "Windows", "プロ生ちゃん", "東北ずん子"]
 }, {
     id: "12",
     title: "あんずちゃんiPhoneケースレビュー",
@@ -171,4 +171,16 @@
     urls: ["http://panzersoft.blog.fc2.com/blog-entry-75.html"],
     tags: ["アプリ", "Windows", "ユニティちゃん"],
     group: "だいこんグループ"
+}, {
+    id: "15",
+    title: "ニコニ立体ちゃんのデスクトップマスコット",
+    desc: "ニコニ立体ちゃんのデスクトップマスコットを作りました。マウスホイールで拡大縮小、右クリックでグリグリ動くよ！",
+    creator: {
+        name: "yodaka",
+        twitter: "yodaka16"
+    },
+    thumb: "015.jpg",
+    images: ["015_1.gif", "015_2.jpg"],
+    urls: ["http://panzersoft.blog.fc2.com/blog-entry-74.html"],
+    tags: ["アプリ", "Windows", "ニコニ立体ちゃん"]
 }];
