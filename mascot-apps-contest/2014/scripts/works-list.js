@@ -158,4 +158,17 @@
     images: ["013_1.jpg", "013_2.jpg", "013_3.jpg", "013_4.jpg"],
     urls: ["https://play.google.com/store/apps/details?id=com.SeaMountain.UnityChan", "https://itunes.apple.com/app/id870035656", "http://qiita.com/seamountain@github/items/ab2c631d0785e653be34"],
     tags: ["アプリ", "iOS", "Android", "ユニティちゃん"]
+}, {
+    id: "14",
+    title: "ユニティちゃんライブのデスクトップマスコット",
+    desc: "ユニティちゃんライブのデスクトップマスコットを作りました。デスクトップ上でのライブをお楽しみ下さい！",
+    creator: {
+        name: "yodaka",
+        twitter: "yodaka16"
+    },
+    thumb: "014.jpg",
+    images: ["014_1.gif", "014_2.jpg"],
+    urls: ["http://panzersoft.blog.fc2.com/blog-entry-75.html"],
+    tags: ["アプリ", "Windows", "ユニティちゃん"],
+    group: "だいこんグループ"
 }];
