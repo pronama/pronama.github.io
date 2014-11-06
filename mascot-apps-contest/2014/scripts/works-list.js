@@ -183,4 +183,15 @@
     images: ["015_1.gif", "015_2.jpg"],
     urls: ["http://panzersoft.blog.fc2.com/blog-entry-74.html"],
     tags: ["アプリ", "Windows", "ニコニ立体ちゃん"]
+}, {
+    id: "16",
+    title: "MiniWOL",
+    desc: "Windows ストアアプリ用のWake on Lanアプリケーションです。代表アイコンに 美雲このは 美雲あんず 暮井 慧 クラウディア・窓辺 大鳥こはく クエリ・ラヴクラフトが使えます。Windows ストアアプリ版リモートデスクトップのお供にどうぞ",
+    creator: {
+        name: "nopnopnop"
+    },
+    thumb: "016.jpg",
+    images: ["016_1.jpg", "016_2.jpg", "016_3.jpg", "016_4.jpg", "016_5.jpg"],
+    urls: ["http://apps.microsoft.com/windows/ja-jp/app/miniwol/7d3e15bb-e60e-4f73-b927-1323603fb8aa"],
+    tags: ["アプリ", "Windows ストアアプリ", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "クエリちゃん"]
 }];
