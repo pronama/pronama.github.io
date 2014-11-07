@@ -80,7 +80,6 @@
             }
             $("#screenshots").html(ss);
             $("title").text(w.title + ' | マスコットアプリ文化祭 2014 (Mascot Character Apps Contest)');
-            $(".social-buttons").removeClass("hidden");
         }
     }
 
