@@ -206,4 +206,46 @@
     urls: ["https://play.google.com/store/apps/details?id=com.AAAAnoOtosigo.HackaNade"],
     tags: ["アプリ", "Android", "ハッカドール1号"],
     group: "だいこんグループ"
+}, {
+    id: "18",
+    title: "WordPressの記事内にUnity Web Playerを埋め込むプラグイン「UnityDog」を使ってニコニ立体ちゃんを動かしてみる",
+    desc: "ニコニ立体ちゃんをUnity Web Playerで動かしてみました。アニメーションにはユニティちゃんのUnityChanActionCheck.controllerを使っています。WordPressプラグインを使って、記事内にUnity Web Playerを埋め込んでみました。",
+    creator: {
+        name: "星影",
+        twitter: "unsoluble_sugar",
+        urls: ["http://unsolublesugar.com/"]
+    },
+    thumb: "018.jpg",
+    images: ["018_1.jpg"],
+    urls: ["http://unsolublesugar.com/20141102/224221/"],
+    tags: ["アプリ", "ニコニ立体ちゃん"]
+}, {
+    id: "19",
+    title: "プロ生ちゃんBluetoothキーボードレビュー",
+    desc: "プロ生ちゃん仕様のBluetoothキーボードをレビューさせていただきました。プロ生ちゃんマジ天使！",
+    creator: {
+        name: "星影",
+        twitter: "unsoluble_sugar",
+        urls: ["http://unsolublesugar.com/"]
+    },
+    thumb: "019.jpg",
+    images: ["019_1.jpg"],
+    urls: ["http://unsolublesugar.com/20141102/194835/"],
+    tags: ["レビュー", "プロ生ちゃん"]
 }];
+
+/*
+}, {
+    id: "",
+    title: "",
+    desc: "",
+    creator: {
+        name: "",
+        twitter: "",
+        urls: [""]
+    },
+    thumb: "0.jpg",
+    images: ["0_1.jpg", "0_2.jpg"],
+    urls: [""],
+    tags: ["アプリ"]
+*/
