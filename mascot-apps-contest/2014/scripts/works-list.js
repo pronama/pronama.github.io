@@ -96,7 +96,7 @@
     thumb: "008.jpg",
     images: ["008_1.jpg"],
     urls: ["http://blog.fujiu.jp/2014/10/2014.html"],
-    tags: ["アプリ", "Unity", "プロ生ちゃん", "クエリちゃん", "ユニティちゃん"],
+    tags: ["アプリ", "プロ生ちゃん", "クエリちゃん", "ユニティちゃん"],
     group: "にんじんグループ"
 }, {
     id: "9",
@@ -150,7 +150,7 @@
 }, {
     id: "13",
     title: "ゆにゆに！",
-    desc: "Unity Japan公式キャラクターことユニティちゃん！　ゆにゆに！はユニティちゃんの可愛さを存分に堪能できるアプリです。ユニティちゃんを触ったり、色んな角度から眺めたり…　※起動時及びタップ時にユニティちゃんが喋ってくれます。周囲の環境やボリュームにご注意下さい。",
+    desc: "Unity Japan公式キャラクターことユニティちゃん！　ゆにゆに！はユニティちゃんの可愛さを存分に堪能できるアプリです。ユニティちゃんを触ったり、色んな角度から眺めたり…　※起動時及びタップ時にユニティちゃんが喋ってくれます。周囲の環境やボリュームにご注意ください。",
     creator: {
         name: "sea_mountain"
     },
@@ -186,7 +186,7 @@
 }, {
     id: "16",
     title: "MiniWOL",
-    desc: "Windows ストアアプリ用のWake on Lanアプリケーションです。代表アイコンに 美雲このは 美雲あんず 暮井 慧 クラウディア・窓辺 大鳥こはく クエリ・ラヴクラフトが使えます。Windows ストアアプリ版リモートデスクトップのお供にどうぞ",
+    desc: "Windows ストアアプリ用のWake on Lanアプリケーションです。代表アイコンに 美雲このは 美雲あんず 暮井 慧 クラウディア・窓辺 大鳥こはく クエリ・ラヴクラフトが使えます。Windows ストアアプリ版リモートデスクトップのお供にどうぞ。",
     creator: {
         name: "nopnopnop"
     },
@@ -232,6 +232,20 @@
     images: ["019_1.jpg"],
     urls: ["http://unsolublesugar.com/20141102/194835/"],
     tags: ["レビュー", "プロ生ちゃん"]
+}, {
+    id: "20",
+    title: "WinLog",
+    desc: "「WinLog」はパソコンが起動した時間と起動を終了した時間や現在起動しているアプリの名前や起動時間などを表示するソフトです。",
+    creator: {
+        name: "木下優",
+        twitter: "kinositayuu",
+        urls: ["http://nsproject.web.fc2.com/"]
+    },
+    thumb: "020.jpg",
+    images: ["020_1.jpg"],
+    urls: ["http://nsproject.web.fc2.com/distribution/software/winlog.html"],
+    tags: ["アプリ", "Windows", "プロ生ちゃん"],
+    group: "NsProject"
 }];
 
 /*
