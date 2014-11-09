@@ -194,4 +194,16 @@
     images: ["016_1.jpg", "016_2.jpg", "016_3.jpg", "016_4.jpg", "016_5.jpg"],
     urls: ["http://apps.microsoft.com/windows/ja-jp/app/miniwol/7d3e15bb-e60e-4f73-b927-1323603fb8aa"],
     tags: ["アプリ", "Windows ストアアプリ", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "クエリちゃん"]
+}, {
+    id: "17",
+    title: "ハッカなで！",
+    desc: "Android用スマホゲーム。次々に現れるハッカちゃんをなでなでしてにこにこさせていってください。",
+    creator: {
+        name: "AAAAnoOtosigo"
+    },
+    thumb: "017.jpg",
+    images: ["017_1.jpg", "017_2.jpg"],
+    urls: ["https://play.google.com/store/apps/details?id=com.AAAAnoOtosigo.HackaNade"],
+    tags: ["アプリ", "Android", "ハッカドール1号"],
+    group: "だいこんグループ"
 }];
