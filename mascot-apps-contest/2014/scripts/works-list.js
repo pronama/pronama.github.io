@@ -246,6 +246,18 @@
     urls: ["http://nsproject.web.fc2.com/distribution/software/winlog.html"],
     tags: ["アプリ", "Windows", "プロ生ちゃん"],
     group: "NsProject"
+}, {
+    id: "21",
+    title: "プロ生10プレイヤー",
+    desc: "このアプリは、YouTubeから検索した上位１０項目を連続で再生するアプリです。好きな曲名を検索していろんな人のカバーを聞いたり、好きな歌手名を検索してその歌手のいろんな曲を聴いたり。使い方によっていろんなことができます！　作業時につかうのがおすすめ♪",
+    creator: {
+        name: "Kawakawa",
+        twitter: "kawakawaritsuki"
+    },
+    thumb: "021.jpg",
+    images: ["021_1.jpg"],
+    urls: ["https://play.google.com/store/apps/details?id=com.KawakawaPlanning.pronamatenplayer"],
+    tags: ["アプリ","Android","プロ生ちゃん"]
 }];
 
 /*
