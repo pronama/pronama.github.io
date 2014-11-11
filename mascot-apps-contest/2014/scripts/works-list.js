@@ -258,6 +258,18 @@
     images: ["021_1.jpg"],
     urls: ["https://play.google.com/store/apps/details?id=com.KawakawaPlanning.pronamatenplayer"],
     tags: ["アプリ","Android","プロ生ちゃん"]
+}, {
+    id: "22",
+    title: "ゆにおん -ユニティちゃんと日本語発音練習-",
+    desc: "ユニティちゃんと日本語の発音練習ができるアンドロイド向けスマホアプリです。日本語を母国語としない方を対象としたアプリなので、日本人には不要なものだと感じるかもしれませんが、遊んでみると日本語の発音の難しさに気づくことができます。☆チュートリアルも完備しています!!",
+    creator: {
+        name: "unity_atelier",
+        twitter: "unity_atelier"
+    },
+    thumb: "022.jpg",
+    images: ["022_1.jpg", "022_2.jpg", "022_3.jpg", "022_4.jpg"],
+    urls: ["https://play.google.com/store/apps/details?id=jp.ac.pukumamoto.union&hl=ja"],
+    tags: ["アプリ", "Anroid", "ユニティちゃん"]
 }];
 
 /*
