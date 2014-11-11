@@ -269,7 +269,19 @@
     thumb: "022.jpg",
     images: ["022_1.jpg", "022_2.jpg", "022_3.jpg", "022_4.jpg"],
     urls: ["https://play.google.com/store/apps/details?id=jp.ac.pukumamoto.union&hl=ja"],
-    tags: ["アプリ", "Anroid", "ユニティちゃん"]
+    tags: ["アプリ", "Android", "ユニティちゃん"]
+}, {
+    id: "23",
+    title: "カロム",
+    desc: "Carromと呼ばれるビリヤードのようなおはじきのようなゲームのアレンジ版です。自分のコマをはじいて、赤い玉12個をポケットへいれていきます。最後に黄色いコマをポケットに入れると勝ち、というゲームです。",
+    creator: {
+        name: "tatta",
+        twitter: "tatta_app"
+    },
+    thumb: "023.jpg",
+    images: ["023_1.jpg", "023_2.jpg", "023_3.jpg"],
+    urls: ["https://play.google.com/store/apps/details?id=jp.mk.carom"],
+    tags: ["アプリ", "Android", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "クエリちゃん"]
 }];
 
 /*
