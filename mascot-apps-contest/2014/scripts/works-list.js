@@ -34,7 +34,7 @@
     thumb: "003.jpg",
     images: ["003_1.jpg", "003_2.jpg", "003_3.jpg", "003_4.jpg", "003_5.jpg", "003_6.jpg", "003_7.jpg"],
     urls: ["http://mikumikumouth.net/"],
-    tags: ["アプリ", "Windows", "プロ生ちゃん", "東北ずん子"]
+    tags: ["アプリ", "Windows", "プロ生ちゃん", "東北ずん子", "ユニティちゃん", "ニコニ立体ちゃん"]
 }, {
     id: "4",
     title: "Dancing Claudia",
