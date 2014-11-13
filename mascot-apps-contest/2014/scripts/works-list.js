@@ -257,7 +257,7 @@
     thumb: "021.jpg",
     images: ["021_1.jpg"],
     urls: ["https://play.google.com/store/apps/details?id=com.KawakawaPlanning.pronamatenplayer"],
-    tags: ["アプリ","Android","プロ生ちゃん"]
+    tags: ["アプリ", "Android", "プロ生ちゃん"]
 }, {
     id: "22",
     title: "ゆにおん -ユニティちゃんと日本語発音練習-",
@@ -282,6 +282,29 @@
     images: ["023_1.jpg", "023_2.jpg", "023_3.jpg"],
     urls: ["https://play.google.com/store/apps/details?id=jp.mk.carom"],
     tags: ["アプリ", "Android", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "クエリちゃん"]
+}, {
+    id: "24",
+    title: "gbacal #マスコットアプリ文化祭 2014 版",
+    desc: "『プロ生ちゃん #カレンダープログラミング プチコンテスト 2014』参加作品『ゲームボーイアドバンスで #カレンダープログラミング』に背景画像の表示を追加してマスコットアプリ化しました。",
+    creator: {
+        name: "yoheie",
+        twitter: "yoheie"
+    },
+    thumb: "024.jpg",
+    images: ["024_1.jpg", "024_2.jpg"],
+    urls: ["http://yoheie.sakura.ne.jp/misc/mascotapp2014/"],
+    tags: ["アプリ", "GAMEBOY", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "クエリちゃん"]
+}, {
+    id: "25",
+    title: "クラウディアさん",
+    desc: "大沖さんのイラストを使用した壁紙です。",
+    creator: {
+        name: "bell"
+    },
+    thumb: "025.png",
+    images: ["025_1.png"],
+    urls: ["http://www.pixiv.net/member_illust.php?mode=medium&illust_id=47061107"],
+    tags: ["イラスト", "クラウディア"]
 }];
 
 /*
