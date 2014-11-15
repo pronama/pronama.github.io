@@ -305,6 +305,31 @@
     images: ["025_1.png"],
     urls: ["http://www.pixiv.net/member_illust.php?mode=medium&illust_id=47061107"],
     tags: ["イラスト", "クラウディア"]
+}, {
+    id: "26",
+    title: "このは×あんずちゃんの二人いっしょ！！壁紙",
+    desc: "清楚かわいいこのはちゃんとあんずちゃんの二人を使いやすいデザインで壁紙にしました。開発マシンのデスクトップにどうぞ！",
+    creator: {
+        name: "かっぱてっく",
+        twitter: "9appat3ch",
+        urls: ["http://7thray-rcds.sakura.ne.jp/"]
+    },
+    thumb: "026.jpg",
+    images: ["026_1.jpg", "026_2.jpg"],
+    urls: ["http://7thray-rcds.sakura.ne.jp/conoha-anzu-dual-wallpaper/"],
+    tags: ["イラスト", "三雲あんず", "三雲このは"]
+}, {
+    id: "27",
+    title: "デキる女！プロ生ちゃん！",
+    desc: "プログラムなんて書けない人なので代わりに絵を描いたよ！背景のほうが時間かかったよ！　背景に使用した画像も公開しています。無駄にループしてしまう迷惑設定なので並べて壁紙にするとモニタ全面がわっちゃいわっちゃいヾ(・∀・)ノ",
+    creator: {
+        name: "そぉいお茶",
+        twitter: "soi_ocha"
+    },
+    thumb: "027.jpg",
+    images: ["027_1.jpg"],
+    urls: ["http://seiga.nicovideo.jp/seiga/im4451311", "http://seiga.nicovideo.jp/seiga/im4451399"],
+    tags: ["イラスト", "プロ生ちゃん"]
 }];
 
 /*
