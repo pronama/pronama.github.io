@@ -330,6 +330,19 @@
     images: ["027_1.jpg"],
     urls: ["http://seiga.nicovideo.jp/seiga/im4451311", "http://seiga.nicovideo.jp/seiga/im4451399"],
     tags: ["イラスト", "プロ生ちゃん"]
+}, {
+    id: "28",
+    title: "東北ずん子ふせんメモ ウィジェット",
+    desc: "東北地方応援のご当地キャラクター、東北ずん子のふせんメモウィジェットです。ちょっとした事や、忘れたくないことをメモしたい時に便利です。メモするだけではなく、見て楽しむふせんをつくることができます。ホーム画面の好き場所に貼り付けて画面を賑やかにしましょう！",
+    creator: {
+        name: "ねこみみのじゅん",
+        twitter: "N__jun"
+    },
+    thumb: "028.jpg",
+    images: ["028_1.jpg"],
+    urls: ["https://play.google.com/store/apps/details?id=jun.n.tagapp"],
+    tags: ["アプリ", "Android", "東北ずん子"],
+    group: "だいこんグループ"
 }];
 
 /*
