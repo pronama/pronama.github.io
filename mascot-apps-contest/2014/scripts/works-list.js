@@ -343,6 +343,18 @@
     urls: ["https://play.google.com/store/apps/details?id=jun.n.tagapp"],
     tags: ["アプリ", "Android", "東北ずん子"],
     group: "だいこんグループ"
+}, {
+    id: "29",
+    title: "「あんずちゃん」(バッテリーモニターのテーマ)",
+    desc: "ノートPC 用のバッテリーモニターアプリです。バッテリーの残量や残り時間を表示できます。オープンソースで開発しており、Windows 用の実行ファイルを配布しています。",
+    creator: {
+        name: "satofumi",
+        twitter: "satofumi_"
+    },
+    thumb: "029.png",
+    images: ["029_1.png"],
+    urls: ["http://hyakuren-soft.sakura.ne.jp/qlm_batmon/"],
+    tags: ["アプリ", "Windows", "美雲あんず"]
 }];
 
 /*
