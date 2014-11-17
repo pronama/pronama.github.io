@@ -317,7 +317,7 @@
     thumb: "026.jpg",
     images: ["026_1.jpg", "026_2.jpg"],
     urls: ["http://7thray-rcds.sakura.ne.jp/conoha-anzu-dual-wallpaper/"],
-    tags: ["イラスト", "三雲あんず", "三雲このは"]
+    tags: ["イラスト", "美雲あんず", "美雲このは"]
 }, {
     id: "27",
     title: "デキる女！プロ生ちゃん！",
