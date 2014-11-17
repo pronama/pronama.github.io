@@ -355,6 +355,28 @@
     images: ["029_1.png"],
     urls: ["http://hyakuren-soft.sakura.ne.jp/qlm_batmon/"],
     tags: ["アプリ", "Windows", "美雲あんず"]
+}, {
+    id: "30",
+    title: "東北ずん子IDE",
+    desc: "テキストエディタの背景をずん子ちゃんにするVisual Studio用拡張機能です。プロ生ちゃんIDEやクラウディアIDEがあるのに、ずん子IDEがないので、作ってみました！Visual Studio 2012/2013/2015 Previewに対応しています。今後は画像を選べたり、透明度や位置を調整できる機能を付ける予定です（いつになるかは未定）。",
+    creator: {
+        name: "窓辺ありにゃん"
+    },
+    thumb: "030.jpg",
+    images: ["030_1.jpg"],
+    urls: ["https://visualstudiogallery.msdn.microsoft.com/e96383c1-952f-40fc-acdf-5597279352d5"],
+    tags: ["アプリ", "Windows", "東北ずん子"]
+}, {
+    id: "31",
+    title: "文化祭のしおり - マスコットアプリ文化祭2014 -",
+    desc: "アドベンチャー形式で「マスコットアプリ文化祭2014」の主催・協賛団体のキャラクターたちを簡単に紹介する、「しおり」的なアプリです。",
+    creator: {
+        name: "masamiya-labo"
+    },
+    thumb: "031.jpg",
+    images: ["031_1.jpg", "031_2.jpg"],
+    urls: ["https://play.google.com/store/apps/details?id=jp.ne.sakura.masamiyalabo.mab2014shiori"],
+    tags: ["アプリ", "Android", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "クエリちゃん", "東北ずん子", "ハッカドール1号"]
 }];
 
 /*
