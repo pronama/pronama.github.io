@@ -377,6 +377,18 @@
     images: ["031_1.jpg", "031_2.jpg"],
     urls: ["https://play.google.com/store/apps/details?id=jp.ne.sakura.masamiyalabo.mab2014shiori"],
     tags: ["アプリ", "Android", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "クエリちゃん", "東北ずん子", "ハッカドール1号"]
+}, {
+    id: "32",
+    title: "マスコットアプリ文化祭2014ライブ壁紙",
+    desc: "かわいいマスコットキャラクターのライブ壁紙です！",
+    creator: {
+        name: "kojiokb",
+        twitter: "kojiokb"
+    },
+    thumb: "032.jpg",
+    images: ["032_1.jpg", "032_2.jpg", "032_3.jpg", "032_4.jpg", "032_5.jpg", "032_6.jpg"],
+    urls: ["https://play.google.com/store/apps/details?id=com.tytosoft.mascotlivewallpaper"],
+    tags: ["アプリ", "Android", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "クエリちゃん"]
 }];
 
 /*
