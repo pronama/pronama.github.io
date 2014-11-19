@@ -252,7 +252,8 @@
     desc: "このアプリは、YouTubeから検索した上位１０項目を連続で再生するアプリです。好きな曲名を検索していろんな人のカバーを聞いたり、好きな歌手名を検索してその歌手のいろんな曲を聴いたり。使い方によっていろんなことができます！　作業時につかうのがおすすめ♪",
     creator: {
         name: "Kawakawa",
-        twitter: "kawakawaritsuki"
+        twitter: "kawakawaritsuki",
+        urls: ["http://www.haginet.ne.jp/users/cdi79821/"]
     },
     thumb: "021.jpg",
     images: ["021_1.jpg"],
@@ -388,6 +389,19 @@
     thumb: "032.jpg",
     images: ["032_1.jpg", "032_2.jpg", "032_3.jpg", "032_4.jpg", "032_5.jpg", "032_6.jpg"],
     urls: ["https://play.google.com/store/apps/details?id=com.tytosoft.mascotlivewallpaper"],
+    tags: ["アプリ", "Android", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "クエリちゃん"]
+}, {
+    id: "33",
+    title: "プロ生ブラウザー",
+    desc: "サイト読み込み中にプロ生ちゃんが走ります！　いつでもGoogle検索ができます！　直感で触れる用になってます。プロ生ちゃんたちをずっと見ていたい人におすすめ！",
+    creator: {
+        name: "Kawakawa",
+        twitter: "kawakawaritsuki",
+        urls: ["http://www.haginet.ne.jp/users/cdi79821/"]
+    },
+    thumb: "033.jpg",
+    images: ["033_1.jpg", "033_2.jpg", "033_3.jpg", "033_4.jpg"],
+    urls: ["http://play.google.com/store/apps/details?id=com.kawakawaplanning.pronamabrowser"],
     tags: ["アプリ", "Android", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "クエリちゃん"]
 }];
 
