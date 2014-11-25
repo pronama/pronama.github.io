@@ -44,8 +44,9 @@ $(function () {
         $("#modal").modal();
     });
 
-    $("#character-img").click(function () {
+    $("#character-img").click(function () {        
         $("#modal").modal("hide");
+        $("#character-img").attr("src", "");
     });
 
     var cinfo = [{

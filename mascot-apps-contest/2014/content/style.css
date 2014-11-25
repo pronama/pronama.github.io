@@ -106,17 +106,20 @@ img.work {
 @media (min-width: 768px) {
   .col-sm-15 {
     width: 20%;
-    float: left; } }
+    float: left; }
+ }
 
 @media (min-width: 992px) {
   .col-md-15 {
     width: 20%;
-    float: left; } }
+    float: left; }
+ }
 
 @media (min-width: 1200px) {
   .col-lg-15 {
     width: 20%;
-    float: left; } }
+    float: left; }
+ }
 
 .vcenter {
   display: inline-block;
@@ -149,14 +152,17 @@ img.work {
 @media (min-width: 768px) {
   .navbar .navbar-inner {
     padding: 0; }
+
   .navbar .nav {
     margin: 0;
     display: table;
     width: 100%; }
+
   .navbar .nav > li {
     display: table-cell;
     float: none;
-    text-align: center; } }
+    text-align: center; }
+ }
 
 /* faces */
 .face-anzu-chan {
@@ -273,5 +279,8 @@ div#likebox_container .fbcomments, div#likebox_container .fb_iframe_widget, div#
 
 #screenshots img {
   margin-bottom: 30px; }
+
+img.screenshot {
+  cursor: pointer; }
 
 /*# sourceMappingURL=style.css.map */

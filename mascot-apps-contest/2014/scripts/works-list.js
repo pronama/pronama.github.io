@@ -35,6 +35,7 @@
     images: ["003_1.jpg", "003_2.jpg", "003_3.jpg", "003_4.jpg", "003_5.jpg", "003_6.jpg", "003_7.jpg"],
     urls: ["http://mikumikumouth.net/"],
     tags: ["アプリ", "Windows", "プロ生ちゃん", "東北ずん子", "ユニティちゃん", "ニコニ立体ちゃん"]
+    // group: none
 }, {
     id: "4",
     title: "Dancing Claudia",
@@ -73,6 +74,7 @@
     images: ["006_1.jpg", "006_2.jpg"],
     urls: ["http://www.hyakuren-soft.sakura.ne.jp/koshikake/"],
     tags: ["アプリ", "Windows", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "クエリちゃん"]
+    // group: none
 }, {
     id: "7",
     title: "マスコットアプリ文化祭2014の協賛キャラにずん子さんがいます！",
@@ -109,6 +111,7 @@
     images: ["009_1.png"],
     urls: ["http://www.pixiv.net/member_illust.php?mode=medium&illust_id=46814447"],
     tags: ["イラスト", "プロ生ちゃん"]
+    // group: none
 }, {
     id: "10",
     title: "コミポDEプロなま プロ生ちゃん×東北ずん子×クラウディ窓辺",
@@ -133,7 +136,8 @@
     thumb: "011.png",
     images: ["011_1.png"],
     urls: ["http://hyakuren-soft.sakura.ne.jp/window_athletic/"],
-    tags: ["アプリ", "Windows", "プロ生ちゃん", "東北ずん子"]
+    tags: ["アプリ", "Windows", "プロ生ちゃん", "東北ずん子"],
+    // group: none
 }, {
     id: "12",
     title: "あんずちゃんiPhoneケースレビュー",
@@ -146,7 +150,8 @@
     thumb: "012.jpg",
     images: ["012_1.jpg"],
     urls: ["http://unsolublesugar.com/20140903/212726/"],
-    tags: ["レビュー", "美雲あんず"]
+    tags: ["レビュー", "美雲あんず"],
+    group: "ごぼうグループ"
 }, {
     id: "13",
     title: "ゆにゆに！",
@@ -158,6 +163,7 @@
     images: ["013_1.jpg", "013_2.jpg", "013_3.jpg", "013_4.jpg"],
     urls: ["https://play.google.com/store/apps/details?id=com.SeaMountain.UnityChan", "https://itunes.apple.com/app/id870035656", "http://qiita.com/seamountain@github/items/ab2c631d0785e653be34"],
     tags: ["アプリ", "iOS", "Android", "ユニティちゃん"]
+    // group: none
 }, {
     id: "14",
     title: "ユニティちゃんライブのデスクトップマスコット",
@@ -194,6 +200,7 @@
     images: ["016_1.jpg", "016_2.jpg", "016_3.jpg", "016_4.jpg", "016_5.jpg"],
     urls: ["http://apps.microsoft.com/windows/ja-jp/app/miniwol/7d3e15bb-e60e-4f73-b927-1323603fb8aa"],
     tags: ["アプリ", "Windows ストアアプリ", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "クエリちゃん"]
+    // group: none
 }, {
     id: "17",
     title: "ハッカなで！",
@@ -231,7 +238,8 @@
     thumb: "019.jpg",
     images: ["019_1.jpg"],
     urls: ["http://unsolublesugar.com/20141102/194835/"],
-    tags: ["レビュー", "プロ生ちゃん"]
+    tags: ["レビュー", "プロ生ちゃん"],
+    group: "ごぼうグループ"
 }, {
     id: "20",
     title: "WinLog",
@@ -259,6 +267,7 @@
     images: ["021_1.jpg"],
     urls: ["https://play.google.com/store/apps/details?id=com.KawakawaPlanning.pronamatenplayer"],
     tags: ["アプリ", "Android", "プロ生ちゃん"]
+    // group: none
 }, {
     id: "22",
     title: "ゆにおん -ユニティちゃんと日本語発音練習-",
@@ -271,6 +280,7 @@
     images: ["022_1.jpg", "022_2.jpg", "022_3.jpg", "022_4.jpg"],
     urls: ["https://play.google.com/store/apps/details?id=jp.ac.pukumamoto.union&hl=ja"],
     tags: ["アプリ", "Android", "ユニティちゃん"]
+    // group: none
 }, {
     id: "23",
     title: "カロム",
@@ -283,6 +293,7 @@
     images: ["023_1.jpg", "023_2.jpg", "023_3.jpg"],
     urls: ["https://play.google.com/store/apps/details?id=jp.mk.carom"],
     tags: ["アプリ", "Android", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "クエリちゃん"]
+    // group: none
 }, {
     id: "24",
     title: "gbacal #マスコットアプリ文化祭 2014 版",
@@ -295,6 +306,7 @@
     images: ["024_1.jpg", "024_2.jpg"],
     urls: ["http://yoheie.sakura.ne.jp/misc/mascotapp2014/"],
     tags: ["アプリ", "GAMEBOY", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "クエリちゃん"]
+    // group: none
 }, {
     id: "25",
     title: "クラウディアさん",
@@ -305,7 +317,8 @@
     thumb: "025.png",
     images: ["025_1.png"],
     urls: ["http://www.pixiv.net/member_illust.php?mode=medium&illust_id=47061107"],
-    tags: ["イラスト", "クラウディア"]
+    tags: ["イラスト", "クラウディア"],
+    group: "ごぼうグループ"
 }, {
     id: "26",
     title: "このは×あんずちゃんの二人いっしょ！！壁紙",
@@ -318,7 +331,8 @@
     thumb: "026.jpg",
     images: ["026_1.jpg", "026_2.jpg"],
     urls: ["http://7thray-rcds.sakura.ne.jp/conoha-anzu-dual-wallpaper/"],
-    tags: ["イラスト", "美雲あんず", "美雲このは"]
+    tags: ["イラスト", "美雲あんず", "美雲このは"],
+    group: "ごぼうグループ"
 }, {
     id: "27",
     title: "デキる女！プロ生ちゃん！",
@@ -330,7 +344,8 @@
     thumb: "027.jpg",
     images: ["027_1.jpg"],
     urls: ["http://seiga.nicovideo.jp/seiga/im4451311", "http://seiga.nicovideo.jp/seiga/im4451399"],
-    tags: ["イラスト", "プロ生ちゃん"]
+    tags: ["イラスト", "プロ生ちゃん"],
+    group: "ごぼうグループ"
 }, {
     id: "28",
     title: "東北ずん子ふせんメモ ウィジェット",
@@ -356,6 +371,7 @@
     images: ["029_1.png"],
     urls: ["http://hyakuren-soft.sakura.ne.jp/qlm_batmon/"],
     tags: ["アプリ", "Windows", "美雲あんず"]
+    // group: none
 }, {
     id: "30",
     title: "東北ずん子IDE",
@@ -367,6 +383,7 @@
     images: ["030_1.jpg"],
     urls: ["https://visualstudiogallery.msdn.microsoft.com/e96383c1-952f-40fc-acdf-5597279352d5"],
     tags: ["アプリ", "Windows", "東北ずん子"]
+    // group: none
 }, {
     id: "31",
     title: "文化祭のしおり - マスコットアプリ文化祭2014 -",
@@ -378,6 +395,7 @@
     images: ["031_1.jpg", "031_2.jpg"],
     urls: ["https://play.google.com/store/apps/details?id=jp.ne.sakura.masamiyalabo.mab2014shiori"],
     tags: ["アプリ", "Android", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "クエリちゃん", "東北ずん子", "ハッカドール1号"]
+    // group: none
 }, {
     id: "32",
     title: "マスコットアプリ文化祭2014ライブ壁紙",
@@ -390,6 +408,7 @@
     images: ["032_1.jpg", "032_2.jpg", "032_3.jpg", "032_4.jpg", "032_5.jpg", "032_6.jpg"],
     urls: ["https://play.google.com/store/apps/details?id=com.tytosoft.mascotlivewallpaper"],
     tags: ["アプリ", "Android", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "クエリちゃん"]
+    // group: none
 }, {
     id: "33",
     title: "プロ生ブラウザー",
@@ -403,6 +422,7 @@
     images: ["033_1.jpg", "033_2.jpg", "033_3.jpg", "033_4.jpg"],
     urls: ["http://play.google.com/store/apps/details?id=com.kawakawaplanning.pronamabrowser"],
     tags: ["アプリ", "Android", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "クエリちゃん"]
+    // group: none
 }, {
     id: "34",
     title: "マスコットアプリ文化祭2014を紹介するよ！",
@@ -415,6 +435,117 @@
     images: ["034_1.jpg", "034_2.jpg"],
     urls: ["http://www.nicovideo.jp/watch/sm24952822 "],
     tags: ["動画", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "クエリちゃん", "東北ずん子", "ハッカドール1号"],
+    group: "おでん"
+}, {
+    id: "35",
+    title: "Window Athletic の仕組み",
+    desc: "Window Athletic とは、デスクトップ上のウィンドウ情報を取得して、マスコット画像を表示するアプリです。このアプリの仕組みを解説していきます。",
+    creator: {
+        name: "satofumi"
+    },
+    thumb: "035.jpg",
+    images: ["035_1.jpg"],
+    urls: ["http://ads-service.sakura.ne.jp/blog/?tag=window-athletic"],
+    tags: ["開発記事", "プロ生ちゃん", "東北ずん子"]
+}, {
+    id: "36",
+    title: "プロ生ちゃんとじゃんけん（プロ生ちゃんソフト）",
+    desc: "RPGは難しかったので、プロ生ちゃんのドット絵でじゃんけんゲーを作らせていただきました。",
+    creator: {
+        name: "水っぽいスープ"
+    },
+    thumb: "036.jpg",
+    images: ["036_1.jpg"],
+    urls: ["http://www.pixiv.net/member_illust.php?mode=medium&illust_id=46456667", "http://sky.geocities.jp/cloudy_blue_darksky/zip/janken.html"],
+    tags: ["アプリ", "Windows", "プロ生ちゃん"]
+}, {
+    id: "37",
+    title: "「東北ずん子」素材３種(svg、png、eps)",
+    desc: "イラストは今年９月のずんだチャレンジにて描いたもの。後日、レイヤー不備に気がつき若干の修正を加えたものを素材として公開。\nsvg：htmlなどのソースに貼り付けて使えるベクターデータ。私はJavascriptとかで動かしたことなく、ただ試しにIllustrator CS5からそのまま出力しただけなので過度な期待はしないように…\npng：絵描きにお馴染みのファイル形式。JPEGと違い保存時に画像が劣化しません。バックは透過にし、元がベクターデータなのを良いことに高画素で出力。色はsRGBに変換しています。\neps：CMYKで作成。黒を全てリッチブラックにしているのでスミ乗せ設定の印刷でも安心ね！ずん子ちゃんのガイドライン範囲内であれば、東北企業さんは一声戴ければ特に制限無くに使用ＯＫです。",
+    creator: {
+        name: "ハイガブレイク",
+        twitter: "highgabreak"
+    },
+    thumb: "037.jpg",
+    images: ["037_1.jpg", "037_2.png"],
+    urls: ["https://twitter.com/highgabreak/status/536525898648797185"],
+    tags: ["素材", "東北ずん子"]
+    // group: none
+}, {
+    id: "38",
+    title: "ずんだあろぅ",
+    desc: "東北ずん子によるずんだ増殖計画始動！　ずんだアローですべての餅をずんだ餅に変えてるのだ！　簡単操作のモチモチずんだシューティングパズルゲームです。",
+    creator: {
+        name: "生駒祥平"
+    },
+    thumb: "038.jpg",
+    images: ["038_1.jpg", "038_2.jpg", "038_3.jpg"],
+    urls: ["https://play.google.com/store/apps/details?id=jp.ac.trident.computer.s132011.ZundaArrow"],
+    tags: ["アプリ", "Android", "東北ずんこ"]
+    // group: none
+}, {
+    id: "39",
+    title: "「プロ生ちゃん時計」(テーマ時計のテーマ)",
+    desc: "時計アプリです。テーマを切り替えて見た目を変更できます。オープンソースで開発しており、Windows 用の実行ファイルを配布しています。",
+    creator: {
+        name: "satofumi",
+        twitter: "satofumi_"
+    },
+    thumb: "039.jpg",
+    images: ["039_1.jpg"],
+    urls: ["http://hyakuren-soft.sakura.ne.jp/qtmclock/"],
+    tags: ["アプリ", "Windows", "プロ生ちゃん"]
+    // group: none
+}, {
+    id: "40",
+    title: "進捗を見守るプロ生ちゃん",
+    desc: "インターネットブラウザーの使用時間を自動的に測定するWindowsデスクトップアプリです。進捗を気にする作業中でも、ついやってしまう長時間のブラウジング。このアプリを使えばブラウジングの累計時間が表示されるので、どのくらいの時間を無駄にしたか一目で確認することが出来ます。さらにブラウジング中は「＼やべえ／」に表示が変わるので、ブラウジングを早く終わらせないと「＼やべえ／」と意識させる効果があるかもしれません。",
+    creator: {
+        name: "めむくろ",
+        twitter: "MEMchro"
+    },
+    thumb: "040.png",
+    images: ["040_1.jpg", "040_2.png", "040_3.jpg", "040_4.jpg"],
+    urls: ["http://mem96.moe-nifty.com/clock/2014/11/post-2f55.html"],
+    tags: ["アプリ", "Windows", "プロ生ちゃん"],
+    group: "ごぼうグループ"
+}, {
+    id: "41",
+    title: "ゆにてぃ-chanを右に",
+    desc: "Android用スマホゲーム。次々に現れるキャラクター達を左右のフリックでしわけていってください。",
+    creator: {
+        name: "AAAAnoOtosigo"
+    },
+    thumb: "041.jpg",
+    images: ["041_1.jpg", "041_2.jpg", "041_3.jpg", "041_4.jpg"],
+    urls: ["https://play.google.com/store/apps/details?id=com.AAAAnoOtosigo.UnitychanFlick"],
+    tags: ["アプリ", "Android", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "クエリちゃん"],
+    group: "だいこんグループ"
+}, {
+    id: "42",
+    title: "転がーるず",
+    desc: "Window Athletic 用のテーマです。マスコットアプリ文化祭の看板娘たちが元気に転がります。",
+    creator: {
+        name: "MtCedar"
+    },
+    thumb: "042.jpg",
+    images: ["042_1.jpg"],
+    urls: ["https://sites.google.com/site/windowathleticmascots/home"],
+    tags: ["アプリ", "Windows", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "クエリちゃん"]
+    // group: none
+}, {
+    id: "43",
+    title: "マスコット神経衰弱",
+    desc: "マスコットのカードを使ったシンプルな神経衰弱です。CPUと獲得枚数を競います。CPUのレベルには「かんたん」「ふつう」「むずかしい」の3つがあります。  ",
+    creator: {
+        name: "ogamita777",
+        twitter: "ogamita777",
+        urls: ["http://ogamita777.info/"]
+    },
+    thumb: "043.jpg",
+    images: ["043_1.jpg", "043_2.jpg", "043_3.jpg"],
+    urls: ["https://play.google.com/store/apps/details?id=info.ogamita777.mascotconcentration"],
+    tags: ["アプリ", "Android", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "クエリちゃん", "東北ずん子", "ハッカドール1号"],
     group: "おでん"
 }];
 
