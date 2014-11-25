@@ -46,8 +46,11 @@ $(function () {
 
     $("#character-img").click(function () {        
         $("#modal").modal("hide");
-        $("#character-img").attr("src", "");
     });
+
+    $('#modal').on('hidden.bs.modal', function (e) {
+        $("#character-img").attr("src", "");
+    })
 
     var cinfo = [{
         name: "美雲このは",

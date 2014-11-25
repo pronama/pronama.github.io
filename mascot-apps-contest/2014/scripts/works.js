@@ -106,7 +106,9 @@
     });
     $("#work-image").click(function () {
         $("#work-modal").modal("hide");
-        $("#work-image").attr("src", "");
     });
+    $('#work-modal').on('hidden.bs.modal', function (e) {
+        $("#work-image").attr("src", "");
+    })
 
 })(jQuery);
