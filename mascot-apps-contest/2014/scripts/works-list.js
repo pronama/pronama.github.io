@@ -474,14 +474,14 @@
 }, {
     id: "38",
     title: "ずんだあろぅ",
-    desc: "東北ずん子によるずんだ増殖計画始動！　ずんだアローですべての餅をずんだ餅に変えてるのだ！　簡単操作のモチモチずんだシューティングパズルゲームです。",
+    desc: "東北ずん子によるずんだ増殖計画始動！　ずんだアローですべての餅をずんだ餅に変えるのだ！　簡単操作のモチモチずんだシューティングパズルゲームです。",
     creator: {
         name: "生駒祥平"
     },
     thumb: "038.jpg",
     images: ["038_1.jpg", "038_2.jpg", "038_3.jpg"],
     urls: ["https://play.google.com/store/apps/details?id=jp.ac.trident.computer.s132011.ZundaArrow"],
-    tags: ["アプリ", "Android", "東北ずんこ"]
+    tags: ["アプリ", "Android", "東北ずん子"]
     // group: none
 }, {
     id: "39",
