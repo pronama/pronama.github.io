@@ -547,6 +547,69 @@
     urls: ["https://play.google.com/store/apps/details?id=info.ogamita777.mascotconcentration"],
     tags: ["アプリ", "Android", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "クエリちゃん", "東北ずん子", "ハッカドール1号"],
     group: "おでん"
+}, {
+    id: "44",
+    title: "このはのかさ予報",
+    desc: "朝、でかけるときに「このは」ちゃんがボイスアラームで傘をもったほうがいいかアドバイスをしてくれます。",
+    creator: {
+        name: "kawauchi"
+    },
+    thumb: "044.jpg",
+    images: ["044_1.jpg", "044_2.jpg", "044_3.jpg", "044_4.jpg", "044_5.jpg"],
+    urls: ["https://play.google.com/store/apps/details?id=info.mochidango.tenki"],
+    tags: ["アプリ", "Android", "美雲このは"]
+    // group: none
+}, {
+    id: "45",
+    title: "脱出迷路",
+    desc: "迷路内に、散らばったコインを回収するゲームです。",
+    creator: {
+        name: "TKTK360"
+    },
+    thumb: "045.jpg",
+    images: ["045_1.jpg", "045_2.jpg", "045_3.jpg"],
+    urls: ["http://apps.microsoft.com/windows/app/a3fc1b32-c565-4e25-8ed0-ea5f7c6fe95e"],
+    tags: ["アプリ", "Windows ストアアプリ", "ユニティちゃん"]
+    // group: none
+}, {
+    id: "46",
+    title: "デバッグパニック！！",
+    desc: "プログラミング大好き少女の『暮井慧』、通称プロ生ちゃん。彼女が起こしたとんでもないバグは、３次元にＰＣ内データが飛び出すというとんでもないものだった！！　ＰＣの画面から次々に飛び出すＰＣ内データを、スマートフォンを傾けてパソコンの画面に戻してあげよう。",
+    creator: {
+        name: "冨田誉人",
+        twitter: "kuusan_1"
+    },
+    thumb: "046.jpg",
+    images: ["046_1.jpg", "046_2.jpg", "046_3.jpg"],
+    urls: ["https://play.google.com/store/apps/details?id=jp.ac.trident.computer.s132123.Debug_Room"],
+    tags: ["アプリ", "Android", "プロ生ちゃん"]
+    // group: none
+}, {
+    id: "47",
+    title: "ナンバーコード",
+    desc: "数字を使った算数パズル！！　プロ生ちゃんにタップで指示してクリアを目指せ！",
+    creator: {
+        name: "dm19950324",
+        twitter: "dm19950324"
+    },
+    thumb: "047.jpg",
+    images: ["047_1.jpg", "047_2.jpg", "047_3.jpg"],
+    urls: ["https://play.google.com/store/apps/details?id=jp.ac.trident.computer.s132172.mascot_game"],
+    tags: ["アプリ", "Android", "プロ生ちゃん"]
+    // group: none
+}, {
+    id: "48",
+    title: "ぷにる道",
+    desc: "プロ生ちゃん（暮井 慧）をぷにぷにして高得点を目指せ、シンプルタップアクションゲーム。テンポ良く指定された場所をぷにぷにすると、高得点！",
+    creator: {
+        name: "あるる",
+        twitter: "arlez80"
+    },
+    thumb: "048.jpg",
+    images: ["048_1.jpg", "048_2.jpg", "048_3.jpg", "048_4.jpg"],
+    urls: ["https://sites.google.com/site/picopoly/product/puni2"],
+    tags: ["アプリ", "Android", "プロ生ちゃん"]
+    // group: none
 }];
 
 /*
