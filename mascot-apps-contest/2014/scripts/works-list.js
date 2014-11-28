@@ -610,6 +610,19 @@
     urls: ["https://sites.google.com/site/picopoly/product/puni2"],
     tags: ["アプリ", "Android", "プロ生ちゃん"]
     // group: none
+}, {
+    id: "49",
+    title: "クラウディアさん",
+    desc: "衣装は趣味です。",
+    creator: {
+        name: "そぉいお茶",
+        twitter: "soi_ocha"
+    },
+    thumb: "049.jpg",
+    images: ["049_1.jpg"],
+    urls: ["http://seiga.nicovideo.jp/seiga/im4478424"],
+    tags: ["イラスト", "クラウディア"],
+    group: "ごぼうグループ"
 }];
 
 /*
