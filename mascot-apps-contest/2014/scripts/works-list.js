@@ -750,7 +750,7 @@
     thumb: "059.jpg",
     images: ["059_1.jpg", "059_2.jpg", "059_3.jpg"],
     urls: ["https://play.google.com/store/apps/details?id=com.unity3d.minesweeper"],
-    tags: ["アプリ", "Android", "プロ生ちゃん"]
+    tags: ["アプリ", "Android", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "クエリちゃん"]
     // group: none
 }, {
     id: "60",
