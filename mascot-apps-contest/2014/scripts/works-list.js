@@ -98,7 +98,7 @@
     thumb: "008.jpg",
     images: ["008_1.jpg"],
     urls: ["http://blog.fujiu.jp/2014/10/2014.html"],
-    tags: ["アプリ", "プロ生ちゃん", "クエリちゃん", "ユニティちゃん"],
+    tags: ["アプリ", "Web", "プロ生ちゃん", "クエリちゃん", "ユニティちゃん"],
     group: "にんじんグループ"
 }, {
     id: "9",
@@ -225,7 +225,7 @@
     thumb: "018.jpg",
     images: ["018_1.jpg"],
     urls: ["http://unsolublesugar.com/20141102/224221/"],
-    tags: ["アプリ", "ニコニ立体ちゃん"]
+    tags: ["アプリ", "Web", "ニコニ立体ちゃん"]
 }, {
     id: "19",
     title: "プロ生ちゃんBluetoothキーボードレビュー",
@@ -623,6 +623,158 @@
     urls: ["http://seiga.nicovideo.jp/seiga/im4478424"],
     tags: ["イラスト", "クラウディア"],
     group: "ごぼうグループ"
+}, {
+    id: "50",
+    title: "マスコットプラモブロック文化祭",
+    desc: "お家に帰ってからプログラム組む気力がなかったので、最初の協賛キャラ6名をプラモブロックで作成しました。非アプリ部門バンザイ。写真では見えませんが、スカートの中はちゃんとパンツ履いてます。",
+    creator: {
+        name: "ToｍTom",
+        twitter: "kytomtom"
+    },
+    thumb: "050.jpg",
+    images: ["050_1.jpg", "050_2.jpg"],
+    urls: ["https://twitter.com/kytomtom/status/538703958861021186"],
+    tags: ["プラモブロック", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "クエリちゃん"],
+    group: "たまねぎグループ"
+}, {
+    id: "51",
+    title: "みくもファンクラブ",
+    desc: "美雲姉妹を愛でるサイトです。",
+    creator: {
+        name: "ABCanG",
+        twitter: "ABCanG1015",
+        urls: ["http://abcang.net/"]
+    },
+    thumb: "051.jpg",
+    images: ["051_1.jpg"],
+    urls: ["http://mikumo.abcang.net/"],
+    tags: ["アプリ", "Web", "美雲このは", "美雲あんず"],
+    group: "おでん"
+}, {
+    id: "52",
+    title: "Mascot Tiles",
+    desc: "マスコットアプリ文化祭のキャラクターたちが Windows Phone のホーム画面をいろどります。",
+    creator: {
+        name: "@kazuakix",
+        twitter: "kazuakix"
+    },
+    thumb: "052.jpg",
+    images: ["052_1.jpg", "052_2.png", "052_3.jpg", "052_4.png", "052_5.png"],
+    urls: ["http://www.windowsphone.com/en-us/store/app/mascot-tiles/64f5abbb-6b0b-4e20-b56f-1ffcdfe56680"],
+    tags: ["アプリ", "Windows Phone", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "クエリちゃん", "だるやなぎ"]
+    // group: none
+}, {
+    id: "53",
+    title: "キー入力練習ソフト",
+    desc: "マスコットアプリ文化祭やプロ生のトップページでおなじみ「あのコマンド」の入力を練習できるアプリです。ハッカドール1号ちゃんがキー入力にあわせて手を振ってくれるから、やる気が出ます！ハッカドール1号ちゃんだけどWindows用です。",
+    creator: {
+        name: "めむくろ",
+        twitter: "MEMchro"
+    },
+    thumb: "053.jpg",
+    images: ["053_1.jpg", "053_2.jpg"],
+    urls: ["http://mem96.moe-nifty.com/clock/2014/12/post-188a.html"],
+    tags: ["アプリ", "Windows", "ハッカドール1号"],
+    group: "ごぼうグループ"
+}, {
+    id: "54",
+    title: "Mascot Chara Meter",
+    desc: "日時、CPUの使用率と周波数、メモリーの使用率、ネットワークの回線速度、バッテリー残量、音量、ストレージの使用率、天気情報、RSSフィード、カレンダーを表示するRainmeter用のウィジェット（スキン）です。マスコットキャラクターがアクセントになっています。",
+    creator: {
+        name: "Myoga S. Tomonaka",
+        twitter: "myoga1012",
+        urls: ["http://myoga-tn.expressweb.jp/"]
+    },
+    thumb: "054.jpg",
+    images: ["054_1.jpg", "054_2.png", "054_3.jpg"],
+    urls: ["http://myoga-tn.expressweb.jp/mascot-chara-meter/"],
+    tags: ["アプリ", "Windows", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "クエリちゃん", "東北ずん子", "ハッカドール1号", "Myoga"],
+    group: "たまねぎグループ"
+}, {
+    id: "55",
+    title: "音符deシューティング",
+    desc: "シューティング型のミニゲームです。タッチした方向にキャラクターが移動し、キャラクターをタッチすると攻撃します。敵をたくさん倒して高得点を目指しましょう！",
+    creator: {
+        name: "星降 芽斗零",
+        twitter: "MedZeroP_MDL"
+    },
+    thumb: "055.jpg",
+    images: ["055_1.jpg", "055_2.jpg", "055_3.jpg", "055_4.jpg", "055_5.jpg"],
+    urls: ["https://play.google.com/store/apps/details?id=com.game.mdl.mascotapplicationculturefestival2014mdl"],
+    tags: ["アプリ", "Android", "クエリちゃん", "東北ずん子", "ハッカドール1号"],
+    group: "たまねぎグループ"
+}, {
+    id: "56",
+    title: "クエリちゃん360VR",
+    desc: "Google Cardboardを使ってクエリちゃんのサンプルモーションを鑑賞できます。",
+    creator: {
+        name: "wakasoftware",
+        twitter: "wakasoftware"
+    },
+    thumb: "056.jpg",
+    images: ["056_1.jpg"],
+    urls: ["https://play.google.com/store/apps/details?id=com.WakaSoftware.Query360VR&hl=ja"],
+    tags: ["アプリ", "Android", "クエリちゃん"]
+    // group: none
+}, {
+    id: "57",
+    title: "KureiHash",
+    desc: "Winデスクトップアプリです。シンプルなハッシュ値を求めるプログラムです。プロ生ちゃんがドヤ顔で値を計算します。ハッシュ値を比較して、一致/不一致を表情で教えてくれます。　詳しくは、公開場所を参照していただけると幸いです。",
+    creator: {
+        name: "ゆうゆう茶"
+    },
+    thumb: "057.jpg",
+    images: ["057_1.jpg", "057_2.jpg"],
+    urls: ["http://www.youyou-tea.com/KureiHash/index.html"],
+    tags: ["アプリ", "Windows", "プロ生ちゃん"]
+    // group: none
+}, {
+    id: "58",
+    title: "発火フォール",
+    desc: "『四角』をチェインして目指せハイスコア！　スマホのブラウザで動くハッカドールちゃんのパズルゲームです。",
+    creator: {
+        name: "Ru/むっくRu"
+    },
+    thumb: "058.jpg",
+    images: ["058_1.jpg", "058_2.jpg", "058_3.jpg", "058_4.jpg", "058_5.jpg"],
+    urls: ["http://toripota.com/hackafall/"],
+    tags: ["アプリ", "Web", "iOS", "Android", "ハッカドール1号"]
+    // group: none
+}, {
+    id: "59",
+    title: "マスコットマインスイーパ",
+    desc: "無駄に３Dなマインスイーパです。失敗すると爆発します。成功しても爆発します。爆発後、プロ生ちゃん（絵）が出現します。",
+    creator: {
+        name: "まる"
+    },
+    thumb: "059.jpg",
+    images: ["059_1.jpg", "059_2.jpg", "059_3.jpg"],
+    urls: ["https://play.google.com/store/apps/details?id=com.unity3d.minesweeper"],
+    tags: ["アプリ", "Android", "プロ生ちゃん"]
+    // group: none
+}, {
+    id: "60",
+    title: "マスコットツイート",
+    desc: "大沖先生のスペシャルデータのセリフ部分を自由なセリフに変えて画像でツイートします。ずん子ちゃんと、ハッカドールちゃんの大沖先生風画像を嫁に頼んで書いてもらい、用意しました。あと、クマサピエンスもいるよ！",
+    creator: {
+        name: "@sukaaaaaaaaa + 嫁"
+    },
+    thumb: "060.jpg",
+    images: ["060_1.jpg", "060_2.jpg", "060_3.jpg"],
+    urls: ["https://cfc.jp/3939/"],
+    tags: ["アプリ", "Web", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "クエリちゃん", "東北ずん子", "ハッカドール1号", "クマサピエンス"],
+    group: "たまねぎグループ"
+}, {
+    id: "61",
+    title: "ユニティちゃんのこころぴょんぴょん道場",
+    desc: "ユニティちゃんをぴょんぴょんさせて障害物を避ける、どこかで見たことがあるゲームです。",
+    creator: {
+        name: "シーサー株式会社"
+    },
+    thumb: "061.jpg",
+    images: ["061_1.jpg", "061_2.jpg"],
+    urls: ["https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=943723742&mt=8", "https://play.google.com/store/apps/details?id=jp.co.seesaa.flappy.unitychan"],
+    tags: ["アプリ", "Android", "iOS", "ユニティちゃん"]
 }];
 
 /*

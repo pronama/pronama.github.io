@@ -62,7 +62,7 @@
                 '<div class="col-xs-9 col-md-9">' +
                     '<h3>' + ((!id) ? '<a href="works.html?id=' + w.id + '">' + w.title + '</a>' : w.title) + '</h3>' +
                     '<p>' + w.desc.replace(/\n/g, "<br />") + '</p>' +
-                    '<p>' + urls + '</p>' +
+                    '<div class="panel panel-default"><div class="panel-heading">作品ページ</div><div class="panel-body">' + urls + '</div></div>' +
                     '<p class="author">' +
                     creator +
                     '</p>' +
@@ -90,13 +90,15 @@
     $(".container>.row:first").after(html);
 
     if (tag) {
-        $("#search-param").html("Tag: " + tag + " （" + count + "件） " + '<a href="./works.html">全表示</a>');
+        $("#search-param").html("Tag: " + tag + " （" + count + "件） " + '<a href="./works.html">全作品表示</a>');
     } else if (creatorName) {
-        $("#search-param").html("Creator: " + creatorName + " さん （" + count + "件） " + '<a href="./works.html">全表示</a>');
+        $("#search-param").html("Creator: " + creatorName + " さん （" + count + "件） " + '<a href="./works.html">全作品表示</a>');
     } else if (group) {
-        $("#search-param").html("Group: " + group + " （" + count + "件） " + '<a href="./works.html">全表示</a>');
+        $("#search-param").html("Group: " + group + " （" + count + "件） " + '<a href="./works.html">全作品表示</a>');
     } else if (id) {
         $("#works-link").removeClass("hidden");
+    } else {
+        $("#search-param").html("(" + count + "件" + ")");
     }
 
 
