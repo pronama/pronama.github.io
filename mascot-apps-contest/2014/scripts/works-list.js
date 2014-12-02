@@ -666,7 +666,7 @@
 }, {
     id: "53",
     title: "キー入力練習ソフト",
-    desc: "マスコットアプリ文化祭やプロ生のトップページでおなじみ「あのコマンド」の入力を練習できるアプリです。ハッカドール1号ちゃんがキー入力にあわせて手を振ってくれるから、やる気が出ます！ハッカドール1号ちゃんだけどWindows用です。",
+    desc: "マスコットアプリ文化祭やプロ生のトップページでおなじみ「あのコマンド」の入力を練習できるアプリです。ハッカドール1号ちゃんがキー入力にあわせて手を振ってくれるから、やる気が出ます！　ハッカドール1号ちゃんだけどWindows用です。",
     creator: {
         name: "めむくろ",
         twitter: "MEMchro"
@@ -712,7 +712,7 @@
         twitter: "wakasoftware"
     },
     thumb: "056.jpg",
-    images: ["056_1.jpg"],
+    images: ["056_1.JPG"],
     urls: ["https://play.google.com/store/apps/details?id=com.WakaSoftware.Query360VR&hl=ja"],
     tags: ["アプリ", "Android", "クエリちゃん"]
     // group: none
