@@ -787,10 +787,11 @@
     images: ["062_1.jpg", "062_2.jpg", "062_3.jpg", "062_4.jpg", "062_5.jpg", "062_6.jpg"],
     urls: ["https://github.com/hurumeki/atom-pronama-chan"],
     tags: ["アプリ", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "東北ずん子", "ハッカドール1号"]
+    // group: none
 }, {
     id: "63",
     title: "ゆにらいぶ！ for UnityChan",
-    desc: "お手持ちのiPhoneでUnityちゃんのライブステージが見れます！　録画機能を搭載しており、拘りのアングルからライブステージを演出できます！　Kamcordに対応！録画したライブステージを共有することが出来ます！　VRビューワーにも対応しており、単眼用、両眼用機器で閲覧することが出来ます！",
+    desc: "お手持ちのiPhoneでUnityちゃんのライブステージが見れます！　録画機能を搭載しており、拘りのアングルからライブステージを演出できます！　Kamcordに対応！　録画したライブステージを共有することが出来ます！　VRビューワーにも対応しており、単眼用、両眼用機器で閲覧することが出来ます！",
     creator: {
         name: "青木そらす",
         twitter: "sorasu2113",
@@ -799,7 +800,35 @@
     thumb: "063.jpg",
     images: ["063_1.jpg", "063_2.jpg", "063_3.jpg", "063_4.jpg", "063_5.jpg", "063_6.jpg"],
     urls: ["https://itunes.apple.com/us/app/unilive-for-unity-chan/id942942079"],
-    tags: ["アプリ", "iOS", "ユニティちゃん"]
+    tags: ["アプリ", "iOS", "ユニティちゃん"],
+    group: "じゃがいもグループ"
+}, {
+    id: "64",
+    title: "ユウカのカメラ",
+    desc: "「ユウカのカメラ」はポートレート写真の撮影をテーマにしたARアプリです。センサーベースのARとなっており、マーカレスで動作します。リアルタイムに光学的合成を行っており、カメラからの入力や、太陽の位置に合わせて、キャラクターの光源が変化します。今までのARアプリから格段に進化した「ここにいる」感を楽しんでみてください。",
+    creator: {
+        name: "alan",
+        twitter: "alan_islands",
+        urls: ["http://www.u-ca.net/"]
+    },
+    thumb: "064.jpg",
+    images: ["064_1.jpg", "064_2.jpg", "064_3.jpg"],
+    urls: ["https://itunes.apple.com/jp/app/mei-shao-nuarkameraapuri-yuukanokamera/id777400427?mt=8"],
+    tags: ["アプリ", "iOS", "ユウカ"],
+    group: "project-ecn"
+}, {
+    id: "65",
+    title: "3D美雲あんずちゃん",
+    desc: "グルグル回して見れます。パンツ見れません。",
+    creator: {
+        name: "林田宗篤",
+        twitter: "MuneatsuH"
+    },
+    thumb: "065.jpg",
+    images: ["065_1.jpg"],
+    urls: ["http://3d.nicovideo.jp/works/td17534"],
+    tags: ["アプリ", "3DCG"]
+    // group: none
 }];
 
 /*
