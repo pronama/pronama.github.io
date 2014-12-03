@@ -775,6 +775,31 @@
     images: ["061_1.jpg", "061_2.jpg"],
     urls: ["https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=943723742&mt=8", "https://play.google.com/store/apps/details?id=jp.co.seesaa.flappy.unitychan"],
     tags: ["アプリ", "Android", "iOS", "ユニティちゃん"]
+}, {
+    id: "62",
+    title: "プロ生ちゃんAtomパッケージ",
+    desc: "Atomエディタにプロ生ちゃん（達）を追加するプラグインです。Visual Studioじゃなくてもプロ生ちゃんといっしょ！\n機能：壁紙、起動時ボイス、時報。\nキャラクター：プロ生ちゃん、美雲あんず、美雲このは、クラウディア・窓辺、東北じゅんこ、ハッカドール１号",
+    creator: {
+        name: "hurumeki",
+        twitter: "hurumeki"
+    },
+    thumb: "062.jpg",
+    images: ["062_1.jpg", "062_2.jpg", "062_3.jpg", "062_4.jpg", "062_5.jpg", "062_6.jpg"],
+    urls: ["https://github.com/hurumeki/atom-pronama-chan"],
+    tags: ["アプリ", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "東北ずん子", "ハッカドール1号"]
+}, {
+    id: "63",
+    title: "ゆにらいぶ！ for UnityChan",
+    desc: "お手持ちのiPhoneでUnityちゃんのライブステージが見れます！　録画機能を搭載しており、拘りのアングルからライブステージを演出できます！　Kamcordに対応！録画したライブステージを共有することが出来ます！　VRビューワーにも対応しており、単眼用、両眼用機器で閲覧することが出来ます！",
+    creator: {
+        name: "青木そらす",
+        twitter: "sorasu2113",
+        urls: ["https://twitter.com/SorasuSoftware"]
+    },
+    thumb: "063.jpg",
+    images: ["063_1.jpg", "063_2.jpg", "063_3.jpg", "063_4.jpg", "063_5.jpg", "063_6.jpg"],
+    urls: ["https://itunes.apple.com/us/app/unilive-for-unity-chan/id942942079"],
+    tags: ["アプリ", "iOS", "ユニティちゃん"]
 }];
 
 /*
