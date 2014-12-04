@@ -827,7 +827,7 @@
     thumb: "065.jpg",
     images: ["065_1.jpg"],
     urls: ["http://3d.nicovideo.jp/works/td17534"],
-    tags: ["アプリ", "3DCG"]
+    tags: ["3DCG", "美雲あんず"]
     // group: none
 }, {
     id: "66",
