@@ -469,7 +469,7 @@
     thumb: "037.jpg",
     images: ["037_1.jpg", "037_2.png"],
     urls: ["https://twitter.com/highgabreak/status/536525898648797185"],
-    tags: ["素材", "東北ずん子"]
+    tags: ["イラスト", "素材", "東北ずん子"]
     // group: none
 }, {
     id: "38",
@@ -829,6 +829,83 @@
     urls: ["http://3d.nicovideo.jp/works/td17534"],
     tags: ["アプリ", "3DCG"]
     // group: none
+}, {
+    id: "66",
+    title: "Vim scriptとJavaとHaskell",
+    desc: "Vim scriptとJavaとHaskellについての趣味が丸出しな資料です。Vim scriptとJavaとHaskellと題していますがほぼHaskellです。あと僕はVimmerです。",
+    creator: {
+        name: "@aiya_000",
+        twitter: "aiya_000"
+    },
+    thumb: "066.jpg",
+    images: ["066_1.jpg", "066_2.jpg", "066_3.jpg"],
+    urls: ["http://www.slideshare.net/YoichiroIshikawa/haskelljavavim-script"],
+    tags: ["開発記事", "東北ずん子", "東北きりたん", "情報系彼女"]
+    // group: none
+}, {
+    id: "67",
+    title: "ユニティちゃんクロック",
+    desc: "Andoridで動くユニティちゃんの時計アプリです。ユニティちゃんボイスでの時報があります。またダンスを踊ったり、いろいろなポーズを取ってくれます。",
+    creator: {
+        name: "にゃるらと",
+        twitter: "sakura_metal"
+    },
+    thumb: "067.jpg",
+    images: ["067_1.jpg", "067_2.jpg", "067_3.jpg", "067_4.jpg", "067_5.jpg", "067_6.jpg"],
+    urls: ["https://play.google.com/store/apps/details?id=net.nyarurato.uniclock"],
+    tags: ["アプリ", "Android", "ユニティちゃん"],
+    group: "じゃがいもグループ"
+}, {
+    id: "68",
+    title: "マスコットを撃ち落せ！",
+    desc: "上から降ってくるマスコットを撃ち落していくゲームです。得点と一番多く落としたキャラクターとその数を結果としてツイートできます。降ってくるキャラクターの画像はオリジナルで作ったやつなので見ごたえあり？",
+    creator: {
+        name: "ぱちお",
+        twitter: "patioglass"
+    },
+    thumb: "068.jpg",
+    images: ["068_1.jpg", "068_2.jpg"],
+    urls: ["http://mascotshot.web.fc2.com/"],
+    tags: ["アプリ", "Web", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "クエリちゃん"],
+    group: "おでん"
+}, {
+    id: "69",
+    title: "マスコット DICOM Viewer",
+    desc: "医療用DICOM画像のViewerです。主にCT画像での使用を想定しています。\nhttp://www.jira-net.or.jp/dicom/dicom_data_01_02.html や\nhttps://imaging.nci.nih.gov/ncia/login.jsf にサンプルCT画像が公開されています。",
+    creator: {
+        name: "みすと"
+    },
+    thumb: "069.jpg",
+    images: ["069_1.jpg", "069_2.jpg", "069_3.jpg"],
+    urls: ["http://apps.microsoft.com/windows/ja-jp/app/dicom-viewer/94aeeb3b-0dfe-4adf-b390-fdc7247b99f2"],
+    tags: ["アプリ", "Windows ストアアプリ", "Web", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "クエリちゃん"]
+    // group: none
+}, {
+    id: "70",
+    title: "ネット依存度傾向確認",
+    desc: "ネット依存度傾向を図るアプリです。あんずちゃんが案内役でネット依存について説明してくれます。ネット依存度傾向の測定には総務省情報通信政策研究所の青少年のインターネット利用と依存傾向に関する調査の資料を参考にしました。",
+    creator: {
+        name: "シアン化カリウム",
+        twitter: "KCN33"
+    },
+    thumb: "070.jpg",
+    images: ["070_1.jpg", "070_2.jpg", "070_3.jpg"],
+    urls: ["https://play.google.com/store/apps/details?id=jp.gr.java_conf.Netizon_so"],
+    tags: ["アプリ", "Android", "美雲あんず"],
+    group: "じゃがいもグループ"
+}, {
+    id: "71",
+    title: "つままれマスコット素材",
+    desc: "つままれキーホルダーっぽいマスコットキャラの素材です。",
+    creator: {
+        name: "ぱちお",
+        twitter: "patioglass"
+    },
+    thumb: "071.jpg",
+    images: ["071_1.jpg"],
+    urls: ["http://www.pixiv.net/member_illust.php?mode=medium&illust_id=47394110"],
+    tags: ["イラスト", "素材", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "クエリちゃん"],
+    group: "おでん"
 }];
 
 /*
