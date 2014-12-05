@@ -906,6 +906,70 @@
     urls: ["http://www.pixiv.net/member_illust.php?mode=medium&illust_id=47394110"],
     tags: ["イラスト", "素材", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "クエリちゃん"],
     group: "おでん"
+}, {
+    id: "72",
+    title: "Tower ジャンピング",
+    desc: "暮井 慧(通称プロ生ちゃん)を操作して高いところを目指す、シンプルアクションゲーム！　操作はなんと、スマホを傾け/タップするだけ！",
+    creator: {
+        name: "あるる",
+        twitter: "arlez80"
+    },
+    thumb: "072.jpg",
+    images: ["072_1.jpg", "072_2.jpg", "072_3.jpg"],
+    urls: ["https://play.google.com/store/apps/details?id=ja.picopoly.pudding2k", "https://sites.google.com/site/picopoly/product/pudding"],
+    tags: ["アプリ", "Android", "プロ生ちゃん"]
+    // group: none
+}, {
+    id: "73",
+    title: "空から女の子が！",
+    desc: "空からかわいい女の子たちが落ちてくるので箱を指で左右に操作し拾ってあげましょう。20人落としてしまうとGameOverとなってしまいます。空中にゴーストがウロウロしており、女の子たちがそれに触れると軌道が変わります。結果をツイートすることができます。　全世界の人とスコアを競いましょう！　キーボード操作にも対応しています。",
+    creator: {
+        name: "にょろん",
+        twitter: "nyoronjp",
+        urls: ["http://nyoron.info/"]
+    },
+    thumb: "073.jpg",
+    images: ["073_1.jpg", "073_2.jpg", "073_3.jpg", "073_4.jpg", "073_5.jpg"],
+    urls: ["https://play.google.com/store/apps/details?id=info.nyoron.game.Sorakara", "http://apps.microsoft.com/windows/app/fec9943c-0729-4827-92eb-b7900c98b3d8", "http://www.windowsphone.com/s?appid=d3f5785f-1a08-408a-bd35-fe24ba35a483"],
+    tags: ["アプリ", "Android", "Windows ストアアプリ", "Windows Phone", "プロ生ちゃん", "ユニティちゃん", "クラウディア", "クエリちゃん", "東北ずん子", "だるやなぎ"],
+    group: "にんじんグループ"
+}, {
+    id: "74",
+    title: "マスコットアプリ文化祭2014でクエリちゃんを応援すると・・・",
+    desc: "マスコットアプリ文化祭 2014 http://pronama.github.io/mascot-apps-contest/2014/ 私は物に釣られやすいので、つい、作りました・・・",
+    creator: {
+        name: "水っぽいスープ"
+    },
+    thumb: "074.jpg",
+    images: ["074_1.jpg"],
+    urls: ["http://www.pixiv.net/member_illust.php?mode=medium&illust_id=47390416"],
+    tags: ["漫画", "クエリちゃん"]
+    // group: none
+}, {
+    id: "75",
+    title: "冬服の東北ずんこさん",
+    desc: "冬服の方が、刺激が強くなくて、個人的には好きです・・・テーマ「季節」を感じる作品が狙いらしいので・・・",
+    creator: {
+        name: "水っぽいスープ"
+    },
+    thumb: "075.jpg",
+    images: ["075_1.jpg"],
+    urls: ["http://www.pixiv.net/member_illust.php?mode=medium&illust_id=47399828"],
+    tags: ["イラスト", "東北ずん子"]
+    // group: none
+}, {
+    id: "76",
+    title: "マスコットhubot",
+    desc: "hubotを用いた簡単なbotです。マスコット達との会話が出来ます！",
+    creator: {
+        name: "whywaita",
+        twitter: "whywaita"
+    },
+    thumb: "076.jpg",
+    images: ["076_1.jpg"],
+    urls: ["https://github.com/whywaita/pronama-bunkasai-2014"],
+    tags: ["アプリ", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "東北ずん子", "ハッカドール1号", "だるやなぎ"]
+    // group: none
 }];
 
 /*
