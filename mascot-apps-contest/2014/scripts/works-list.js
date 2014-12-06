@@ -970,6 +970,72 @@
     urls: ["https://github.com/whywaita/pronama-bunkasai-2014"],
     tags: ["アプリ", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "東北ずん子", "ハッカドール1号", "だるやなぎ"]
     // group: none
+}, {
+    id: "77",
+    title: "マスコットドリーム",
+    desc: "プロ生ちゃんたちが降ってくる！スクリーンセーバー。画像はぱちおさんのものを使わせてもらってます！",
+    creator: {
+        name: "Kawakawa",
+        twitter: "kawakawaritsuki",
+        urls: ["http://www.haginet.ne.jp/users/cdi79821/"]
+    },
+    thumb: "077.jpg",
+    images: ["077_1.jpg", "077_2.jpg"],
+    urls: ["http://play.google.com/store/apps/details?id=com.KawakawaPlanning.mascotdream"],
+    tags: ["アプリ", "Android", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "クエリちゃん"]
+    // group: none
+}, {
+    id: "78",
+    title: "TapJumpQuery-chan",
+    desc: "クエリちゃんをジャンプさせる簡単操作のミニゲームです。",
+    creator: {
+        name: "すずっきー",
+        twitter: "gam_esz"
+    },
+    thumb: "078.jpg",
+    images: ["078_1.jpg"],
+    urls: ["https://play.google.com/store/apps/details?id=com.szk0.jump"],
+    tags: ["アプリ", "Android", "クエリちゃん"],
+    group: "さつまいもグループ"
+}, {
+    id: "79",
+    title: "クエリちゃん時計",
+    desc: "ジャパニーズ・オタク・シティを浮遊しているクエリちゃんを鑑賞できる時計です。クエリちゃんはクリックしたところに移動します。何度も移動させるとAIが学習してスピードアップします。ただし、すぐに忘れて元のスピードに戻ります。スペースキーか右クリックで変身します。",
+    creator: {
+        name: "Mtk Fujiu.jp"
+    },
+    thumb: "079.jpg",
+    images: ["079_1.jpg"],
+    urls: ["http://wp.fujiu.jp/unity-%E3%82%AF%E3%82%A8%E3%83%AA%E3%81%A1%E3%82%83%E3%82%93%E6%99%82%E8%A8%88/"],
+    tags: ["アプリ", "Web", "クエリちゃん"],
+    group: "にんじんグループ"
+}, {
+    id: "80",
+    title: "ハッカドール1号素材集",
+    desc: "ハッカドール1号ちゃん少ないので支援です。素材あれば誰かが何か面白いの作ってくれるでしょう！ラストスパートみなさんがんばりましょう。利用の注意とかはpixivの方の説明文に書いてあります。\n素材の種類は\n・立ち絵（それぞれ無表情と笑顔）\n　　・両目閉じ\n　　・片目閉じ\n　　・両目開き\n・つままれSDキャラ（無表情と泣きと笑顔）",
+    creator: {
+        name: "ぱちお",
+        twitter: "patioglass"
+    },
+    thumb: "080.jpg",
+    images: ["080_1.jpg", "080_2.jpg"],
+    urls: ["http://1drv.ms/1ABLfV2", "http://www.pixiv.net/member_illust.php?mode=medium&illust_id=47432378"],
+    tags: ["イラスト", "素材", "ハッカドール1号"],
+    group: "おでん"
+}, {
+    id: "81",
+    title: "プロ生ちゃんがWAVEFILE踊るのを見るだけのやつ",
+    desc: "Androidで踊るプロ生ちゃんを眺めるだけのアプリです。プロ生ちゃんAdvent Calendarにて公開させていただいた作品をAndroidアプリ化してみました。プロ生ちゃんマジ天使！",
+    creator: {
+        name: "星影",
+        twitter: "unsoluble_sugar",
+        urls: ["http://unsolublesugar.com/"]
+    },
+    thumb: "081.jpg",
+    images: ["081_1.jpg"],
+    urls: ["http://unsolublesugar.com/20141206/040838/"],
+    tags: ["アプリ", "Android", "プロ生ちゃん"],
+    group: "ごぼうグループ"
 }];
 
 /*
