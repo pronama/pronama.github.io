@@ -568,8 +568,8 @@
     },
     thumb: "045.jpg",
     images: ["045_1.jpg", "045_2.jpg", "045_3.jpg"],
-    urls: ["http://apps.microsoft.com/windows/app/a3fc1b32-c565-4e25-8ed0-ea5f7c6fe95e"],
-    tags: ["アプリ", "Windows ストアアプリ", "ユニティちゃん"]
+    urls: ["http://apps.microsoft.com/windows/app/a3fc1b32-c565-4e25-8ed0-ea5f7c6fe95e", "http://www.windowsphone.com/s?appid=ce1ed09c-06bb-4a28-b29c-293bd465db4c"],
+    tags: ["アプリ", "Windows ストアアプリ", "Windows Phone", "ユニティちゃん"]
     // group: none
 }, {
     id: "46",
@@ -1018,7 +1018,7 @@
         twitter: "patioglass"
     },
     thumb: "080.jpg",
-    images: ["080_1.jpg", "080_2.jpg"],
+    images: ["080_1.jpg"],
     urls: ["http://1drv.ms/1ABLfV2", "http://www.pixiv.net/member_illust.php?mode=medium&illust_id=47432378"],
     tags: ["イラスト", "素材", "ハッカドール1号"],
     group: "おでん"
@@ -1036,6 +1036,171 @@
     urls: ["http://unsolublesugar.com/20141206/040838/"],
     tags: ["アプリ", "Android", "プロ生ちゃん"],
     group: "ごぼうグループ"
+}, {
+    id: "82",
+    title: "タッチ！ユニティちゃん",
+    desc: "モーションセンサ“Leap Motion”を使うことで、画面のなかに手を入れてキャラクターとふれあう事ができるアプリケーションです。また、制作した触覚グローブを装着することによって、画面内でさわったときの感覚を実際に味わうことができます。\n解説ページ(blog)→ http://kmtsatisfy.hatenablog.com/entry/2014/12/07/155540",
+    creator: {
+        name: "Kamata",
+        twitter: "Kamata0satisfy"
+    },
+    thumb: "082.jpg",
+    images: ["082_1.jpg", "082_2.jpg", "082_3.jpg", "082_4.jpg", "082_5.jpg", "082_6.jpg", "082_7.jpg", "082_8.jpg", "082_9.jpg"],
+    urls: ["http://www.nicovideo.jp/watch/sm25068639", "http://kmtsatisfy.hatenablog.com/entry/2014/12/07/155540"],
+    tags: ["アプリ", "動画", "ユニティちゃん"],
+    group: "ユニティちゃんに触り隊"
+}, {
+    id: "83",
+    title: "クラウディアさんとの距離を測ろう",
+    desc: "クラウディアさんの口のところに設置している超音波センサが距離を測定し、その距離によりLEDの明るさが変わります。Intel Edison Kit for Arduinoで動作しています．制御部分は SCADE Suiteで制作し，自動生成したCコードをArduioが読み込んでいます。",
+    creator: {
+        name: "michele_lap",
+        urls: ["http://www.iggg.org/"]
+    },
+    thumb: "083.jpg",
+    images: ["083_1.jpg"],
+    urls: ["http://michele-lap.azurewebsites.net/dev/mascot-apps-contest-sonicsensor.html"],
+    tags: ["アプリ", "ハードウェア", "クラウディアさん"],
+    group: "IGGG"
+}, {
+    id: "84",
+    title: "もぐら叩き",
+    desc: "このはちゃんの「このデータでもぐら叩きを作ってキャラクターコンプリート賞いただきだわ！」にインスパイアされて作られたもぐら叩きゲームです。Unityで作りました。キャラクターがぴょこぴょこ出てくるところがかわいいと思います。",
+    creator: {
+        name: "クズ肉とタワー(@junkmeat, @nullpotower)",
+        twitter: "junkmeat"
+    },
+    thumb: "084.jpg",
+    images: ["084_1.jpg"],
+    urls: ["http://kuzuniku.net/2014/mascot/"],
+    tags: ["アプリ", "Web", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "クエリちゃん", "東北ずん子", "ハッカドール1号"],
+    group: "さつまいもグループ"
+}, {
+    id: "85",
+    title: "クエリちゃんのバルーン集め",
+    desc: "クエリちゃんを操作して風船を集めよう。",
+    creator: {
+        name: "PONTA",
+        urls: ["http://www.studiok-i.net/"]
+    },
+    thumb: "085.jpg",
+    images: ["085_1.jpg", "085_2.jpg"],
+    urls: ["http://www.studiok-i.net/webgame/queryballoon/queryballoon.html"],
+    tags: ["アプリ", "Web", "クエリちゃん"]
+}, {
+    id: "86",
+    title: "ユニティちゃんゴーストマンション",
+    desc: "「第3回 Oculus ゲームジャム in Japan」で作成したゲームです！　OculusRift対応のゲームですが、OculusRiftが無くても遊べるようになっています！　ユニティちゃん vs ミクダヨーさんに別れ、薄暗い迷路で先に相手を倒したほうが勝ちなゲームです。最大６人まで同時に遊べます（ネット対戦専用ゲームなので、2名以上揃わないと遊べません。）",
+    creator: {
+        name: "ないです(とりすーぷ(@toRisouP), orenama1(@orenama1), むらむら)",
+        twitter: "toRisouP"
+    },
+    thumb: "086.jpg",
+    images: ["086_1.jpg", "086_2.jpg", "086_3.jpg"],
+    urls: ["http://ch.nicovideo.jp/torisoup/blomaga/ar680073"],
+    tags: ["アプリ", "Windows", "Mac", "ユニティちゃん"]
+}, {
+    id: "87",
+    title: "GIRLS FIGHT",
+    desc: "プチコンmk2で作成、2人対戦可能な格闘アクションゲーム。通常の格闘アクションにありがちな移動・ダッシュ・ジャンプ＆バックステップ・ガード(上段・下段)、攻撃３段階・つかみ投げをすることができ、COM対戦、または1つの本体で2人対戦が可能です。",
+    creator: {
+        name: "ぷちぷち３級",
+        twitter: "damedamePG",
+        urls: ["http://damedamepg3q.web.fc2.com/"]
+    },
+    thumb: "087.jpg",
+    images: ["087_1.jpg", "087_2.jpg", "087_3.jpg", "087_4.jpg", "087_5.jpg", "087_6.jpg", "087_7.jpg"],
+    urls: ["http://damedamepg3q.web.fc2.com/pettitcom_1g.html"],
+    tags: ["アプリ", "プチコン", "プロ生ちゃん", "ユニティちゃん"]
+}, {
+    id: "88",
+    title: "はいどげーむ",
+    desc: "",
+    creator: {
+        name: "masa*3",
+        twitter: "masayanus"
+    },
+    thumb: "088.jpg",
+    images: ["088_1.jpg"],
+    urls: ["http://masayanus.esy.es/"],
+    tags: ["アプリ", "Windows", "Web", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "クエリちゃん"]
+}, {
+    id: "89",
+    title: "このはちゃん清楚かわいい",
+    desc: "最近このはちゃんにお世話になり始めました。コントロールパネルでちょくちょく出てくるのがかわいい。",
+    creator: {
+        name: "seaf"
+    },
+    thumb: "089.jpg",
+    images: ["089_1.jpg"],
+    urls: ["http://kakidukushi.blog.fc2.com/blog-entry-44.html", "http://www.pixiv.net/member_illust.php?mode=medium&illust_id=47460624"],
+    tags: ["イラスト", "美雲このは"]
+    // group: none
+}, {
+    id: "90",
+    title: "マスコットタタキ",
+    desc: "もぐら叩きです。やれと言われてる気がしたのでやりました。45秒間で叩ける数競います。大沖先生のイラスト可愛い。ゲームの進行ナレーションは大鳥こはくでお送りしております。",
+    creator: {
+        name: "takashiski",
+        twitter: "takashiski"
+    },
+    thumb: "090.jpg",
+    images: ["090_1.jpg", "090_2.jpg"],
+    urls: ["https://play.google.com/store/apps/details?id=jp.dip.takashiski.mogra&hl=ja"],
+    tags: ["アプリ", "Android", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "クエリちゃん"]
+    // group: none
+}, {
+    id: "91",
+    title: "このはちゃんたちが抜粋を読み上げてくれるWPプラグイン",
+    desc: "Wordpressで記事に設定した「抜粋」をページ最上部でキャラクターの横に、セリフのように表示させるプラグインです。",
+    creator: {
+        name: "Hinaloe"
+    },
+    thumb: "091.jpg",
+    images: ["091_1.jpg", "091_2.jpg"],
+    urls: ["https://github.com/kimama1997/conoha-excerpt", "http://qiita.com/kimama1997/items/608672328f92901576c8"],
+    tags: ["アプリ", "開発記事", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "クエリちゃん"],
+    group: "さつまいもグループ"
+}, {
+    id: "92",
+    title: "はぴりま！プロ生ちゃん版！",
+    desc: "日々の予定に忙しい皆に！かわいいキャラクターが予定をお知らせしてくれるよ！\n使い方\n・右上のボタンから予定を追加するよ！\n・予定をスワイプで消せるよ！\n・いっぱい予定を消化してレベルアップ！\n・Googleカレンダーにも同期可能！",
+    creator: {
+        name: "チームはぴりま(ねぎ(@shunXnegi), とおる(@umenya34))",
+        twitter: "shunXnegi"
+    },
+    thumb: "092.jpg",
+    images: ["092_1.jpg", "092_2.jpg", "092_3.jpg", "092_4.jpg"],
+    urls: ["https://play.google.com/store/apps/details?id=com.shun.happyreminder"],
+    tags: ["アプリ", "Android", "プロ生ちゃん"],
+    group: "さつまいもグループ"
+}, {
+    id: "93",
+    title: "ユニティちゃんプラ板キーホルダー",
+    desc: "ユニティちゃんのイラストを描いて、プラ板キーホルダーにしてみました。作り方と線画のデータも置いてあるので、私も作ってみたい！という人はぜひ作ってみてくださいっ",
+    creator: {
+        name: "さや",
+        urls: ["http://saya3833.hateblo.jp/"]
+    },
+    thumb: "093.jpg",
+    images: ["093_1.jpg", "093_2.jpg"],
+    urls: ["http://saya3833.hateblo.jp/entry/2014/12/08/170107"],
+    tags: ["イラスト", "グッズ", "ユニティちゃん"],
+    group: "さつまいもグループ"
+}, {
+    id: "94",
+    title: "PON",
+    desc: "非常に簡単な操作で楽しめる、サウンドエンターテイメントアプリです。対応したキーを押すとUnityちゃんのボイスが再生されます。BGM再生やピッチチェンジ機能も搭載しています。",
+    creator: {
+        name: "takumi",
+        twitter: "takumi_rimitz",
+        urls: ["http://www.rimitz.com/"]
+    },
+    thumb: "094.jpg",
+    images: ["094_1.jpg"],
+    urls: ["http://www.rimitz.com/"],
+    tags: ["アプリ", "Windows", "Mac", "ユニティちゃん"]
+    // group: none
 }];
 
 /*
