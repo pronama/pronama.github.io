@@ -982,7 +982,7 @@
     thumb: "077.jpg",
     images: ["077_1.jpg", "077_2.jpg"],
     urls: ["http://play.google.com/store/apps/details?id=com.KawakawaPlanning.mascotdream"],
-    tags: ["アプリ", "Android", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "クエリちゃん"]
+    tags: ["アプリ", "Android", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "クエリちゃん", "ハッカドール1号"]
     // group: none
 }, {
     id: "78",
