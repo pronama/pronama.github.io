@@ -1154,7 +1154,8 @@
     title: "このはちゃんたちが抜粋を読み上げてくれるWPプラグイン",
     desc: "Wordpressで記事に設定した「抜粋」をページ最上部でキャラクターの横に、セリフのように表示させるプラグインです。",
     creator: {
-        name: "Hinaloe"
+        name: "Hinaloe",
+        twitter: "hnle0"
     },
     thumb: "091.jpg",
     images: ["091_1.jpg", "091_2.jpg"],
@@ -1201,6 +1202,121 @@
     urls: ["http://www.rimitz.com/"],
     tags: ["アプリ", "Windows", "Mac", "ユニティちゃん"]
     // group: none
+}, {
+    id: "95",
+    title: "Mascot Talker",
+    desc: "プロ生ちゃんがランダムに話すだけのアプリです。",
+    creator: {
+        name: "t_feeder",
+        twitter: "t_feeder"
+    },
+    thumb: "095.jpg",
+    images: ["095_1.jpg", "095_2.jpg", "095_3.jpg"],
+    urls: ["https://play.google.com/store/apps/details?id=jp.dip.t22site.mascotapp&hl=ja"],
+    tags: ["アプリ", "Android", "プロ生ちゃん"]
+    // group: none
+}, {
+    id: "96",
+    title: "CYBER FIELD-K マスコットアプリ文化祭2014ver.",
+    desc: "プロ生ちゃんをフィーチャーした陣取りアクションゲームです。本バージョンでは背景に「マスコットアプリ文化祭」主催・協賛各団体のマスコットキャラクターの画像を使用しています。",
+    creator: {
+        name: "ZAP"
+    },
+    thumb: "096.jpg",
+    images: ["096_1.jpg", "096_2.jpg"],
+    urls: ["http://www.kit.hi-ho.ne.jp/zapzap/works.htm"],
+    tags: ["アプリ", "Windows", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "クエリちゃん", "東北ずん子", "ハッカドール1号"]
+    // group: none
+}, {
+    id: "97",
+    title: "クラウディアさんの傘予報",
+    desc: "出かけるときに傘を携帯したほうがいいかクラウディアさんがアドバイスをしてくれます。スタート画面のタイルで情報を表示します。インストール後に、アプリをスタート画面にピン止めしてください。タイルに情報が反映されないときは、アプリのメニューから更新をかけてください。",
+    creator: {
+        name: "kawauchi"
+    },
+    thumb: "097.jpg",
+    images: ["097_1.jpg", "097_2.jpg", "097_3.jpg", "097_4.jpg", "097_5.jpg", "097_6.jpg"],
+    urls: ["http://apps.microsoft.com/windows/ja-jp/app/4cfb034b-33e5-40ee-881c-b282e9afd63d"],
+    tags: ["アプリ", "Windows ストアアプリ", "クラウディア"]
+    // group: none
+}, {
+    id: "98",
+    title: "このはちゃんデスクトップマスコット",
+    desc: "このはちゃんのデスクトップマスコットを制作しました！ ちっさいこのはちゃんがあなたのデスクトップに現れます。それなりになめらかに動き，それなりに多彩な表情を見せてくれます。Windows用。",
+    creator: {
+        name: "はしのかも"
+    },
+    thumb: "098.jpg",
+    images: ["098_1.jpg", "098_2.jpg", "098_3.jpg"],
+    urls: ["http://1drv.ms/1vvxx0Y", "http://www.pixiv.net/member_illust.php?mode=medium&illust_id=47466943"],
+    tags: ["アプリ", "イラスト", "Windows", "美雲このは"],
+    group: "おでん"
+}, {
+    id: "99",
+    title: "ハッカあた〜っく",
+    desc: "君にシンクロするニュースアプリ『ハッカドール』っ!　……って実はいつも てんてこ舞いっ!\n毎日、記事の配信で追われているハッカちゃんを助けてあげよう。4方向で叫ぶリクエストの声にあわせて、正しい記事をタップで送信っ!　目指せハイスコア!!\n\n飛んでくる記事のアイコンを良く見て、タップ! タップっ!!\nスコアは Twitterや LINEにも送れるよ。\n\n● 間違えた記事をタップすると、タイムが減ってしまう! (レベルHARDのみ)\n● 不要な記事はスワイプすると、少しだけタイム回復!\n● 正解の記事をタップすると、次のリクエストに切り替わってタイムも回復!",
+    creator: {
+        name: "H.Holon",
+        twitter: "H_Holon"
+    },
+    thumb: "099.jpg",
+    images: ["099_1.jpg", "099_2.jpg", "099_3.jpg"],
+    urls: ["http://rainbow-jump.jp/hacka_attack/", "https://play.google.com/store/apps/details?id=jp.rainbow_jump.hacka_attack"],
+    tags: ["アプリ", "Android", "ハッカドール1号"]
+    // group: none
+}, {
+    id: "100",
+    title: "プロ生ちゃんエディタ",
+    desc: "Brackets( http://brackets.io/ )のテキストエディタの背景に、プロ生ちゃんたちを表示します。Visual StudioやAtomでなくてもいっしょに!",
+    creator: {
+        name: "笹野つやぴん",
+        twitter: "tuyapin"
+    },
+    thumb: "100.jpg",
+    images: ["100_1.jpg", "100_2.jpg", "100_3.jpg"],
+    urls: ["https://github.com/tuyapin/Brackets-Pronama-Editor"],
+    tags: ["アプリ", "プロ生ちゃん", "美雲このは", "美雲あんず", "クラウディア", "東北ずん子", "ハッカドール1号"]
+    // group: none
+}, {
+    id: "101",
+    title: "ハッカドール スキン for Zooper Widget",
+    desc: "Androidのホーム画面で使えるウィジェット「Zooper Widget」のスキンファイルです。このスキンを適用するとハッカドール1号がホーム画面に表示されます。（ほぼ）ランダムにバッテリー残量などいくつかのセリフを喋ってくれます。\n\nスキンの内容についての解説は自身のサイトでも行っています。\nhttp://www.orefolder.net/blog/2014/12/zooper-hackadoll-skin/",
+    creator: {
+        name: "orefolder",
+        twitter: "orefolder",
+        urls: ["http://www.orefolder.net/"]
+    },
+    thumb: "101.jpg",
+    images: ["101_1.jpg", "101_2.jpg", "101_3.jpg"],
+    urls: ["https://play.google.com/store/apps/details?id=orefolder.zwskin.hackadollr"],
+    tags: ["アプリ", "Android", "ハッカドール1号"]
+    // group: none
+}, {
+    id: "102",
+    title: "ハッカドール1号さんのホーム画面",
+    desc: "Androidのホーム画面をハッカドール1号を使ってカスタマイズしました。スマホを開いた瞬間からハッカドールがお迎えしてくれます。主にZooper Widgetというカスタマイズ用のウィジェットを使って作成しており、（ほぼ）ランダムにハッカドール1号がいくつかのセリフを喋ります。\nこれに使ったZooper WidgetのスキンはアプリにしてPlayストアで配布中で、別でマスコットアプリ文化祭に応募しています。",
+    creator: {
+        name: "orefolder",
+        twitter: "orefolder",
+        urls: ["http://www.orefolder.net/"]
+    },
+    thumb: "102.jpg",
+    images: ["102_1.jpg", "102_2.jpg", "102_3.jpg"],
+    urls: ["http://www.pixiv.net/member_illust.php?mode=medium&illust_id=47477038"],
+    tags: ["イラスト", "ハッカドール1号"]
+    // group: none
+}, {
+    id: "103",
+    title: "ますこっと！",
+    desc: "Andoroid用のライブ壁紙です、マスコットキャラの背景にSDキャラが出てきます。SDキャラはタッチするとジャンプします。",
+    creator: {
+        name: "イトウ イツキ"
+    },
+    thumb: "103.jpg",
+    images: ["103_1.jpg", "103_2.jpg", "103_3.jpg", "103_4.jpg", "103_5.jpg", "103_6.jpg"],
+    urls: ["https://play.google.com/store/apps/details?id=com.iigameworks.play.contestwallpaper"],
+    tags: ["アプリ", "Windows", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "クエリちゃん", "東北ずん子", "ハッカドール1号"],
+    group: "さつまいもグループ"
 }];
 
 /*
@@ -1213,8 +1329,8 @@
         twitter: "",
         urls: [""]
     },
-    thumb: "0.jpg",
-    images: ["0_1.jpg", "0_2.jpg"],
+    thumb: "1.jpg",
+    images: ["1_1.jpg", "1_2.jpg"],
     urls: [""],
     tags: ["アプリ"]
 */
