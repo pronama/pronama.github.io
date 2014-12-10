@@ -634,7 +634,7 @@
     thumb: "050.jpg",
     images: ["050_1.jpg", "050_2.jpg"],
     urls: ["https://twitter.com/kytomtom/status/538703958861021186"],
-    tags: ["プラモブロック", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "クエリちゃん"],
+    tags: ["写真", "プラモブロック", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "クエリちゃん"],
     group: "たまねぎグループ"
 }, {
     id: "51",
@@ -1261,8 +1261,8 @@
     },
     thumb: "099.jpg",
     images: ["099_1.jpg", "099_2.jpg", "099_3.jpg"],
-    urls: ["http://rainbow-jump.jp/hacka_attack/", "https://play.google.com/store/apps/details?id=jp.rainbow_jump.hacka_attack"],
-    tags: ["アプリ", "Android", "ハッカドール1号"]
+    urls: ["http://rainbow-jump.jp/hacka_attack/", "https://play.google.com/store/apps/details?id=jp.rainbow_jump.hacka_attack", "https://itunes.apple.com/us/app/hakkaata-kku/id943334501?l=ja&ls=1&mt=8"],
+    tags: ["アプリ", "Android", "iOS", "ハッカドール1号"]
     // group: none
 }, {
     id: "100",
@@ -1317,6 +1317,300 @@
     urls: ["https://play.google.com/store/apps/details?id=com.iigameworks.play.contestwallpaper"],
     tags: ["アプリ", "Windows", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "クエリちゃん", "東北ずん子", "ハッカドール1号"],
     group: "さつまいもグループ"
+}, {
+    id: "104",
+    title: "嫁がunityで踊った",
+    desc: "ミクがUnity上で踊るだけの動画です",
+    creator: {
+        name: "tagami"
+    },
+    thumb: "104.jpg",
+    images: ["104_1.jpg"],
+    urls: ["https://www.youtube.com/watch?v=iq9u8N7ZV80"],
+    tags: ["動画", "初音ミク"]
+    // group: none
+}, {
+    id: "105",
+    title: "集合絵（17歳以下）",
+    desc: "アプリ開発が間に合いそうにないから絵を描いたよ！　ずんこちゃんとハッカドール1号ちゃんも描きたかった･･･。",
+    creator: {
+        name: "テトロドトキ神",
+        twitter: "4156ni"
+    },
+    thumb: "105.jpg",
+    images: [],
+    urls: ["http://www.pixiv.net/member_illust.php?mode=medium&illust_id=47481809"],
+    tags: ["イラスト", "美雲このは", "美雲あんず", "プロ生ちゃん", "ユニティちゃん", "クエリちゃん"],
+    group: "かぼちゃグループ"
+}, {
+    id: "106",
+    title: "江ノ島で記念写真",
+    desc: "冬の江ノ島でシーキャンドルのライトアップを背に記念写真。これ撮ってる自分がネットで晒されてないか心配になるくらいには不審者でした。",
+    creator: {
+        name: "ToｍTom",
+        twitter: "kytomtom"
+    },
+    thumb: "106.jpg",
+    images: [],
+    urls: ["https://twitter.com/kytomtom/status/542311585943785472"],
+    tags: ["写真", "プラモブロック", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "クエリちゃん"],
+    group: "たまねぎグループ"
+}, {
+    id: "107",
+    title: "スクーラ",
+    desc: "人気ゲーム・話題のゲームを中心とした最新の2chまとめ記事を画像付きで表示します。アプリ内ブラウザでサイトが表示されるので、快適に記事を読むことが可能です。",
+    creator: {
+        name: "KEIKE DESORA"
+    },
+    thumb: "107.jpg",
+    images: ["107_1.jpg", "107_2.jpg", "107_3.jpg"],
+    urls: ["https://play.google.com/store/apps/details?id=com.scura.keikedesora"],
+    tags: ["アプリ", "Android", "ハッカドール1号"]
+    // group: none
+}, {
+    id: "108",
+    title: "ジャンプ！ユニティちゃん",
+    desc: " 飛び跳ねるユニティちゃん！　ブロックから落ちないように左右に移動しよう！　端末を左右に傾けるだけの簡単操作！",
+    creator: {
+        name: "Miya8887"
+    },
+    thumb: "108.jpg",
+    images: ["108_1.jpg", "108_2.jpg", "108_3.jpg", "108_4.jpg"],
+    urls: ["https://play.google.com/store/apps/details?id=jp.gr.java_conf.miya8887.jumpunitychan"],
+    tags: ["アプリ", "Android", "ユニティちゃん"]
+    // group: none
+}, {
+    id: "109",
+    title: "Spacoder RSS Prototype",
+    desc: "プロ生ちゃんも所属する情報処理研究会のメンバーが活躍する Web コミック「すぱこー」がすぐに読める！コンセプトを実現するアプリ・・・のプロトタイプ。",
+    creator: {
+        name: "You&I"
+    },
+    thumb: "109.jpg",
+    images: ["109_1.jpg", "109_2.jpg"],
+    urls: ["http://wp.me/p1A2xU-1o"],
+    tags: ["アプリ", "Windows", "プロ生ちゃん"]
+    // group: none
+}, {
+    id: "110",
+    title: "クエリちゃんライト",
+    desc: "クエリちゃんの懐中電灯アプリです。点灯するとクエリちゃんがまぶしくなります。緊急時の非常灯の機能もあります。",
+    creator: {
+        name: "kawauchi"
+    },
+    thumb: "110.jpg",
+    images: ["110_1.jpg", "110_2.jpg"],
+    urls: ["https://play.google.com/store/apps/details?id=info.mochidango.querylight"],
+    tags: ["アプリ", "Android", "クエリちゃん"]
+    // group: none
+}, {
+    id: "111",
+    title: "このデータで もぐら叩きを作ればキャラクターコンプリート賞をいただけると聞いて",
+    desc: "AMIGA OS 4.1用の普通の「もぐらたたきゲーム」です。「幸福の黄色いトンカチ」を操作して女の子たちを何回幸せにできる（叩ける）かを競います。「制限時間内に何回叩けるか？」と「時間無制限で３回ミスするまでプレイ可能」の２つのゲームモードを有しています。",
+    creator: {
+        name: "飯塚　連也"
+    },
+    thumb: "111.jpg",
+    images: ["111_1.jpg", "111_2.jpg", "111_3.jpg"],
+    urls: ["http://d.hatena.ne.jp/EXCEED/20141209"],
+    tags: ["アプリ", "AMIGA OS", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "クエリちゃん", "東北ずん子", "ハッカドール1号"]
+    // group: none
+}, {
+    id: "112",
+    title: "ハッカドールのパズル対戦",
+    desc: "新感覚マスコット対戦型パズルゲーム。ハッカドール1号でマスコット最強を目指そう。このゲームはandroidでもプレイできます。",
+    creator: {
+        name: "dera"
+    },
+    thumb: "112.jpg",
+    images: ["112_1.jpg", "112_2.jpg", "112_2.jpg"],
+    urls: ["http://derarara.com/hakkapuzzle/"],
+    tags: ["アプリ", "Windows", "Android", "ハッカドール1号", "プロ生ちゃん", "クラウディア", "東北ずん子", "東北きりたん"]
+    // group: none
+}, {
+    id: "113",
+    title: "ゆるいこのはたそ",
+    desc: "ただ、このはたそを眺めてニヤニヤする為だけのアプリです。ChromeAppとWebApp版があります。WebApp版はスマホでホーム登録して頂くと、それっぽい感じになります。\nなお、制作がギリギリとなってしまいα版です。ゆるいリマインダー機能（あくまでゆるい）を追加予定です。",
+    creator: {
+        name: "K",
+        twitter: "lpcwwwcom",
+        urls: ["http://lpcwww.com/"]
+    },
+    thumb: "113.jpg",
+    images: ["113_1.jpg"],
+    urls: ["http://goo.gl/xqAqRx", "http://app.lpcwww.com/"],
+    tags: ["アプリ", "Web", "Chrome", "美雲このは"],
+    group: "かぼちゃグループ"
+}, {
+    id: "114",
+    title: "勝手にカレンダー",
+    desc: "\"既存の画像を流用してカレンダーっぽい画像に仕上げてしまおう\"というコンセプトのアプリです。",
+    creator: {
+        name: "picolyl"
+    },
+    thumb: "114.jpg",
+    images: ["114_1.jpg"],
+    urls: ["https://aliapps.azurewebsites.net/calendar/"],
+    tags: ["アプリ", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "東北ずん子", "フィネス", "戸増千由莉", "すのこタン", "ユニティちゃん", "クエリちゃん"]
+    // group: none
+}, {
+    id: "115",
+    title: "UniMaze",
+    desc: "3D迷路を作ってオンラインでシェアできるアプリです。",
+    creator: {
+        name: "NKDTR",
+        twitter: "NKDTR"
+    },
+    thumb: "115.jpg",
+    images: ["115_1.jpg"],
+    urls: ["https://play.google.com/store/apps/details?id=com.JunkGames.DungeonMaker"],
+    tags: ["アプリ", "Android", "ユニティちゃん"],
+    group: "JunkGames"
+}, {
+    id: "116",
+    title: "プロ生ちゃんのIT勉強会カレンダー",
+    desc: "暮井 慧をテーマカラーにしたIT勉強会カレンダーの閲覧アプリです。",
+    creator: {
+        name: "Ryohlan"
+    },
+    thumb: "116.jpg",
+    images: ["116_1.jpg"],
+    urls: ["https://play.google.com/store/apps/details?id=jp.ryohlan.mascotitstudycalendar"],
+    tags: ["アプリ", "Android", "プロ生ちゃん"],
+    group: "かぼちゃグループ"
+}, {
+    id: "117",
+    title: "のろのろデスクトップマスコット",
+    desc: "作品の説明：デスクトップの下の方でマスコットたちがのろのろするデスクトップマスコットです。ロゴをダブルクリックすることでキャラクターが小さくなります。マスコットをクリックすると喋ります。",
+    creator: {
+        name: "アキヒロ",
+        twitter: "akihiro01051",
+        urls: ["http://akihiro0105.web.fc2.com/"]
+    },
+    thumb: "117.jpg",
+    images: ["117_1.jpg", "117_2.jpg"],
+    urls: ["http://akihiro0105.web.fc2.com/Downloads-3D.html"],
+    tags: ["アプリ", "Windows", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "クエリちゃん"],
+    group: "かぼちゃグループ"
+}, {
+    id: "118",
+    title: "バトルランナーユニティちゃん",
+    desc: "走って！戦って！ゴールを目指せ！！　オープンソース系アイドルユニティちゃんが活躍する爽快バトルランゲーム！\n「そんじゃ、始めるとしますかっ！」\nスコアランキング機能搭載！　プレイ動画も撮れるよ！！",
+    creator: {
+        name: "kan.kikuchi",
+        twitter: "kan_kikuchi",
+        urls: ["http://kan-kikuchi.com/"]
+    },
+    thumb: "118.jpg",
+    images: ["118_1.jpg", "118_2.jpg", "118_3.jpg", "118_4.jpg"],
+    urls: ["https://itunes.apple.com/jp/app/batorurannayunitichan/id887614992?mt=8&ign-mpt=uo%3D4", "https://play.google.com/store/apps/details?id=battle.runner.unitychan"],
+    tags: ["アプリ", "Android", "iOS", "ユニティちゃん"]
+    // group: none
+/*}, {
+    id: "119",
+    title: "",
+    desc: "",
+    creator: {
+        name: "",
+        twitter: "",
+        urls: [""]
+    },
+    thumb: "1.jpg",
+    images: ["1_1.jpg", "1_2.jpg"],
+    urls: [""],
+    tags: ["アプリ"]
+}, {
+    id: "120",
+    title: "",
+    desc: "",
+    creator: {
+        name: "",
+        twitter: "",
+        urls: [""]
+    },
+    thumb: "1.jpg",
+    images: ["1_1.jpg", "1_2.jpg"],
+    urls: [""],
+    tags: ["アプリ"]
+}, {
+    id: "121",
+    title: "",
+    desc: "",
+    creator: {
+        name: "",
+        twitter: "",
+        urls: [""]
+    },
+    thumb: "1.jpg",
+    images: ["1_1.jpg", "1_2.jpg"],
+    urls: [""],
+    tags: ["アプリ"]
+}, {
+    id: "122",
+    title: "",
+    desc: "",
+    creator: {
+        name: "",
+        twitter: "",
+        urls: [""]
+    },
+    thumb: "1.jpg",
+    images: ["1_1.jpg", "1_2.jpg"],
+    urls: [""],
+    tags: ["アプリ"]
+}, {
+    id: "123",
+    title: "",
+    desc: "",
+    creator: {
+        name: "",
+        twitter: "",
+        urls: [""]
+    },
+    thumb: "1.jpg",
+    images: ["1_1.jpg", "1_2.jpg"],
+    urls: [""],
+    tags: ["アプリ"]
+}, {
+    id: "124",
+    title: "",
+    desc: "",
+    creator: {
+        name: "",
+        twitter: "",
+        urls: [""]
+    },
+    thumb: "1.jpg",
+    images: ["1_1.jpg", "1_2.jpg"],
+    urls: [""],
+    tags: ["アプリ"]
+}, {
+    id: "125",
+    title: "",
+    desc: "",
+    creator: {
+        name: "",
+        twitter: "",
+        urls: [""]
+    },
+    thumb: "1.jpg",
+    images: ["1_1.jpg", "1_2.jpg"],
+    urls: [""],
+    tags: ["アプリ"]
+}, {
+    id: "126",
+    title: "",
+    desc: "",
+    creator: {
+        name: "",
+        twitter: "",
+        urls: [""]
+    },
+    thumb: "1.jpg",
+    images: ["1_1.jpg", "1_2.jpg"],
+    urls: [""],
+    tags: ["アプリ"]
+*/
 }];
 
 /*

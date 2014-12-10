@@ -48,7 +48,7 @@
             tags += '<a class="label label-primary" href="works.html?tag=' + encodeURIComponent(w.tags[j]) + '">' + w.tags[j] + '</a> ';
         }
 
-        if (w.group) {
+        if (w.group && !(w.group.indexOf("グループ") > 0)/*勝手にグループ OFF*/) {
             tags += '<a class="label label-default" href="works.html?group=' + encodeURIComponent(w.group) + '">' + w.group + '</a> ';
         }
 
