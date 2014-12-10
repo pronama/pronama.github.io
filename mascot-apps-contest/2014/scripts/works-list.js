@@ -1060,7 +1060,7 @@
     thumb: "083.jpg",
     images: ["083_1.jpg"],
     urls: ["http://michele-lap.azurewebsites.net/dev/mascot-apps-contest-sonicsensor.html"],
-    tags: ["アプリ", "ハードウェア", "クラウディアさん"],
+    tags: ["アプリ", "ハードウェア", "クラウディア"],
     group: "IGGG"
 }, {
     id: "84",
