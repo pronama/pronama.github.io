@@ -1423,7 +1423,7 @@
         name: "dera"
     },
     thumb: "112.jpg",
-    images: ["112_1.jpg", "112_2.jpg", "112_2.jpg"],
+    images: ["112_1.jpg", "112_2.jpg", "112_3.jpg"],
     urls: ["http://derarara.com/hakkapuzzle/"],
     tags: ["アプリ", "Windows", "Android", "ハッカドール1号", "プロ生ちゃん", "クラウディア", "東北ずん子", "東北きりたん"]
     // group: none
