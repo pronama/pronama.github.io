@@ -1607,6 +1607,316 @@
     urls: ["http://www.t1500.com/cg/mascot_apps.html"],
     tags: ["写真", "グッズ", "プロ生ちゃん", "クラウディア", "美雲このは", "ユニティちゃん", "クエリちゃん"],
     group: "かぼちゃグループ"
+}, {
+    id: "127",
+    title: "牛乳摂取量計測器",
+    desc: "飲んだ牛乳の量を記録して健康的な生活を送りましょう。牛乳をたくさん飲むとこのはちゃんが成長します。",
+    creator: {
+        name: "はしのかも"
+    },
+    thumb: "127.jpg",
+    images: ["127_1.jpg"],
+    urls: ["http://1drv.ms/1vvxx0Y", "http://hashinokamoapps.web.fc2.com/"],
+    tags: ["アプリ", "Windows", "美雲このは", "美雲あんず"],
+    group: "おでん"
+}, {
+    id: "128",
+    title: "dongli",
+    desc: "Windows上で動作するログインシステムです。任意のUSBが刺さっている場合はログインし、刺さっていない場合はロックを掛けます。ログインする際、パスワードは必要なくログイン処理はバイパスされるため、パスワードを外部保存する等のリスクを回避することが可能です（ロック画面にこのはちゃんの画像が表示されます）",
+    creator: {
+        name: "きりん",
+        twitter: "kkrnt",
+        urls: ["http://kkrnt.hatenablog.com/"]
+    },
+    thumb: "128.jpg",
+    images: ["128_1.jpg"],
+    urls: ["http://kkrnt.hatenablog.com/entry/2014/12/09/223406"],
+    tags: ["アプリ", "Windows", "美雲このは"]
+    // group: none
+}, {
+    id: "129",
+    title: "クエリちゃんイラストロジック",
+    desc: "クエリちゃんのイラストロジックです。通常のイラストロジックのルールで解くことができます。",
+    creator: {
+        name: "yuki"
+    },
+    thumb: "129.jpg",
+    images: [],
+    urls: ["http://www.pixiv.net/member_illust.php?mode=medium&illust_id=47492522"],
+    tags: ["イラスト", "クエリちゃん"],
+    group: "ほうれんそうグループ"
+}, {
+    id: "130",
+    title: "おばけこわいの！",
+    desc: "タッチで簡単操作！　クエリーちゃんとユニティちゃんを切り替えながら、目的地を触ってゴールまで導こう！　障害物や壁を避けて進んでくれます！　おばけに見つからないようにゴールを目指そう！",
+    creator: {
+        name: "NAOX"
+    },
+    thumb: "130.jpg",
+    images: ["130_1.jpg", "130_2.jpg", "130_3.jpg"],
+    urls: ["https://play.google.com/store/apps/details?id=jp.nao.ghostescape"],
+    tags: ["アプリ", "Android", "ユニティちゃん", "クエリちゃん"],
+    group: "ほうれんそうグループ"
+}, {
+    id: "131",
+    title: "うにけり！～ユニティちゃんを止めろッ！そのウニを蹴らせるなッ！～",
+    desc: "スマートフォンで遊ぶ新感覚のシューティング（FPS？）ゲームです。動画撮影する感覚で視点操作できます。ＡＲは使ってないのでiPhoneだけでＯＫ。iPhoneでユニティちゃんを色んなアングルから眺めながら追いかけっこしてキャッキャウフフできます(ﾟ∀ﾟ)",
+    creator: {
+        name: "たうろぽん(HoHoHo Games)",
+        twitter: "hohohogames",
+        urls: ["http://hohohogames.blog.fc2.com/"]
+    },
+    thumb: "131.jpg",
+    images: ["131_1.jpg"],
+    urls: ["https://www.youtube.com/watch?v=o62Tij5yGhc"],
+    tags: ["アプリ", "動画", "ユニティちゃん"],
+    group: "ほうれんそうグループ"
+}, {
+    id: "132",
+    title: "がお時計",
+    desc: "・Windows向けのデスクトップアプリケーション(デジタル時計)です。\n・画像のアニメーションに対応しており、キャラクターを動かすことも出来ます。\n・.NET 4.5以上をインストールしているVista以降のWindowsで動作をします。\n・今回のコンテストでは、アプリケーション本体及び、マスコットキャラクターのスキンの両方を作成いたしました。",
+    creator: {
+        name: "がお",
+        twitter: "gaogao_9",
+        urls: ["http://gaochan.herokuapp.com/"]
+    },
+    thumb: "132.jpg",
+    images: ["132_1.jpg"],
+    urls: ["http://gaochan.herokuapp.com/#gaoClock"],
+    tags: ["アプリ", "Windows", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "クエリちゃん", "東北ずん子", "ハッカドール1号"]
+    // group: none
+}, {
+    id: "133",
+    title: "ますこっと予定表",
+    desc: "キャラクター毎に色分したので、タスクの種類に応じて使い分けることができます。",
+    creator: {
+        name: "tacptac",
+        twitter: "tacptac"
+    },
+    thumb: "133.jpg",
+    images: ["133_1.jpg", "133_2.jpg"],
+    urls: ["https://play.google.com/store/apps/details?id=taka.namenon.mab"],
+    tags: ["アプリ", "Android", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "クエリちゃん", "東北ずん子", "ハッカドール1号"]
+    // group: none
+}, {
+    id: "134",
+    title: "みくもバースト！",
+    desc: "10秒間のバトルという、わずかな時間でひたすら画面をタップしてハイスコアを目指すゲームです。タップして上昇するバーストゲージが一定値を超えることで、さらに高いスコアが狙えます！　キャラクターは美雲このはと美雲あんずの2人から選べます。バトルを重ねることでどんどん強くなっていきます！",
+    creator: {
+        name: "yuukiar.co",
+        twitter: "yuuki_arc",
+        urls: ["http://yuukiar.co/apps/mikumo-burst/"]
+    },
+    thumb: "134.jpg",
+    images: ["134_1.jpg", "134_2.jpg", "134_3.jpg", "134_4.jpg"],
+    urls: ["https://play.google.com/store/apps/details?id=co.yuukiar.mikumo_burst"],
+    tags: ["アプリ", "Android", "美雲このは", "美雲あんず"],
+    group: "ほうれんそうグループ"
+}, {
+    id: "135",
+    title: "くえりんぱれ",
+    desc: "クエリちゃんが今日のお天気を教えてくれます。",
+    creator: {
+        name: "moyashiki"
+    },
+    thumb: "135.jpg",
+    images: ["135_1.jpg"],
+    urls: ["http://moyashiki.hateblo.jp/entry/2014/12/10/002017"],
+    tags: ["アプリ", "Windows", "クエリちゃん"],
+    group: "ほうれんそうグループ"
+}, {
+    id: "136",
+    title: "マスコットアプリキャラたちがデスクトップを走り回るだけのアプリ",
+    desc: "",
+    creator: {
+        name: "えむらぎ",
+        twitter: "M_ragi ",
+        urls: ["http://tricoro.hateblo.jp/"]
+    },
+    thumb: "136.jpg",
+    images: ["136_1.jpg", "136_2.jpg", "136_3.jpg", "136_4.jpg", "136_5.jpg"],
+    urls: ["http://tricoro.hateblo.jp/entry/2014/12/10/231155"],
+    tags: ["アプリ", "Windows", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん"]
+    // group: none
+}, {
+    id: "137",
+    title: "ハッカドールジャンプ!!",
+    desc: "君にシンクロするニュースアプリ『ハッカドール』…でおなじみの、ハッカドール一号ちゃんがぴょんぴょんするアクションゲームを作ってみました。ルールは簡単、勝手に飛び跳ねるハッカドールちゃんを左右に操作して上へ上へと登るだけ！　（二号と三号も追加するからもうちょい待ってね！）",
+    creator: {
+        name: "ぽるぽた",
+        twitter: "Hassy__1989"
+    },
+    thumb: "137.jpg",
+    images: ["137_1.jpg", "137_2.jpg"],
+    urls: ["http://unitygameuploader.jpn.org/game/2952.html"],
+    tags: ["アプリ", "Web", "ハッカドール1号"]
+    // group: none
+}, {
+    id: "138",
+    title: "フリーキック with ユニティちゃん",
+    desc: "３Ｄのフリーキックゲームです。ユニティちゃんが一喜一憂して応援してくれます。",
+    creator: {
+        name: "Trycalco"
+    },
+    thumb: "138.jpg",
+    images: ["138_1.jpg"],
+    urls: ["http://trycalco.blogspot.jp/2014/12/MascotApp2014FreeKickWithUnityChan.html"],
+    tags: ["アプリ", "Web", "ユニティちゃん"],
+    group: "ほうれんそうグループ"
+}, {
+    id: "139",
+    title: "プロ生ちゃんがうろうろするだけのページ",
+    desc: "単にプロ生ちゃんがウロウロするだけのWebページを作りました。 プログラミングにつかれた時にぼんやり眺めてまったりしてください。",
+    creator: {
+        name: "@ina_ani",
+        twitter: "ina_ani",
+        urls: ["http://d.hatena.ne.jp/inajob/"]
+    },
+    thumb: "139.jpg",
+    images: ["139_1.jpg"],
+    urls: ["http://inajob.github.io/urouro/"],
+    tags: ["アプリ", "Web", "プロ生ちゃん"]
+    // group: none
+}, {
+    id: "140",
+    title: "プロ生ちゃんの東京天気予報",
+    desc: "プロ生ちゃんが東京の天気予報を教えてくれます。",
+    creator: {
+        name: "kag_web",
+        twitter: "kag_web"
+    },
+    thumb: "140.jpg",
+    images: ["140_1.png", "140_2.jpg"],
+    urls: ["https://play.google.com/store/apps/details?id=jp.anect.pronama_weather_forecasts"],
+    tags: ["アプリ", "Android", "プロ生ちゃん"]
+    // group: none
+}, {
+    id: "141",
+    title: "戦車のってゴー！",
+    desc: "キャラクターたちを落車させないように戦車を操作し、起伏を乗り越えてゴールを目指すゲーム。",
+    creator: {
+        name: "T-Na",
+        twitter: "tna06r2"
+    },
+    thumb: "141.jpg",
+    images: ["141_1.jpg"],
+    urls: ["http://yellow.ribbon.to/~tna/?url=games/tank_notte_go/index.xml"],
+    tags: ["アプリ", "Web", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "クエリちゃん", "東北ずん子", "ハッカドール1号"]
+    // group: none
+}, {
+    id: "142",
+    title: "振りーハッカちゃん",
+    desc: "スマートフォンの動きに併せて動くものを試してみたくて作成しましたよっ！　とっても簡単でとっても可愛いんですっ！　あ！　腹パンしても何も起きません！",
+    creator: {
+        name: "柳生にんにく",
+        twitter: "y_nin_niku"
+    },
+    thumb: "142.jpg",
+    images: ["142_1.jpg", "142_2.jpg", "142_3.jpg"],
+    urls: ["http://jsrun.it/y_nin_niku/ninniku_hackadoll"],
+    tags: ["アプリ", "Web", "ハッカドール1号"]
+    // group: none
+}, {
+    id: "143",
+    title: "characters",
+    desc: "同じキャラクターを合わせて新しいキャラクターにしていくパズルゲームです。基本的に2048",
+    creator: {
+        name: "高橋忍",
+        twitter: "shinoblogavi"
+    },
+    thumb: "143.jpg",
+    images: ["143_1.jpg"],
+    urls: ["http://apps.microsoft.com/windows/app/1b348514-9e73-4aa3-8ee4-65ec2c6b24dc", "http://www.windowsphone.com/s?appid=53e5c5f6-3f4b-46e2-b3ab-4055c76faa4b"],
+    tags: ["アプリ", "Windows ストアアプリ", "Windws Phone", "美雲あんず", "美雲このは", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "クエリちゃん"]
+    // group: none
+}, {
+    id: "144",
+    title: "クエリちゃん、可愛いので描いてみた♡",
+    desc: "アプリ作れないので、再びイラストで参加です(^o^)丿　クエリちゃん可愛いよ！",
+    creator: {
+        name: "呉学人",
+        twitter: "gogakujin"
+    },
+    thumb: "144.jpg",
+    images: [],
+    urls: ["http://www.pixiv.net/member_illust.php?mode=medium&illust_id=47497148"],
+    tags: ["イラスト", "クエリちゃん"]
+    // group: none
+}, {
+    id: "145",
+    title: "クラウディアさんの温度を測ろう",
+    desc: "クラウディアさんの額のところに設置している温度湿度センサで温度を測定し，その値を表示します。Aduino Mega 2560で動作しています。",
+    creator: {
+        name: "michele_lap",
+        urls: ["http://www.iggg.org/"]
+    },
+    thumb: "145.jpg",
+    images: ["145_1.jpg"],
+    urls: ["http://michele-lap.azurewebsites.net/dev/mascot-apps-contest-t_h.php"],
+    tags: ["アプリ", "クラウディア", "クラウディア"],
+    group: "IGGG"
+}, {
+    id: "146",
+    title: "マスコットすまっしゅ！",
+    desc: "マスコットをタッチしてふっとばすだけのゲームです。ブラウザから遊べます。",
+    creator: {
+        name: "nazonami"
+    },
+    thumb: "146.jpg",
+    images: ["146_1.jpg"],
+    urls: ["http://nazonami.github.io/"],
+    tags: ["アプリ", "Web", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "クエリちゃん", "ハッカドール1号"]
+    // group: none
+}, {
+    id: "147",
+    title: "Kurei Kei Watch",
+    desc: "日時を表示するためのアプリです。Flameでの使用を想定して作りました。現在日時表示以外に特別なことは何もしません。音声を含めたアッ プデートの予定があります。",
+    creator: {
+        name: "WhiteHawk"
+    },
+    thumb: "147.jpg",
+    images: ["147_1.png"],
+    urls: ["https://marketplace.firefox.com/app/kurei_kei_watch/"],
+    tags: ["アプリ", "Firefox OS", "プロ生ちゃん"],
+    group: "ほうれんそうグループ"
+}, {
+    id: "148",
+    title: "ますこっとばすけっと",
+    desc: "マスコットキャラクターたちが、落ちているりんごをカゴに投げ入れるゲームです。オンラインで４人対戦が可能です。一番りんごを入れた人が勝ちだ！",
+    creator: {
+        name: "EFB〜相手は死ぬ〜(いも(@adarapata), どじねこさん(@dojinekosan), 林田宗篤(@MuneatsuH))",
+        twitter: "adarapata"
+    },
+    thumb: "148.jpg",
+    images: ["148_1.jpg", "148_2.jpg", "148_3.jpg", "148_4.jpg", "148_5.jpg"],
+    urls: ["http://mascot-basket.efb.blue/"],
+    tags: ["アプリ", "Web", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "クエリちゃん", "東北ずん子"]
+    // group: none
+}, {
+    id: "149",
+    title: "Kinect v2でマスコットになるやつ",
+    desc: "Kinect v2を使ってあそぶアプリです。起動してKinectの前に立ってみるとあら不思議、みんなマスコットになっちゃった♪ これから私たち、どうなっちゃうの～！",
+    creator: {
+        name: "Buu",
+        twitter: "buu0528"
+    },
+    thumb: "149.jpg",
+    images: ["149_1.jpg", "149_2.jpg", "149_3.jpg"],
+    urls: ["http://mascot-apps-contest-2014.buu0528.com/"],
+    tags: ["アプリ", "Windows", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん"],
+    group: "ほうれんそうグループ"
+}, {
+    id: "150",
+    title: "マスコットキャラクター　じゃんけんノックアウト！！",
+    desc: "じゃんけんができます！・・・それだけです。。。汗",
+    creator: {
+        name: "まぼろしのおに"
+    },
+    thumb: "150.jpg",
+    images: ["150_1.jpg"],
+    urls: ["http://unityroom.com/games/play/308"],
+    tags: ["アプリ", "Web", "ユニティちゃん", "プロ生ちゃん"],
+    group: "ほうれんそうグループ"
 }];
 
 /*
