@@ -2110,6 +2110,18 @@
     urls: ["http://github.com/raindoll/AppleFarm"],
     tags: ["アプリ", "Windows", "美雲あんず"]
     // group: none
+}, {
+    id: "166",
+    title: "UniLive! Mascot App festival!!",
+    desc: "『ユニライブ！マスコットアプリフェスティバル（マスフェス）』はスマホで遊べるリズムアクションゲーム♪ユニティちゃんの楽曲で遊べるライブパートで、8人と一緒にマスコットアプリ文化祭を盛り上げよう！",
+    creator: {
+        name: "PIST(らなとす(@Ranats_rifle), そけと(@socket_x), シュータ( @sj_7shu))",
+        twitter: "Ranats_rifle"
+    },
+    thumb: "166.jpg",
+    images: ["166_1.jpg", "166_2.jpg", "166_3.jpg"],
+    urls: ["https://github.com/socketo/unilive"],
+    tags: ["アプリ", "Android", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "クエリちゃん", "東北ずん子", "ハッカドール1号"]
 }];
 
 /*
