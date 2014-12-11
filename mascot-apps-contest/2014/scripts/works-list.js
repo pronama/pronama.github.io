@@ -1253,7 +1253,7 @@
     group: "おでん"
 }, {
     id: "99",
-    title: "ハッカあた〜っく",
+    title: "ハッカあた～っく",
     desc: "君にシンクロするニュースアプリ『ハッカドール』っ!　……って実はいつも てんてこ舞いっ!\n毎日、記事の配信で追われているハッカちゃんを助けてあげよう。4方向で叫ぶリクエストの声にあわせて、正しい記事をタップで送信っ!　目指せハイスコア!!\n\n飛んでくる記事のアイコンを良く見て、タップ! タップっ!!\nスコアは Twitterや LINEにも送れるよ。\n\n● 間違えた記事をタップすると、タイムが減ってしまう! (レベルHARDのみ)\n● 不要な記事はスワイプすると、少しだけタイム回復!\n● 正解の記事をタップすると、次のリクエストに切り替わってタイムも回復!",
     creator: {
         name: "H.Holon",
@@ -1506,111 +1506,107 @@
     urls: ["https://itunes.apple.com/jp/app/batorurannayunitichan/id887614992?mt=8&ign-mpt=uo%3D4", "https://play.google.com/store/apps/details?id=battle.runner.unitychan"],
     tags: ["アプリ", "Android", "iOS", "ユニティちゃん"]
     // group: none
-/*}, {
+}, {
     id: "119",
-    title: "",
-    desc: "",
+    title: "ハッカちゃん支援",
+    desc: "ベストiPhoneアプリおめでとう！もっともっと輪が広がることを願って。",
     creator: {
-        name: "",
-        twitter: "",
-        urls: [""]
+        name: "カケアミ"
     },
-    thumb: "1.jpg",
-    images: ["1_1.jpg", "1_2.jpg"],
-    urls: [""],
-    tags: ["アプリ"]
+    thumb: "119.jpg",
+    images: [],
+    urls: ["http://www.pixiv.net/member_illust.php?mode=medium&illust_id=47489960"],
+    tags: ["イラスト", "ハッカドール1号"]
+    // group: none
 }, {
     id: "120",
-    title: "",
-    desc: "",
+    title: "ROCKET MASCOTS",
+    desc: "ついに地球を離れ、宇宙に飛び出したユニティちゃん。ユニティちゃんを操作して、たくさんのマスコットを回収してください。隕石に当たるとGAME OVERです。",
     creator: {
-        name: "",
-        twitter: "",
-        urls: [""]
+        name: "ラムダ"
     },
-    thumb: "1.jpg",
-    images: ["1_1.jpg", "1_2.jpg"],
-    urls: [""],
-    tags: ["アプリ"]
+    thumb: "120.jpg",
+    images: ["120_1.jpg", "120_2.jpg", "120_3.jpg"],
+    urls: ["https://play.google.com/store/apps/details?id=com.lambda.rocket"],
+    tags: ["アプリ", "Android", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "東北ずん子", "ハッカドール1号"]
+    // group: none
 }, {
     id: "121",
-    title: "",
-    desc: "",
+    title: "プロ生ちゃん クロック",
+    desc: "ブラウザ上で動作する時計。ニコ生ちゃんの音声で日付と時間を伝えます。時報とアラーム機能は間に合いませんでした。随時追加していきます。",
     creator: {
-        name: "",
-        twitter: "",
-        urls: [""]
+        name: "さばぞう"
     },
-    thumb: "1.jpg",
-    images: ["1_1.jpg", "1_2.jpg"],
-    urls: [""],
-    tags: ["アプリ"]
+    thumb: "121.jpg",
+    images: ["121_1.jpg"],
+    urls: ["http://szo.orz.ne.jp/pronamachan-clock/"],
+    tags: ["アプリ", "Web", "プロ生ちゃん"]
+    // group: none
 }, {
     id: "122",
-    title: "",
-    desc: "",
+    title: "クエリちゃんの戦い",
+    desc: "クエリちゃんが戦う3Dアクションゲームです。クリア条件を満たせばゲームクリア、充電が切れるか制限時間を超えたらゲームオーバーになります。",
     creator: {
-        name: "",
-        twitter: "",
-        urls: [""]
+        name: "ogamita777",
+        twitter: "ogamita777",
+        urls: ["http://ogamita777.info/"]
     },
-    thumb: "1.jpg",
-    images: ["1_1.jpg", "1_2.jpg"],
-    urls: [""],
-    tags: ["アプリ"]
+    thumb: "122.jpg",
+    images: ["122_1.jpg", "122_2.jpg", "122_3.jpg", "122_4.jpg", "122_5.jpg"],
+    urls: ["http://ogamita777.info/product/querychan.html"],
+    tags: ["アプリ", "Web", "クエリちゃん"],
+    group: "おでん"
 }, {
     id: "123",
-    title: "",
-    desc: "",
+    title: "あんずはたあげ",
+    desc: "赤と白のボタンをおして支持されたとおりに旗の上げ下げを行うゲームです",
     creator: {
-        name: "",
-        twitter: "",
-        urls: [""]
+        name: "It3（アイティースリー）"
     },
-    thumb: "1.jpg",
-    images: ["1_1.jpg", "1_2.jpg"],
-    urls: [""],
-    tags: ["アプリ"]
+    thumb: "123.jpg",
+    images: ["123_1.jpg", "123_2.jpg"],
+    urls: ["https://play.google.com/store/apps/details?id=com.anzu.anzu_flag&hl=ja"],
+    tags: ["アプリ", "Android", "美雲あんず"]
+    // group: none
 }, {
     id: "124",
-    title: "",
-    desc: "",
+    title: "プランニングポーカー-マスコットアプリ文化祭バージョン",
+    desc: "アジャイルなチームプロジェクトのお供に！　ローカルネットワーク内で接続して、プランニングポーカーをしましょう！",
     creator: {
-        name: "",
-        twitter: "",
-        urls: [""]
+        name: "しんす",
+        twitter: "fxxk_authority",
+        urls: ["http://shinsu.azurewebsites.net/"]
     },
-    thumb: "1.jpg",
-    images: ["1_1.jpg", "1_2.jpg"],
-    urls: [""],
-    tags: ["アプリ"]
+    thumb: "124.jpg",
+    images: ["124_1.jpg", "124_2.jpg"],
+    urls: ["http://apps.microsoft.com/windows/ja-jp/app/8e0b982b-1319-4b9d-9807-f25c7fd6fd32", "http://www.windowsphone.com/s?appid=49d63e83-560e-4cee-973d-bb423266efad"],
+    tags: ["アプリ", "Windows ストアアプリ", "Windows Phone", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "クエリちゃん"]
+    // group: none
 }, {
     id: "125",
-    title: "",
-    desc: "",
+    title: "横スクロールゲーム風年賀状",
+    desc: "そろそろ年賀状書き始めなきゃいけない時期ですね。そんなあなたのために雪景色の横スクロールゲーム風ユニティちゃんの年賀状をつくりました。イラレデータもあるので自分の好きなマップが作れます。",
     creator: {
-        name: "",
-        twitter: "",
-        urls: [""]
+        name: "さや",
+        urls: ["http://saya3833.hateblo.jp/"]
     },
-    thumb: "1.jpg",
-    images: ["1_1.jpg", "1_2.jpg"],
-    urls: [""],
-    tags: ["アプリ"]
+    thumb: "125.jpg",
+    images: ["125_1.jpg", "125_2.jpg"],
+    urls: ["http://saya3833.hateblo.jp/entry/2014/12/10/163847"],
+    tags: ["イラスト", "素材", "ユニティちゃん"]
 }, {
     id: "126",
-    title: "",
-    desc: "",
+    title: "マスコットアプリ文化祭なタッチカバー",
+    desc: "Surface用のタッチカバーをマスコットアプリ文化祭キャラのデフォルメイラストでカラフルにしてみました。元々タッチセンサーを使用したフラットなキーボードなので、このように全面に絵柄を貼り付けても元のタッチカバーと同様に使用できます。同絵柄の壁紙、キャラクター毎の透過PNG画像も用意しました。…あんずさんごめんなさい。",
     creator: {
-        name: "",
-        twitter: "",
-        urls: [""]
+        name: "下小川",
+        urls: ["http://www.t1500.com/"]
     },
-    thumb: "1.jpg",
-    images: ["1_1.jpg", "1_2.jpg"],
-    urls: [""],
-    tags: ["アプリ"]
-*/
+    thumb: "126.jpg",
+    images: ["126_1.jpg", "126_2.jpg"],
+    urls: ["http://www.t1500.com/cg/mascot_apps.html"],
+    tags: ["写真", "グッズ", "プロ生ちゃん", "クラウディア", "美雲このは", "ユニティちゃん", "クエリちゃん"],
+    group: "かぼちゃグループ"
 }];
 
 /*
