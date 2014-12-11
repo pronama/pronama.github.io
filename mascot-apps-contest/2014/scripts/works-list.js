@@ -1853,7 +1853,7 @@
     thumb: "145.jpg",
     images: ["145_1.jpg"],
     urls: ["http://michele-lap.azurewebsites.net/dev/mascot-apps-contest-t_h.php"],
-    tags: ["アプリ", "クラウディア", "クラウディア"],
+    tags: ["アプリ", "ハードウェア", "クラウディア", "クラウディア"],
     group: "IGGG"
 }, {
     id: "146",
@@ -1917,6 +1917,199 @@
     urls: ["http://unityroom.com/games/play/308"],
     tags: ["アプリ", "Web", "ユニティちゃん", "プロ生ちゃん"],
     group: "ほうれんそうグループ"
+}, {
+    id: "151",
+    title: "恋愛カクテル 〜あんず ver.〜",
+    desc: "顔アイコンを４つつなげると、そのアイコンが消えます。美雲あんずのアイコンを消すとハートがたまります。ハートを４つためるとクリアです。",
+    creator: {
+        name: "よいちろくろう",
+        twitter: "v416"
+    },
+    thumb: "151.jpg",
+    images: ["151_1.jpg"],
+    urls: ["http://9leap.net/games/4427/"],
+    tags: ["アプリ", "Web", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "クエリちゃん"]
+    // group: none
+}, {
+    id: "152",
+    title: "SekkiWallpaperChanger",
+    desc: "設定ボタンを押し画像と表示の仕方を選びます。端末をくるくる回すと壁紙が変更されます。",
+    creator: {
+        name: "セッキー"
+    },
+    thumb: "152.jpg",
+    images: ["152_1.jpg", "152_2.jpg", "152_3.jpg", "152_4.jpg", "152_5.jpg"],
+    urls: ["http://sekki.org/wordpress/?p=507"],
+    tags: ["アプリ", "Windows", "美雲このは", "美雲あんず", "プロ生ちゃん"]
+    // group: none
+}, {
+    id: "153",
+    title: "クエリおとし",
+    desc: "クエリちゃんでだるま落としが遊べます。ひまつぶしにどうぞ。たくさん充電してあげてください。",
+    creator: {
+        name: "ashiko"
+    },
+    thumb: "153.jpg",
+    images: ["153_1.jpg"],
+    urls: ["http://103.41.62.161/ashiko/"],
+    tags: ["アプリ", "Web", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "クエリちゃん"]
+    // group: none
+}, {
+    id: "154",
+    title: "プロ生ちゃんが動くだけ",
+    desc: "クリックするとプロ生ちゃんがアニメーションするWebアプリです。PCからアクセスしてください。Unity Web Player (無料)のインストールが必要になります。",
+    creator: {
+        name: "gaurasan",
+        twitter: "gaura_san"
+    },
+    thumb: "154.jpg",
+    images: ["154_1.jpg", "154_2.jpg"],
+    urls: ["http://hatumidou.main.jp/"],
+    tags: ["アプリ", "Web", "プロ生ちゃん"]
+    // group: none
+}, /*{
+    id: "155",
+    title: "",
+    desc: "",
+    creator: {
+        name: "",
+        twitter: "",
+        urls: [""]
+    },
+    thumb: "155.jpg",
+    images: ["1_1.jpg", "1_2.jpg"],
+    urls: [""],
+    tags: ["アプリ"]
+},*/ {
+    id: "156",
+    title: "Live2Dでプロ生ちゃん",
+    desc: "プロ生ちゃんが可愛かったのでLive2D化してみました♪　４つのモーション切替と音声が流れます。",
+    creator: {
+        name: "naotaro",
+        twitter: "naotaro0123",
+        urls: ["http://ameblo.jp/chicktack123/"]
+    },
+    thumb: "156.jpg",
+    images: ["156_1.jpg", "156_2.jpg"],
+    urls: ["http://unityroom.com/games/play/310"],
+    tags: ["アプリ", "Web", "プロ生ちゃん"],
+    group: "ほうれんそうグループ"
+}, {
+    id: "157",
+    title: "マスコットもぐらたたき",
+    desc: "もぐらたたきを作れと言われた気がしたので、マスコット文化祭 2014 のマスコットたちがもぐらたたきになりました。",
+    creator: {
+        name: "MtCedar",
+        twitter: "MtCedar"
+    },
+    thumb: "157.jpg",
+    images: ["157_1.jpg"],
+    urls: ["https://sites.google.com/site/windowathleticmascots/mascotmogura"],
+    tags: ["アプリ", "iOS", "Web", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "クエリちゃん"]
+    // group: none
+}, {
+    id: "158",
+    title: "YOU CAN FLY!",
+    desc: "キュートなマスコットを星空に飛ばそう！",
+    creator: {
+        name: "Nanashia",
+        twitter: "Nanashia"
+    },
+    thumb: "158.jpg",
+    images: ["158_1.jpg", "158_2.jpg", "158_3.jpg"],
+    urls: ["http://nanashia.github.io/mascot-apps-contest-YOUCANFLY/"],
+    tags: ["アプリ", "Web", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "クエリちゃん"]
+    // group: none
+}, {
+    id: "159",
+    title: "Unityちゃんの冒険",
+    desc: "Unityちゃんを操作して遊ぶアクションゲームです。",
+    creator: {
+        name: "yanpen3",
+        twitter: "yanpen3"
+    },
+    thumb: "159.jpg",
+    images: ["159_1.jpg"],
+    urls: ["http://unitygameuploader.jpn.org/game/2975.html"],
+    tags: ["アプリ", "Web", "ユニティちゃん"]
+    // group: none
+}, {
+    id: "160",
+    title: "ユニティちゃん制服衣装",
+    desc: "ユニティちゃんの学校の制服を作りました！小碓学園高等部の制服です。",
+    creator: {
+        name: "さや",
+        urls: ["http://saya3833.hateblo.jp/"]
+    },
+    thumb: "160.jpg",
+    images: ["160_1.jpg", "160_2.jpg"],
+    urls: ["http://saya3833.hateblo.jp/entry/2014/12/11/051403"],
+    tags: ["写真", "グッズ", "ユニティちゃん"],
+    group: "さつまいもグループ"
+}, {
+    id: "161",
+    title: "このはちゃんと一緒♪",
+    desc: "このはちゃんをバックにツイートするだけのクライアントだよっ！ツイート以外何も出来ないしバグもあるけど許してっ！Tweet now対応予定！(仮)",
+    creator: {
+        name: "Hinaloe",
+        twitter: "hnle0"
+    },
+    thumb: "161.jpg",
+    images: ["161_1.jpg"],
+    urls: ["https://dply.me/6sthbi"],
+    tags: ["アプリ", "Android", "美雲このは"],
+    group: "さつまいもグループ"
+}, {
+    id: "162",
+    title: "東北ずん子の世界ずんだ化旅行~東北編~",
+    desc: "ちびずんこを操作して東北の名所名産をずんだ化してしまいましょう。まったりクリック＆放置ゲー。ずんこが増えて、愛でる、そんなゲーム。",
+    creator: {
+        name: "鉄",
+        twitter: "tetsujp84"
+    },
+    thumb: "162.jpg",
+    images: ["162_1.jpg", "162_2.jpg"],
+    urls: ["http://unitygameuploader.jpn.org/game/2988.html"],
+    tags: ["アプリ", "Web", "東北ずん子"],
+    group: "ほうれんそうグループ"
+}, {
+    id: "163",
+    title: "ずん子on伺か",
+    desc: "デスクトップマスコットといえば「伺か」をはずすわけにはいけないだろうという一心で応募しました。ちょっとWeb移植して動くようにしてみたやつで、スマートフォンでも動くよ！　ずんちゃんといっしょ！な感じからまた一段変な子なような、そんなずん子ちゃんをときたま眺めたりするためのアプリ？です。こんな感じのアプリ？を広く普及した「伺か」の方式で作れるライブラリ「如何か」のデモでもあります。",
+    creator: {
+        name: "奈良阪某@如何か開発チーム",
+        urls: ["http://ikagaka.github.io/Ikagaka.demo/"]
+    },
+    thumb: "163.jpg",
+    images: ["163_1.jpg", "163_2.jpg"],
+    urls: ["http://narazaka.github.io/Ikagaka.demo.zunko/"],
+    tags: ["アプリ", "Web", "東北ずん子"],
+    group: "ほうれんそうグループ"
+}, {
+    id: "164",
+    title: "マスコットアプリ文化祭2014キャラクターズクロック",
+    desc: "背景にマスコットキャラクターの画像が表示されるアナログ時計です。ウィンドウのどこかをクリックすると背景画像を切り替えることが出来ます。",
+    creator: {
+        name: "レニウム(75)とユカイな仲間たち"
+    },
+    thumb: "164.jpg",
+    images: ["164_1.jpg", "164_2.jpg"],
+    urls: ["https://github.com/zenito9970/App-culture-festa-characters-watch"],
+    tags: ["アプリ", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "クエリちゃん"]
+    // group: none
+}, {
+    id: "165",
+    title: "あんずのリンゴ農園",
+    desc: "あんずジャムが入ったアップルパイが好きな美雲あんずがアップルパイを食べるためにリンゴを集めるというだけのゲームです。難易度などはないです。",
+    creator: {
+        name: "れいん",
+        twitter: "raindoll168"
+    },
+    thumb: "165.jpg",
+    images: ["165_1.jpg"],
+    urls: ["http://github.com/raindoll/AppleFarm"],
+    tags: ["アプリ", "Windows", "美雲あんず"]
+    // group: none
 }];
 
 /*
