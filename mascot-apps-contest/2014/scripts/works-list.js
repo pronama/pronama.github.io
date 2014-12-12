@@ -1709,7 +1709,7 @@
     },
     thumb: "134.jpg",
     images: ["134_1.jpg", "134_2.jpg", "134_3.jpg", "134_4.jpg"],
-    urls: ["https://play.google.com/store/apps/details?id=co.yuukiar.mikumo_burst"],
+    urls: ["https://play.google.com/store/apps/details?id=co.yuukiar.mikumo_burst2&hl=ja"],
     tags: ["アプリ", "Android", "美雲このは", "美雲あんず"],
     group: "ほうれんそうグループ"
 }, {
@@ -1884,7 +1884,7 @@
     title: "ますこっとばすけっと",
     desc: "マスコットキャラクターたちが、落ちているりんごをカゴに投げ入れるゲームです。オンラインで４人対戦が可能です。一番りんごを入れた人が勝ちだ！",
     creator: {
-        name: "EFB〜相手は死ぬ〜(いも(@adarapata), どじねこさん(@dojinekosan), 林田宗篤(@MuneatsuH))",
+        name: "EFB～相手は死ぬ～(いも(@adarapata), どじねこさん(@dojinekosan), 林田宗篤(@MuneatsuH))",
         twitter: "adarapata"
     },
     thumb: "148.jpg",
@@ -1919,7 +1919,7 @@
     group: "ほうれんそうグループ"
 }, {
     id: "151",
-    title: "恋愛カクテル 〜あんず ver.〜",
+    title: "恋愛カクテル ～あんず ver.～",
     desc: "顔アイコンを４つつなげると、そのアイコンが消えます。美雲あんずのアイコンを消すとハートがたまります。ハートを４つためるとクリアです。",
     creator: {
         name: "よいちろくろう",

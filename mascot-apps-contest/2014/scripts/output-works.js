@@ -13,11 +13,9 @@
     var t = "";
     for (var i = 0; i < works.length; i++) {
         var w = works[i];
-        var id = i + 1;
-
 
         var ary = new Array(
-            q('=HYPERLINK("http://pronama.github.io/mascot-apps-contest/2014/works.html?id=' + id + '","'+ id + '")'),
+            q('=HYPERLINK("http://pronama.github.io/mascot-apps-contest/2014/works.html?id=' + w.id + '","'+ w.id + '")'),
             q(w.title),
             q(w.creator.name),
             q(w.desc),
