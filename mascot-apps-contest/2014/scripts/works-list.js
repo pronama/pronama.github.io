@@ -1533,7 +1533,7 @@
 }, {
     id: "121",
     title: "プロ生ちゃん クロック",
-    desc: "ブラウザ上で動作する時計。ニコ生ちゃんの音声で日付と時間を伝えます。時報とアラーム機能は間に合いませんでした。随時追加していきます。",
+    desc: "ブラウザ上で動作する時計。プロ生ちゃんの音声で日付と時間を伝えます。時報とアラーム機能は間に合いませんでした。随時追加していきます。",
     creator: {
         name: "さばぞう"
     },
@@ -1648,7 +1648,7 @@
 }, {
     id: "130",
     title: "おばけこわいの！",
-    desc: "タッチで簡単操作！　クエリーちゃんとユニティちゃんを切り替えながら、目的地を触ってゴールまで導こう！　障害物や壁を避けて進んでくれます！　おばけに見つからないようにゴールを目指そう！",
+    desc: "タッチで簡単操作！　クエリちゃんとユニティちゃんを切り替えながら、目的地を触ってゴールまで導こう！　障害物や壁を避けて進んでくれます！　おばけに見つからないようにゴールを目指そう！",
     creator: {
         name: "NAOX"
     },
@@ -2122,6 +2122,54 @@
     images: ["166_1.jpg", "166_2.jpg", "166_3.jpg"],
     urls: ["https://github.com/socketo/unilive"],
     tags: ["アプリ", "Android", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "クエリちゃん", "東北ずん子", "ハッカドール1号"]
+}, {
+    id: "167",
+    title: "JCROM用プロ生ちゃんのテーマ",
+    desc: "Android端末をプロ生ちゃん色に染めるテーマです。ロックスクリーン、ホームスクリーン、ナビゲーションキー、通知領域、ブートアニメーション等、色々な所にプロ生ちゃんの画像が設定されます。また、電池残量不足、スクリーンロック、スクリーンロック解除時にプロ生ちゃんが喋ります。",
+    creator: {
+        name: "sola",
+        twitter: "androidsola",
+        urls: ["https://sites.google.com/site/jcromproject/"]
+    },
+    thumb: "167.jpg",
+    images: ["167_1.jpg", "167_2.jpg", "167_3.jpg", "167_4.jpg", "167_5.jpg", "167_6.jpg", "167_7.jpg", "167_8.jpg", "167_9.jpg"],
+    urls: ["https://play.google.com/store/apps/details?id=net.jcrom.theme.sola.pronama", "https://play.google.com/store/apps/details?id=net.jcrom.theme.sola.pronamafhd", "https://play.google.com/store/apps/details?id=net.jcrom.theme.sola.pronamatab"],
+    tags: ["アプリ", "Android", "プロ生ちゃん"]
+}, {
+    id: "168",
+    title: "マスコットアプリツイートビューア",
+    desc: "マスコットアプリ文化祭2014参加キャラクターのツイートを表示するアプリです。トップの各キャラクターアイコンをクリックすると、キャラクターのツイートが表示されます。Windows App Studioで作成されています。",
+    creator: {
+        name: "かげちゃん",
+        twitter: "kage1208",
+        urls: ["http://kage1208.seesaa.net/"]
+    },
+    thumb: "168.jpg",
+    images: ["168_1.jpg", "168_2.jpg"],
+    urls: ["http://apps.microsoft.com/windows/ja-jp/app/612a5c33-7745-45f7-8e5f-5626858c04ef"],
+    tags: ["アプリ", "Windows ストアアプリ", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "クエリちゃん", "東北ずん子", "ハッカドール1号"]
+}, {
+    id: "169",
+    title: "三目並べ",
+    desc: "コミPo！で使用できる精華町広報キャラクター「京町セイカ」を使用していますが、精華町とは一切、関係ありません。キャラを応援したくて作ったアプリです。クラウディアさんもコミPo！モデルです。セイカさんがプレイヤーで、クラウディアさんがコンピュータになります。\n（プロ生ちゃんとクエリちゃんのもあります。\nhttp://sky.geocities.jp/cloudy_blue_darksky/zip/sanmoku.html\nこちらは画像編集したら、別のキャラで遊ぶことが可能です。）",
+    creator: {
+        name: "水っぽいスープ"
+    },
+    thumb: "169.jpg",
+    images: ["169_1.jpg", "169_2.jpg"],
+    urls: ["https://twitter.com/tasteless0wash/status/543683746109480961/photo/1", "http://sky.geocities.jp/cloudy_blue_darksky/zip/sanmoku2.html"],
+    tags: ["アプリ", "Windows", "クラウディア", "京町セイカ"]
+}, {
+    id: "170",
+    title: "マスコットふぇすてぃばる",
+    desc: "お店を設置してお金を稼ぎ、時間内にできるだけ沢山のお客を呼びこむ、学園祭シュミレーションゲームです。完全自作ドット絵のキャラたちを駆使して、学園祭に沢山お客を呼んでください！一日（一回）約15分でクリア可能ですが、周回することで特典やキャラの解放等があります。",
+    creator: {
+        name: "ヘンタイで委員会？"
+    },
+    thumb: "170.jpg",
+    images: ["170_1.jpg", "170_2.jpg", "170_3.jpg"],
+    urls: ["http://hentaideiinkai.web.fc2.com/"],
+    tags: ["アプリ", "Web", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "クエリちゃん", "東北ずん子", "ハッカドール1号"]
 }];
 
 /*
