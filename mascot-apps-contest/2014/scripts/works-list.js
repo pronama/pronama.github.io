@@ -1660,16 +1660,16 @@
 }, {
     id: "131",
     title: "うにけり！～ユニティちゃんを止めろッ！そのウニを蹴らせるなッ！～",
-    desc: "スマートフォンで遊ぶ新感覚のシューティング（FPS？）ゲームです。動画撮影する感覚で視点操作できます。ＡＲは使ってないのでiPhoneだけでＯＫ。iPhoneでユニティちゃんを色んなアングルから眺めながら追いかけっこしてキャッキャウフフできます(ﾟ∀ﾟ)",
+    desc: "スマートフォンで遊ぶ新感覚のFPSです。オープンソース系アイドルのユニティちゃんとキャッキャウフフして遊べます。ジャイロスコープによる視点操作が可能なのでシューティングが苦手な人でも動画撮影する感覚で簡単に遊べると思います(^^)",
     creator: {
         name: "たうろぽん(HoHoHo Games)",
         twitter: "hohohogames",
         urls: ["http://hohohogames.blog.fc2.com/"]
     },
     thumb: "131.jpg",
-    images: ["131_1.jpg"],
-    urls: ["https://www.youtube.com/watch?v=o62Tij5yGhc"],
-    tags: ["アプリ", "動画", "ユニティちゃん"],
+    images: ["131_1.jpg", "131_2.jpg", "131_3.jpg", "131_4.jpg", "131_5.jpg"],
+    urls: ["https://itunes.apple.com/jp/app/unikeri!-yunitichanwo-zhimero/id948693523?l=ja&ls=1&mt=8", "https://www.youtube.com/watch?v=o62Tij5yGhc"],
+    tags: ["アプリ", "動画", "iOS", "ユニティちゃん"],
     group: "ほうれんそうグループ"
 }, {
     id: "132",
