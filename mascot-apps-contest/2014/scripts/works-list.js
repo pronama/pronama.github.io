@@ -357,7 +357,7 @@
     thumb: "028.jpg",
     images: ["028_1.jpg"],
     urls: ["https://play.google.com/store/apps/details?id=jun.n.tagapp"],
-    tags: ["アプリ", "Android", "東北ずん子"],
+    tags: ["アプリ", "Android", "東北ずん子", "東北きりたん"],
     group: "だいこんグループ"
 }, {
     id: "29",
