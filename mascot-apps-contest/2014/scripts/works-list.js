@@ -827,8 +827,8 @@
     thumb: "065.jpg",
     images: ["065_1.jpg"],
     urls: ["http://3d.nicovideo.jp/works/td17534"],
-    tags: ["3DCG", "美雲あんず"]
-    // group: none
+    tags: ["3DCG", "美雲あんず"],
+    group: "EFB"
 }, {
     id: "66",
     title: "Vim scriptとJavaとHaskell",
@@ -1890,8 +1890,8 @@
     thumb: "148.jpg",
     images: ["148_1.jpg", "148_2.jpg", "148_3.jpg", "148_4.jpg", "148_5.jpg"],
     urls: ["http://mascot-basket.efb.blue/"],
-    tags: ["アプリ", "Web", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "クエリちゃん", "東北ずん子"]
-    // group: none
+    tags: ["アプリ", "Web", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "クエリちゃん", "東北ずん子"],
+    group: "EFB"
 }, {
     id: "149",
     title: "Kinect v2でマスコットになるやつ",
