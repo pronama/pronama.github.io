@@ -1463,8 +1463,8 @@
     },
     thumb: "115.jpg",
     images: ["115_1.jpg"],
-    urls: ["https://play.google.com/store/apps/details?id=com.JunkGames.DungeonMaker"],
-    tags: ["アプリ", "Android", "ユニティちゃん"],
+    urls: ["https://play.google.com/store/apps/details?id=com.JunkGames.DungeonMaker", "https://itunes.apple.com/us/app/unimaze/id922372313?l=ja&ls=1&mt=8"],
+    tags: ["アプリ", "Android", "iOS", "ユニティちゃん"],
     group: "JunkGames"
 }, {
     id: "116",
