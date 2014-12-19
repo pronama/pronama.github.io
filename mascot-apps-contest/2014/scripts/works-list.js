@@ -2182,6 +2182,42 @@
     urls: ["https://github.com/daily-lunch-special/emotional-mascot-plugin"],
     tags: ["アプリ", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "クエリちゃん"],
     group: "ぼっちの会 in 仙台"
+}, {
+    id: "172",
+    title: "ハッカドールズ、アプリを作る",
+    desc: "1号ちゃんはデスマーチが似合いそう",
+    creator: {
+        name: "小谷生欠（コタニナマアクビ）",
+        twitter: "namaakubi_"
+    },
+    thumb: "172.jpg",
+    images: [],
+    urls: ["http://www.pixiv.net/member_illust.php?mode=medium&illust_id=47637088"],
+    tags: ["イラスト", "ハッカドール1号", "ハッカドール2号", "ハッカドール3号"]
+}, {
+    id: "173",
+    title: "Mascot Watch Face",
+    desc: "Android Wear向けウォッチフェイスアプリ。選択したマスコットキャラを時計面に表示します。マスコットキャラをあなたの腕の中に。",
+    creator: {
+        name: "水河とをる",
+        twitter: "taptwa_toworu",
+        urls: ["http://www.rayso-sytle.com/"]
+    },
+    thumb: "173.jpg",
+    images: ["173_1.png", "173_2.png", "173_3.png"],
+    urls: ["https://play.google.com/store/apps/details?id=com.rayso_style.mascotwatchface"],
+    tags: ["アプリ", "Android", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "クエリちゃん"]
+}, {
+    id: "174",
+    title: "プロ生ちゃんタイマー",
+    desc: "プロ生ちゃん尽くしのタイマーです。スタート時、残り5分・1分・30秒・10秒以下の時と、終了時にプロ生ちゃんが教えてくれます。背景画像はChangeボタンで切り替えることができ、指定のフォルダに画像を追加することで、背景画像を追加することも出来ます。",
+    creator: {
+        name: "ぜにとー"
+    },
+    thumb: "174.jpg",
+    images: ["174_1.png", "174_2.png"],
+    urls: ["https://github.com/zenito9970/pronama-chan-timer"],
+    tags: ["アプリ", "Windows", "プロ生ちゃん"]
 }];
 
 /*
