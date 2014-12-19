@@ -2170,6 +2170,18 @@
     images: ["170_1.jpg", "170_2.jpg", "170_3.jpg"],
     urls: ["http://hentaideiinkai.web.fc2.com/"],
     tags: ["アプリ", "Web", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "クエリちゃん", "東北ずん子", "ハッカドール1号"]
+}, {
+    id: "171",
+    title: "emotional-mascot-plugin",
+    desc: "jenkinsに組み込むプラグインをつくりました.  ビルド結果に応じて, プロ生ちゃんたちがemortionalに反応します.",
+    creator: {
+        name: "rentalname"
+    },
+    thumb: "171.jpg",
+    images: ["171_1.png", "171_2.gif"],
+    urls: ["https://github.com/daily-lunch-special/emotional-mascot-plugin"],
+    tags: ["アプリ", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "クエリちゃん"],
+    group: "ぼっちの会 in 仙台"
 }];
 
 /*
