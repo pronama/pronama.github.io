@@ -2218,6 +2218,40 @@
     images: ["174_1.png", "174_2.png"],
     urls: ["https://github.com/zenito9970/pronama-chan-timer"],
     tags: ["アプリ", "Windows", "プロ生ちゃん"]
+}, {
+    id: "175",
+    title: "このはアラーム",
+    desc: "美雲このはが電話で起こしてくれる、目覚ましアプリです。",
+    creator: {
+        name: "kaonach"
+    },
+    thumb: "175.jpg",
+    images: ["175_1.png", "175_2.png"],
+    urls: ["https://play.google.com/store/apps/details?id=com.kaonach.conohaalarm"],
+    tags: ["アプリ", "Android", "美雲このは"]
+}, {
+    id: "176",
+    title: "マスコットカーニバル",
+    desc: "画面内に次々とあらわれる可愛いマスコットたちを集めてレベルを上げるゲームだよ。 お気に入りのマスコットをたくさんあつめよう。",
+    creator: {
+        name: "れにうむ"
+    },
+    thumb: "176.jpg",
+    images: ["176_1.png", "176_2.png"],
+    urls: ["https://github.com/rhenium75/wind_ball/blob/master/README.md"],
+    tags: ["アプリ", "Windows", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "クエリちゃん", "東北ずん子", "ハッカドール1号"]
+}, {
+    id: "177",
+    title: "MascotClicker",
+    desc: "クッキークリッカーライクなゲームです。キャラクターたちが降ってきてかわいいです。",
+    creator: {
+        name: "Yasuda",
+        twitter: "taimiso0319"
+    },
+    thumb: "177.jpg",
+    images: ["177_1.png"],
+    urls: ["http://unityroom.com/games/play/321"],
+    tags: ["アプリ", "Web", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "クエリちゃん"]
 }];
 
 /*

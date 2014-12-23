@@ -10,6 +10,7 @@
     var creatorName = getParameterByName("creator");
     var tag = getParameterByName("tag");
     var group = getParameterByName("group");
+    var notag = getParameterByName("notag");
 
     var count = 0;
     var html = "";
@@ -19,6 +20,7 @@
         if (id && w.id != id) continue;
         if (creatorName && w.creator.name != creatorName) continue;
         if (tag && w.tags.indexOf(tag) < 0) continue;
+        if (notag && w.tags.indexOf(notag) >= 0) continue;
         if (group && w.group != group) continue;
 
         count++;
