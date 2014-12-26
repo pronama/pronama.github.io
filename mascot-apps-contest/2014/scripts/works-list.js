@@ -681,7 +681,7 @@
     title: "Mascot Chara Meter",
     desc: "日時、CPUの使用率と周波数、メモリーの使用率、ネットワークの回線速度、バッテリー残量、音量、ストレージの使用率、天気情報、RSSフィード、カレンダーを表示するRainmeter用のウィジェット（スキン）です。マスコットキャラクターがアクセントになっています。",
     creator: {
-        name: "Myoga S. Tomonaka",
+        name: "Myoga Screw-bright",
         twitter: "myoga1012",
         urls: ["http://myoga-tn.expressweb.jp/"]
     },
@@ -1845,15 +1845,15 @@
 }, {
     id: "145",
     title: "クラウディアさんの温度を測ろう",
-    desc: "クラウディアさんの額のところに設置している温度湿度センサで温度を測定し，その値を表示します。Aduino Mega 2560で動作しています。",
+    desc: "クラウディアさんの額のところに設置している温度湿度センサで温度を測定し，その値を表示します。Aduino Mega 2560で動作しています。ArduinoとAzure（WEB）をつなげた基礎的なIOTの開発です．",
     creator: {
         name: "michele_lap",
         urls: ["http://www.iggg.org/"]
     },
     thumb: "145.jpg",
-    images: ["145_1.jpg"],
+    images: ["145_1.JPG"],
     urls: ["http://michele-lap.azurewebsites.net/dev/mascot-apps-contest-t_h.php"],
-    tags: ["アプリ", "ハードウェア", "クラウディア", "クラウディア"],
+    tags: ["アプリ", "ハードウェア", "クラウディア"],
     group: "IGGG"
 }, {
     id: "146",
