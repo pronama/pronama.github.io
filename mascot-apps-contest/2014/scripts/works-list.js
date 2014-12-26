@@ -1528,7 +1528,7 @@
     thumb: "120.jpg",
     images: ["120_1.jpg", "120_2.jpg", "120_3.jpg"],
     urls: ["https://play.google.com/store/apps/details?id=com.lambda.rocket"],
-    tags: ["アプリ", "Android", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "東北ずん子", "ハッカドール1号"]
+    tags: ["アプリ", "Android", "美雲このは", "美雲あんず", "プロ生ちゃん", "クラウディア", "ユニティちゃん", "東北ずん子", "クエリちゃん", "ハッカドール1号"]
     // group: none
 }, {
     id: "121",
