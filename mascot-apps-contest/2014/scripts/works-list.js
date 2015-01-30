@@ -1709,8 +1709,8 @@
     },
     thumb: "134.jpg",
     images: ["134_1.jpg", "134_2.jpg", "134_3.jpg", "134_4.jpg"],
-    urls: ["https://play.google.com/store/apps/details?id=co.yuukiar.mikumo_burst2&hl=ja"],
-    tags: ["アプリ", "Android", "美雲このは", "美雲あんず"],
+    urls: ["https://play.google.com/store/apps/details?id=co.yuukiar.mikumo_burst2&hl=ja", "https://itunes.apple.com/jp/app/mikumobasuto!/id950881439?mt=8&uo=4"],
+    tags: ["アプリ", "Android", "iOS", "美雲このは", "美雲あんず"],
     group: "ほうれんそうグループ"
 }, {
     id: "135",
