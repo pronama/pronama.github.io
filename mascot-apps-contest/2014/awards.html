@@ -1,0 +1,701 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>受賞作品 | マスコットアプリ文化祭 2014 (Mascot Character Apps Contest)</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <link href="../content/animate.min.css" rel="stylesheet" />
+    <link href="content/style.min.css" rel="stylesheet" />
+    <style type="text/css">
+        ul.notes {
+            margin-top: 0;
+        }
+    </style>
+</head>
+<body>
+    <script>
+        function getParameterByName(name) {
+            name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+            var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+                results = regex.exec(location.search);
+            return results == null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+        }
+    </script>
+    <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar-collapse-1">
+                <ul class="nav navbar-nav">
+                    <li><a href="../2014/">開催概要</a></li>
+                    <li><a href="../2014/#works">作品紹介</a></li>
+                    <li><a href="../2014/#characters">キャラクター</a></li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">コンテスト <span class="caret"></span></a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li><a href="../2014/#sections">募集部門</a></li>
+                            <li><a href="../2014/#schedule">スケジュール</a></li>
+                            <li><a href="../2014/#rule">応募規定</a></li>
+                            <li><a href="../2014/#awards">各部門の賞と賞品</a></li>
+                            <li><a href="../2014/#review">審査</a></li>
+                            <li><a href="../2014/#application">応募方法</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">スペシャル <span class="caret"></span></a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li><a href="../2014/#special">スペシャル データ</a></li>
+                            <li><a href="../2014/#unity">Unity Pro体験版 特別ライセンス</a></li>
+                            <li><a href="../2014/#champion">Worldwide Community Champion</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="../2014/#articles">開発記事</a></li>
+                    <li><a href="../2014/#event">勉強会</a></li>
+                    <li><a href="../2014/#qa">Q &amp; A</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container" id="summary2" style="padding-top:140px;">
+        <div class="row">
+            <div class="col-md-7">
+                <img class="img-responsive" src="images/characters/all2.jpg" alt="" style="margin:0 auto 20px;" />
+            </div>
+            <div class="col-md-5 text-center">
+                <img src="images/msg2.png" class="img-responsive" style="margin:0 auto;" />
+                <img class="hover-anime img-responsive" src="images/logos/appscontest.png" data-anime="tada" style="margin:0 auto;" />
+                <h3>受賞作品の紹介</h3>
+                <p>受賞作品を紹介します。</p>
+                <div class="character-card" style="display:inline-block;">
+                    <div>
+                        <a href="#sections" class="page-scroll"><div class="icon-pronama-chan pull-left"></div></a>
+                    </div>
+                    <div>
+                        <p>応募ありがとう！</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <h6 class="text-center">協賛</h6>
+                    <div class="col-xs-15 vcenter">
+                        <a href="http://cloud.gmo.jp/" target="_blank" title="GMOインターネット株式会社 アプリクラウド事業部"><img src="images/logos/appscloud.5x.png" srcset="images/logos/appscloud.png 2x" class="img-responsive sponsors" /></a>
+                    </div><div class="col-xs-15 vcenter">
+                        <a href="https://www.conoha.jp/" target="_blank" title="GMOインターネット株式会社 ホスティング事業部"><img src="images/logos/conoha.5x.png" srcset="images/logos/conoha.png 2x" class="img-responsive sponsors" /></a>
+                    </div><div class="col-xs-15 vcenter">
+                        <a href="http://www.microsoft.com/ja-jp/default.aspx" target="_blank" title="日本マイクロソフト株式会社"><img src="images/logos/microsoft.5x.png" srcset="images/logos/microsoft.png 2x" class="img-responsive sponsors" /></a>
+                    </div><div class="col-xs-15 vcenter">
+                        <a href="http://www.pocket-queries.co.jp/" target="_blank" title="株式会社ポケット・クエリーズ"><img src="images/logos/pocketqueries.5x.png" srcset="images/logos/pocketqueries.png 2x" class="img-responsive sponsors" /></a>
+                    </div><div class="col-xs-15 vcenter">
+                        <a href="http://japan.unity3d.com/" target="_blank" title="ユニティ・テクノロジーズ・ジャパン合同会社"><img src="images/logos/unity.5x.png" srcset="images/logos/unity.png 2x" class="img-responsive sponsors" /></a>
+                    </div>
+                    <div style="margin-top:10px;">
+                        <div class="col-xs-15 vcenter">
+                            <a href="http://zunko.jp/" target="_blank" title="SSS合同会社"><img src="images/logos/zunko.5x.png" srcset="images/logos/zunko.png 2x" class="img-responsive sponsors" /></a>
+                        </div>
+                        <div class="col-xs-15 vcenter">
+                            <a href="http://dena.com/" target="_blank" title="株式会社ディー・エヌ・エー"><img src="images/logos/DeNA.5x.png" srcset="images/logos/DeNA.png 2x" class="img-responsive sponsors" /></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <h6 class="text-center">主催</h6>
+                    <a href="http://pronama.jp/" target="_blank" title="プログラミング生放送"><img src="images/logos/pronama.5x.png" srcset="images/logos/pronama.png 2x" class="img-responsive" style="margin:10px auto 40px;max-width:100px;" /></a>
+                </div>
+            </div>
+            <div class="col-md-12 text-center">
+                <!--<div class="panel panel-default">
+                    <div class="panel-heading">＼お知らせ／</div>
+                    <div class="panel-body text-left">
+                        <p><i class="glyphicon glyphicon-bullhorn"></i> <span class="text-muted small">2014/12/20</span> <a href="http://pronama.azurewebsites.net/2014/12/03/pronama-32-at-gmo-yours/" target="_blank">プロ生勉強会</a>で<a href="http://1drv.ms/1Jxvzb7" target="_blank">受賞作品（の一部）を発表しました！</a></p>
+                        <p><i class="glyphicon glyphicon-bullhorn"></i> <span class="text-muted small">2014/12/11</span> 12月11日以降も作品の応募を受け付けています！　ただし必ず審査されるとは限りません。作品の登録・紹介や、参加賞（内容変更の場合あり）は、ありますので、ぜひ応募してください。</p>
+                        <p><i class="glyphicon glyphicon-bullhorn"></i> <span class="text-muted small">2014/10/22</span> <a href="works.html">応募作品</a>公開！　随時更新します。</p>
+                        <p><i class="glyphicon glyphicon-bullhorn"></i> <span class="text-muted small">2014/10/18</span> <a href="#characters" class="page-scroll">ハッカドール1号</a>追加！</p>
+                        <p><i class="glyphicon glyphicon-bullhorn"></i> <span class="text-muted small">2014/10/15</span> <a href="#characters" class="page-scroll">東北ずん子</a>追加！・<a href="#special" class="page-scroll">スペシャル データ</a>から美雲姉妹の公式データダウンロード！・賞の内容を一部変更しています</p>
+                        <p><i class="glyphicon glyphicon-bullhorn"></i> <span class="text-muted small">2014/10/01</span> 詳細な内容を公開しました。12/10頃まで作品受付中！</p>
+                    </div>
+                </div>-->
+                <div class="social-buttons">
+                    <ul class="list-inline" style="margin-left:0;">
+                        <li>
+                            <a href="http://b.hatena.ne.jp/entry/http://pronama.github.io/mascot-apps-contest/2014/awards.html"
+                               class="hatena-bookmark-button"
+                               data-hatena-bookmark-title="マスコットアプリ文化祭"
+                               data-hatena-bookmark-layout="vertical-balloon"
+                               title="このエントリーをはてなブックマークに追加">
+                                <img src="https://b.hatena.ne.jpimages/entry-button/button-only.gif"
+                                     alt="このエントリーをはてなブックマークに追加"
+                                     width="20" height="20" style="border: none;" />
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://twitter.com/share" class="twitter-share-button" data-via="pronama" data-lang="ja" data-related="pronama" data-hashtags="マスコットアプリ文化祭" data-count="vertical">ツイート</a>
+                        </li>
+                        <li><div class="fb-like" data-href="http://pronama.github.io/mascot-apps-contest/2014/awards.html" data-layout="box_count" data-action="like" data-show-faces="false" data-share="false"></div></li>
+                        <li>
+                            <div class="g-plusone" data-size="tall"></div>
+                        </li>
+                        <li>
+                            <a data-pocket-label="pocket" data-pocket-count="vertical" class="pocket-btn" data-lang="en"></a>
+                        </li>
+                    </ul>
+                    <script type="text/javascript"
+                            src="https://b.hatena.ne.jp/js/bookmark_button.js"
+                            charset="utf-8"
+                            async="async">
+                    </script>
+                    <script>!function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/.test(d.location) ? 'http' : 'https'; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = p + '://platform.twitter.com/widgets.js'; fjs.parentNode.insertBefore(js, fjs); } }(document, 'script', 'twitter-wjs');</script>
+                    <div id="fb-root"></div>
+                    <script>
+                        (function (d, s, id) {
+                            var js, fjs = d.getElementsByTagName(s)[0];
+                            if (d.getElementById(id)) return;
+                            js = d.createElement(s); js.id = id;
+                            js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&appId=767727909916605&version=v2.0";
+                            if (getParameterByName("lang") == "ja-KS") {
+                                js.src = "//connect.facebook.net/ja_KS/sdk.js#xfbml=1&appId=767727909916605&version=v2.0";
+                            }
+                            fjs.parentNode.insertBefore(js, fjs);
+                        }(document, 'script', 'facebook-jssdk'));</script>
+                    <script src="https://apis.google.com/js/platform.js" async defer>
+                        { lang: 'ja' }
+                    </script>
+                    <script type="text/javascript">!function (d, i) { if (!d.getElementById(i)) { var j = d.createElement("script"); j.id = i; j.src = "https://widgets.getpocket.com/v1/j/btn.js?v=1"; var w = d.getElementById(i); d.body.appendChild(j); } }(document, "pocket-btn-js");</script>
+                </div>
+                <div>
+                    <div class="small text-muted text-center" style="margin-bottom: 5px;">スポンサーリンク</div>
+                    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <ins class="adsbygoogle"
+                         style="display:block"
+                         data-ad-client="ca-pub-5991185227226997"
+                         data-ad-slot="1642966467"
+                         data-ad-format="auto"></ins>
+                    <script>
+                        (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="container" id="awards">
+        <div class="row">
+            <div class="col-md-12">
+                <h2 class="text-center">受賞作品</h2>
+
+                <div class="panel panel-default"><div class="panel-body">たくさんのご応募ありがとうございました。<a href="works.html">作品一覧</a> から興味のある作品を探してみてください。マスコットアプリ文化祭は、今回で終了ではなく、引き続きイベントを企画しています。ご期待ください！</div></div>
+
+
+                <h3 style="margin-top:50px;">みくも賞 <small>GMOインターネット株式会社 提供</small></h3>
+                <div class="media">
+                    <a href="works.html?id=134" class=" pull-left">
+                        <img src="images/works/134.jpg" class="img-responsive img-rounded" data-anime="tada" style="width:200px;height:200px;" />
+                    </a>
+                    <div class="media-body">
+                        <h4 class="media-heading"><a href="works.html?id=134">みくもバースト！</a> <small>yuukiar.coさん</small></h4>
+                        <div class="panel panel-default"><div class="panel-body">10秒間のバトルという、わずかな時間でひたすら画面をタップしてハイスコアを目指すゲームです。キャラクターをあんず・このはの2人から選んで、バトルを重ねることでどんどん強くなっていきます。今はAndroid版のみということですが、今後iOS版もリリース予定とのこと。今後のアップデートにも期待しています！<small class="text-muted">（美雲このは）</small></div></div>
+                        <ul class="list-unstyled">
+                            <li>賞品： みくもTシャツ</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <h3 style="margin-top:50px;">あんず賞 <small>GMOインターネット株式会社 提供</small></h3>
+                <div class="media">
+                    <a href="works.html?id=65" class=" pull-left">
+                        <img src="images/works/065.jpg" class="img-responsive img-rounded" data-anime="tada" style="width:200px;height:200px;" />
+                    </a>
+                    <div class="media-body">
+                        <h4 class="media-heading"><a href="works.html?id=65">3D美雲あんずちゃん</a> <small>林田宗篤さん</small></h4>
+                        <div class="panel panel-default"><div class="panel-body">Unityを使って作られた、あんずの3Dです。グルグルと回して見れます。あんずの後姿ってあまり見たことないでしょう？悔しいけど、あんずのあざと可愛いさがさらに際立つ作品でした。<small class="text-muted">（美雲このは）</small></div></div>
+                        <ul class="list-unstyled">
+                            <li>賞品： みくもTシャツ</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <h3 style="margin-top:50px;">このは賞 <small>GMOインターネット株式会社 提供</small></h3>
+                <div class="media">
+                    <a href="works.html?id=44" class=" pull-left">
+                        <img src="images/works/044.jpg" class="img-responsive img-rounded" data-anime="tada" style="width:200px;height:200px;" />
+                    </a>
+                    <div class="media-body">
+                        <h4 class="media-heading"><a href="works.html?id=44">このはのかさ予報</a> <small>kawauchiさん</small></h4>
+                        <div class="panel panel-default"><div class="panel-body">朝でかけるときに、このはが、ボイスアラームで傘をもったほうがいいかアドバイスをしてくれるAndroidアプリです。イラストや音声も凝っている手の込んだ作品でした。<small class="text-muted">（美雲このは）</small></div></div>
+                        <ul class="list-unstyled">
+                            <li>賞品： みくもTシャツ</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <h3 style="margin-top:50px;">ConoHa byGMO賞 <small>GMOインターネット株式会社 提供</small></h3>
+                <div class="media">
+                    <a href="works.html?id=51" class=" pull-left">
+                        <img src="images/works/051.jpg" class="img-responsive img-rounded" data-anime="tada" style="width:200px;height:200px;" />
+                    </a>
+                    <div class="media-body">
+                        <h4 class="media-heading"><a href="works.html?id=51">みくもファンクラブ</a> <small>ABCanGさん</small></h4>
+                        <div class="panel panel-default"><div class="panel-body">「このはちゃん大好き！」「あんずちゃん大好き！」というボタンを押して、ひたすら美雲姉妹を愛でるサイトです。既に２千万回以上ボタンを押されていて、日々増えていく数字に見るたび元気がもらえます。しかも、みくもファンクラブはConoHaのVPSで動いてるんだって。ConoHaを使ってくれてありがとう！<small class="text-muted">（美雲このは）</small></div></div>
+                        <ul class="list-unstyled">
+                            <li>賞品： モバイルバッテリー</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <h3 style="margin-top:50px;">みくも特別賞 <small>GMOインターネット株式会社 提供</small></h3>
+                <div class="media">
+                    <img src="http://placehold.jp/24/005bac/ffffff/200x200.png?text=%E3%81%BF%E3%81%8F%E3%82%82%E7%89%B9%E5%88%A5%E8%B3%9E" class="img-responsive img-rounded pull-left" />
+
+                    <div class="media-body">
+                        <p>あんず・このはをメインで利用された作品の応募者全員にプレゼントがあります。</p>
+                        <ul class="list-unstyled">
+                            <li>賞品： みくもカレンダー</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <h3 style="margin-top:50px;">クエリちゃん大賞 <small>株式会社ポケット・クエリーズ 提供</small></h3>
+                <div class="media">
+                    <a href="works.html?id=56" class=" pull-left">
+                        <img src="images/works/056.jpg" class="img-responsive img-rounded" data-anime="tada" style="width:200px;height:200px;" />
+                    </a>
+                    <div class="media-body">
+                        <h4 class="media-heading"><a href="works.html?id=56">クエリちゃん360VR</a> <small>wakasoftwareさん</small></h4>
+                        <div class="panel panel-default"><div class="panel-body">『愛（ AI ？）のある機能追加』により、さりげなく可愛さアップしているのが決め手なのデス☆　目パチ処理、髪揺れ揺れ処理などにワタシへの愛を感じちゃいマシタ♡　今後もバージョンアップしていってくれるとウレシイのデス٩(ˊᗜˋ*)و<small class="text-muted">（クエリちゃん）</small></div></div>
+                        <ul class="list-unstyled">
+                            <li>賞品： トートバッグ、ピンバッジ、おっきなステッカー、年賀状、ノート、フィギュア</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <h3 style="margin-top:50px;">クエリちゃんメイン賞 <small>株式会社ポケット・クエリーズ 提供</small></h3>
+                <div class="media">
+                    <img src="http://placehold.jp/24/8CB825/ffffff/200x200.png?text=%E3%82%AF%E3%82%A8%E3%83%AA%E3%81%A1%E3%82%83%E3%82%93%0A%E3%83%A1%E3%82%A4%E3%83%B3%E8%B3%9E" class="img-responsive img-rounded pull-left" />
+
+                    <div class="media-body">
+                        <p>クエリちゃんをメインで利用された作品の応募者全員にプレゼントがあります。</p>
+                        <ul class="list-unstyled">
+                            <li>賞品： トートバッグ、ピンバッジ、おっきなステッカー、年賀状、ノート</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <h3 style="margin-top:50px;">クエリちゃん登場賞 <small>株式会社ポケット・クエリーズ 提供</small></h3>
+                <div class="media">
+                    <img src="http://placehold.jp/24/8CB825/ffffff/200x200.png?text=%E3%82%AF%E3%82%A8%E3%83%AA%E3%81%A1%E3%82%83%E3%82%93%0A%E7%99%BB%E5%A0%B4%E8%B3%9E" class="img-responsive img-rounded pull-left" />
+
+                    <div class="media-body">
+                        <p>クエリちゃんを利用された作品の応募者全員にプレゼントがあります。</p>
+                        <ul class="list-unstyled">
+                            <li>賞品： トートバッグ</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <h3 style="margin-top:50px;">クラウディア賞 <small>日本マイクロソフト株式会社 提供</small></h3>
+                <div class="media">
+                    <a href="works.html?id=97" class=" pull-left">
+                        <img src="images/works/097.jpg" class="img-responsive img-rounded" data-anime="tada" style="width:200px;height:200px;" />
+                    </a>
+                    <div class="media-body">
+                        <h4 class="media-heading"><a href="works.html?id=97">クラウディアさんの傘予報</a> <small>kawauchiさん </small></h4>
+                        <div class="panel panel-default"><div class="panel-body">シンプルなアプリでありながら、クラウディアの独自イラストを用いて表現されており、Windows ストア アプリのライブタイルやバックグラウンド処理を活用されている点がとても良かったと思います。<small class="text-muted">（日本マイクロソフト）</small></div></div>
+                        <ul class="list-unstyled">
+                            <li>賞品： Windowsタブレット「<a href="http://www.amazon.co.jp/%E6%9D%B1%E8%8A%9D-dynabook-Tab-VT484-22K/dp/B00GROTNVA%3FSubscriptionId%3DAKIAI4AHPHXXKLQMLSAQ%26tag%3Dks04-22%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00GROTNVA">東芝 dynabook Tab VT484/22K</a>」</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <h3 style="margin-top:50px;">プロ生ちゃん賞 <small>プログラミング生放送 提供</small></h3>
+                <div class="media">
+                    <a href="works.html?id=92" class=" pull-left">
+                        <img src="images/works/092.jpg" class="img-responsive img-rounded" data-anime="tada" style="width:200px;height:200px;" />
+                    </a>
+                    <div class="media-body">
+                        <h4 class="media-heading"><a href="works.html?id=92">はぴりま！プロ生ちゃん版！</a> <small>チームはぴりま（ねぎさん、とおるさん）</small></h4>
+                        <div class="panel panel-default"><div class="panel-body">オリジナルイラストのプロ生ちゃんがかわいい、タスク管理ツールです。使い込むと色が付くなどの変化を楽しめる仕組みも良いです。<small class="text-muted">（プログラミング生放送）</small></div></div>
+                        <ul class="list-unstyled">
+                            <li>賞品： プロ生ちゃん豪華特別グッズ type 1</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="media" style="margin-top:30px;">
+                    <a href="works.html?id=46" class=" pull-left">
+                        <img src="images/works/046.jpg" class="img-responsive img-rounded" data-anime="tada" style="width:200px;height:200px;" />
+                    </a>
+                    <div class="media-body">
+                        <h4 class="media-heading"><a href="works.html?id=46">デバッグパニック！！</a> <small>冨田誉人さん</small></h4>
+                        <div class="panel panel-default"><div class="panel-body">プロ生ちゃんの起こしたバグによって、PCの画面から次々に飛び出すデータを、スマートフォンを傾けてPCに戻すシンプルなゲーム。ストーリーや、イラストとボイスの活用、背景やパイナップルのアイテムなど、作りこみを感じます。ツイート機能もあり、盛り上がって良いですね。<small class="text-muted">（プログラミング生放送）</small></div></div>
+                        <ul class="list-unstyled">
+                            <li>賞品： プロ生ちゃん豪華特別グッズ type 2</li>
+                        </ul>
+                    </div>
+                </div>
+
+
+                <h3 style="margin-top:50px;">ユニティちゃん賞 <small>ユニティ・テクノロジーズ・ジャパン合同会社 提供</small></h3>
+                <div class="media">
+                    <a href="works.html?id=170" class=" pull-left">
+                        <img src="images/works/170.jpg" class="img-responsive img-rounded" data-anime="tada" style="width:200px;height:200px;" />
+                    </a>
+                    <div class="media-body">
+                        <h4 class="media-heading"><a href="works.html?id=170">マスコットふぇすてぃばる</a> <small>ヘンタイで委員会？</small></h4>
+                        <div class="panel panel-default"><div class="panel-body">ドット絵やゲームシステムもよく出来ており、エントリー作品の中で最も「文化祭」というキーワードにマッチしているゲームでした。<small class="text-muted">（ユニティ・テクノロジーズ・ジャパン）</small></div></div>
+                        <ul class="list-unstyled">
+                            <li>賞品： ユニティちゃん福袋</li>
+                        </ul>
+                    </div>
+                </div>
+
+
+                <div class="media" style="margin-top:30px;">
+                    <a href="works.html?id=63" class=" pull-left">
+                        <img src="images/works/063.jpg" class="img-responsive img-rounded" data-anime="tada" style="width:200px;height:200px;" />
+                    </a>
+                    <div class="media-body">
+                        <h4 class="media-heading"><a href="works.html?id=63">ゆにらいぶ！ for UnityChan</a> <small>青木そらすさん</small></h4>
+                        <div class="panel panel-default"><div class="panel-body">公式アプリ（ユニティちゃんAR）とはまた違った良さがあり、インターフェースも非常にわかりやすいので引き続きブラッシュアップして欲しいという期待も込めて選出いたしました。<small class="text-muted">（ユニティ・テクノロジーズ・ジャパン）</small></div></div>
+                        <ul class="list-unstyled">
+                            <li>賞品： ユニティちゃん福袋</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="media" style="margin-top:30px;">
+                    <a href="works.html?id=86" class=" pull-left">
+                        <img src="images/works/086.jpg" class="img-responsive img-rounded" data-anime="tada" style="width:200px;height:200px;" />
+                    </a>
+                    <div class="media-body">
+                        <h4 class="media-heading"><a href="works.html?id=86">ユニティちゃんゴーストマンション</a> <small>ないです（とりすーぷさん、orenama1さん、むらむらさん）</small></h4>
+                        <div class="panel panel-default"><div class="panel-body">OculusRiftとPhotonという話題の最新技術をうまく使った非常にクォリティの高いゲームで、周りで見ている人も楽しめるよう設計されており、完成度の高さは頭ひとつ抜けていました。<small class="text-muted">（ユニティ・テクノロジーズ・ジャパン）</small></div></div>
+                        <ul class="list-unstyled">
+                            <li>賞品： ユニティちゃん福袋</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="media" style="margin-top:30px;">
+                    <a href="works.html?id=68" class=" pull-left">
+                        <img src="images/works/068.jpg" class="img-responsive img-rounded" data-anime="tada" style="width:200px;height:200px;" />
+                    </a>
+                    <div class="media-body">
+                        <h4 class="media-heading"><a href="works.html?id=68">マスコットを撃ち落せ！</a> <small>ぱちおさん</small></h4>
+                        <div class="panel panel-default"><div class="panel-body">可愛かったので。<small class="text-muted">（ユニティ・テクノロジーズ・ジャパン）</small></div></div>
+                        <ul class="list-unstyled">
+                            <li>賞品： ユニティちゃん福袋</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <h3 style="margin-top:50px;">東北ずん子の（ず・ω・だ）賞 <small>SSS合同会社 提供</small></h3>
+                <div class="media">
+                    <a href="works.html?id=163" class=" pull-left">
+                        <img src="images/works/163.jpg" class="img-responsive img-rounded" data-anime="tada" style="width:200px;height:200px;" />
+                    </a>
+                    <div class="media-body">
+                        <h4 class="media-heading"><a href="works.html?id=163">ずん子on伺か</a> <small>奈良阪某@如何か開発チーム</small></h4>
+                        <div class="panel panel-default"><div class="panel-body">これからロボットがいろいろサポートしてくれる時代になるので(`・∀・´)その先駆けでキャラが話しかけてくれるこの仕組みはとっても大事な物になると思います＼（=ず・ω・だ=）／ その先駆けを見れた気がします☆(ゝω・)v<small class="text-muted">（東北ずん子）</small></div></div>
+                        <h5>賞品</h5>
+                        <ul class="list-unstyled">
+                            <li>東北ずん子小説（作家さとうとしお先生とイラストレーター江戸村ににこ先生のサイン入り）</li>
+                            <li>東北ずん子ちゃんマシュモストラップ</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <h3 style="margin-top:50px;">ハッカドール賞 <small>株式会社ディー・エヌ・エー 提供</small></h3>
+                <div class="media">
+                    <a href="works.html?id=58" class=" pull-left">
+                        <img src="images/works/058.jpg" class="img-responsive img-rounded" data-anime="tada" style="width:200px;height:200px;" />
+                    </a>
+                    <div class="media-body">
+                        <h4 class="media-heading"><a href="works.html?id=58">発火フォール</a> <small>Ru/むっくRuさん</small></h4>
+                        <div class="panel panel-default"><div class="panel-body">のんびりできるパズルゲームでのほほんと楽しめました！１号～３号のイラストもかわいいです！　曲もハッカトークのアレンジ版でかわいいのですがiPhoneでやったら、曲がおどろおどろしくなってびっくりしました！<small class="text-muted">（DeNA）</small></div></div>
+                        <ul class="list-unstyled">
+                            <li>賞品： 抱き枕カバー</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="media" style="margin-top:30px;">
+                    <a href="works.html?id=99" class=" pull-left">
+                        <img src="images/works/099.jpg" class="img-responsive img-rounded" data-anime="tada" style="width:200px;height:200px;" />
+                    </a>
+                    <div class="media-body">
+                        <h4 class="media-heading"><a href="works.html?id=99">ハッカあた～っく</a> <small>H.Holonさん </small></h4>
+                        <div class="panel panel-default"><div class="panel-body">完成度の高いゲームです！　もしコンボの概念＋コンボで１～３号が出てくるカットインなどがあるとより楽しいと思いました！<small class="text-muted">（DeNA）</small></div></div>
+                        <ul class="list-unstyled">
+                            <li>賞品： 抱き枕カバー</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="media" style="margin-top:30px;">
+                    <a href="works.html?id=112" class=" pull-left">
+                        <img src="images/works/112.jpg" class="img-responsive img-rounded" data-anime="tada" style="width:200px;height:200px;" />
+                    </a>
+                    <div class="media-body">
+                        <h4 class="media-heading"><a href="works.html?id=112">ハッカドールのパズル対戦</a> <small>deraさん</small></h4>
+                        <div class="panel panel-default"><div class="panel-body">パズルゲームの形をした対戦ゲームですね！新しいです！一番最初はなかなかとっつきにくいですけれど、やっていくと楽しさがわかりました！対人対戦もできるとたのしそうです！<small class="text-muted">（DeNA）</small></div></div>
+                        <ul class="list-unstyled">
+                            <li>賞品： 抱き枕カバー</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <h3 style="margin-top:50px;">テーマ賞 <small>プログラミング生放送 提供</small></h3>
+                <div class="media">
+                    <a href="works.html?id=125" class=" pull-left">
+                        <img src="images/works/125.jpg" class="img-responsive img-rounded" data-anime="tada" style="width:200px;height:200px;" />
+                    </a>
+                    <div class="media-body">
+                        <h4 class="media-heading"><a href="works.html?id=125">横スクロールゲーム風年賀状</a> <small>さやさん</small></h4>
+                        <div class="panel panel-default"><div class="panel-body">ゲーム風の年賀状。データ提供によりマップを構成できるアイデア作品です。<small class="text-muted">（プログラミング生放送）</small></div></div>
+                        <ul class="list-unstyled">
+                            <li>賞品： 「季節」を感じるかもしれない食べ物もしくはそれ以外の何か</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <h3 style="margin-top:50px;">キャラクター賞 <small>プログラミング生放送 提供</small></h3>
+                <div class="media">
+                    <a href="works.html?id=126" class=" pull-left">
+                        <img src="images/works/126.jpg" class="img-responsive img-rounded" data-anime="tada" style="width:200px;height:200px;" />
+                    </a>
+                    <div class="media-body">
+                        <h4 class="media-heading"><a href="works.html?id=126">マスコットアプリ文化祭なタッチカバー</a> <small>下小川 さん</small></h4>
+                        <div class="panel panel-default"><div class="panel-body">これはいいものだ。<small class="text-muted">（プログラミング生放送）</small></div></div>
+                        <ul class="list-unstyled">
+                            <li>賞品： キャラクターの好きな食べ物もしくはそれにちなんだ商品</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="media" style="margin-top:30px;">
+                    <a href="works.html?id=34" class=" pull-left">
+                        <img src="images/works/034.jpg" class="img-responsive img-rounded" data-anime="tada" style="width:200px;height:200px;" />
+                    </a>
+                    <div class="media-body">
+                        <h4 class="media-heading"><a href="works.html?id=34">マスコットアプリ文化祭2014を紹介するよ！</a> <small>おーぼんさん</small></h4>
+                        <div class="panel panel-default"><div class="panel-body">マスコットアプリ文化祭の紹介動画。かわいく紹介してくれています。<small class="text-muted">（プログラミング生放送）</small></div></div>
+                        <ul class="list-unstyled">
+                            <li>賞品： キャラクターの好きな食べ物もしくはそれにちなんだ商品</li>
+                        </ul>
+                    </div>
+                </div>
+
+
+                <h3 style="margin-top:50px;">大沖賞 <small>プログラミング生放送 提供</small></h3>
+                <div class="media">
+                    <a href="works.html?id=40" class=" pull-left">
+                        <img src="images/works/040.png" class="img-responsive img-rounded" data-anime="tada" style="width:200px;height:200px;" />
+                    </a>
+                    <div class="media-body">
+                        <h4 class="media-heading"><a href="works.html?id=40">進捗を見守るプロ生ちゃん</a> <small>めむくろさん </small></h4>
+                        <div class="panel panel-default"><div class="panel-body">「＼やべえ／」素材を有効に使ってくれました。<small class="text-muted">（大沖）</small></div></div>
+                        <ul class="list-unstyled">
+                            <li>賞品： 大沖さんサイン入りクリアフォルダー</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="media" style="margin-top:30px;">
+                    <a href="works.html?id=149" class=" pull-left">
+                        <img src="images/works/149.jpg" class="img-responsive img-rounded" data-anime="tada" style="width:200px;height:200px;" />
+                    </a>
+                    <div class="media-body">
+                        <h4 class="media-heading"><a href="works.html?id=149">Kinect v2でマスコットになるやつ</a> <small>Buuさん</small></h4>
+                        <div class="panel panel-default"><div class="panel-body">とにかく絵面が面白いです。<small class="text-muted">（大沖）</small></div></div>
+                        <ul class="list-unstyled">
+                            <li>賞品： 大沖さんサイン入りクリアフォルダー</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <h3 style="margin-top:50px;">だるやなぎ賞 <small>プログラミング生放送、国際だるやなぎ会議 提供</small></h3>
+                <div class="media">
+                    <a href="works.html?id=15" class=" pull-left">
+                        <img src="images/works/015.jpg" class="img-responsive img-rounded" data-anime="tada" style="width:200px;height:200px;" />
+                    </a>
+                    <div class="media-body">
+                        <h4 class="media-heading"><a href="works.html?id=15">ニコニ立体ちゃんのデスクトップマスコット</a> <small>yodaka さん</small></h4>
+                        <div class="panel panel-default"><div class="panel-body">うおお……っ！　ニコニ立体ちゃんかわええ……。ポーズや表情も豊富で、飽きないですね。個人的にはジト目がいいです。<a href="http://pronama.github.io/mascot-apps-contest/2014/works.html?id=14">ユニティちゃんの方</a>もぐっど。<small class="text-muted">（だるやなぎ）</small></div></div>
+                        <ul class="list-unstyled">
+                            <li>賞品： 国際だるやなぎ会議Tシャツ、ステッカー</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="media" style="margin-top:30px;">
+                    <a href="works.html?id=45" class=" pull-left">
+                        <img src="images/works/045.jpg" class="img-responsive img-rounded" data-anime="tada" style="width:200px;height:200px;" />
+                    </a>
+                    <div class="media-body">
+                        <h4 class="media-heading"><a href="works.html?id=45">脱出迷路</a> <small>TKTK360さん</small></h4>
+                        <div class="panel panel-default"><div class="panel-body">ユニティちゃんがかわいい！　壁をぶっ壊す爽快感もなかなか。タブレットでゴロゴロ遊べるのも大変よろしいでござる。<small class="text-muted">（だるやなぎ）</small></div></div>
+                        <ul class="list-unstyled">
+                            <li>賞品： だるやなぎ手形、国際だるやなぎ会議ステッカー</li>
+                        </ul>
+                    </div>
+                </div>
+
+
+                <div class="media" style="margin-top:30px;">
+                    <a href="works.html?id=53" class=" pull-left">
+                        <img src="images/works/053.jpg" class="img-responsive img-rounded" data-anime="tada" style="width:200px;height:200px;" />
+                    </a>
+                    <div class="media-body">
+                        <h4 class="media-heading"><a href="works.html?id=53">キー入力練習ソフト</a> <small>めむくろさん</small></h4>
+                        <div class="panel panel-default"><div class="panel-body">こういうコマンド入力は超苦手なのですが、ハッカドール1号ちゃんが応援してくれるなら頑張れます！　で、何秒以内ぐらいに入力できれば合格なんですかね……。<small class="text-muted">（だるやなぎ）</small></div></div>
+                        <ul class="list-unstyled">
+                            <li>賞品： だるやなぎ手形、国際だるやなぎ会議ステッカー</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="media" style="margin-top:30px;">
+                    <a href="works.html?id=63" class=" pull-left">
+                        <img src="images/works/063.jpg" class="img-responsive img-rounded" data-anime="tada" style="width:200px;height:200px;" />
+                    </a>
+                    <div class="media-body">
+                        <h4 class="media-heading"><a href="works.html?id=63">ゆにらいぶ！ for UnityChan</a> <small>青木そらすさん</small></h4>
+                        <div class="panel panel-default"><div class="panel-body">才能の無駄遣い。くっ……おれさまもユニティちゃんに触りたいぜ……！！<small class="text-muted">（だるやなぎ）</small></div></div>
+                        <ul class="list-unstyled">
+                            <li>賞品： だるやなぎ手形、国際だるやなぎ会議ステッカー</li>
+                        </ul>
+                    </div>
+                </div>
+
+
+                <h3 style="margin-top:50px;">キャラクターコラボ賞 <small>プログラミング生放送 提供</small></h3>
+                <div class="media">
+                    <a href="works.html?id=170" class=" pull-left">
+                        <img src="images/works/170.jpg" class="img-responsive img-rounded" data-anime="tada" style="width:200px;height:200px;" />
+                    </a>
+                    <div class="media-body">
+                        <h4 class="media-heading"><a href="works.html?id=170">マスコットふぇすてぃばる</a> <small>ヘンタイで委員会？</small></h4>
+                        <div class="panel panel-default"><div class="panel-body"><small class="text-muted">マスコットアプリ文化祭にふさわしい文化祭をテーマにしたゲーム。全キャラクターのドット絵が用意されていてすばらしいです。やりこみ要素のあるゲームになっています。（プログラミング生放送）</small></div></div>
+                        <ul class="list-unstyled">
+                            <li>賞品： 考え中</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="media" style="margin-top:30px;">
+                    <a href="works.html?id=148" class=" pull-left">
+                        <img src="images/works/148.jpg" class="img-responsive img-rounded" data-anime="tada" style="width:200px;height:200px;" />
+                    </a>
+                    <div class="media-body">
+                        <h4 class="media-heading"><a href="works.html?id=148">ますこっとばすけっと</a> <small>EFB～相手は死ぬ～（いもさん、どじねこさん、林田宗篤さん）</small></h4>
+                        <div class="panel panel-default"><div class="panel-body"><small class="text-muted">たくさんの3Dキャラクターを利用したネットワーク対戦ゲーム。公式で提供のない美雲あんずちゃんの3Dデータも用意している意欲作。あんずちゃんも操作できると良かったかも。（プログラミング生放送）</small></div></div>
+                        <ul class="list-unstyled">
+                            <li>賞品： 考え中</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="media" style="margin-top:30px;">
+                    <a href="works.html?id=68" class=" pull-left">
+                        <img src="images/works/068.jpg" class="img-responsive img-rounded" data-anime="tada" style="width:200px;height:200px;" />
+                    </a>
+                    <div class="media-body">
+                        <h4 class="media-heading"><a href="works.html?id=68">マスコットを撃ち落せ！</a> <small>ぱちおさん</small></h4>
+                        <div class="panel panel-default"><div class="panel-body"><small class="text-muted">オリジナルのキャラクターイラストのWebブラウザーゲーム。表情がかわいいです。（プログラミング生放送）</small></div></div>
+                        <ul class="list-unstyled">
+                            <li>賞品： 考え中 </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <h3 style="margin-top:50px;">キャラクターだいたいコンプリート賞 <small>プログラミング生放送 提供</small></h3>
+                <div class="media">
+                    <img src="http://placehold.jp/24/9b59b6/ffffff/200x200.png?text=%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%0A%E3%82%B3%E3%83%B3%E3%83%97%E3%83%AA%E3%83%BC%E3%83%88%E8%B3%9E" class="img-responsive img-rounded pull-left" />
+
+                    <div class="media-body">
+                        <p>応募者全員にプレゼントがあります（条件を変更しました）。</p>
+                        <ul class="list-unstyled">
+                            <li>賞品： マスコットアプリ文化祭クリアフォルダー（大沖さんによる特別4コマ入り）</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <h3 style="margin-top:50px;">参加賞 <small>主催・全協賛団体 提供</small></h3>
+                <div class="media">
+                    <img src="http://placehold.jp/24/3498db/ffffff/200x200.png?text=%E5%8F%82%E5%8A%A0%E8%B3%9E" class="img-responsive img-rounded pull-left" />
+
+                    <div class="media-body">
+                        <p>応募者全員にプレゼントがあります。</p>
+                        <ul class="list-unstyled">
+                            <li>賞品： 各種グッズ詰め合わせ（応募時期により内容が異なります）</li>
+                        </ul>
+                    </div>
+                </div>
+
+
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <ul class="notes text-muted" style="margin-top:50px;">
+                    <li>審査の結果、該当なしとなっている賞や、新設した賞があります。ご了承ください。</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="container" id="rule">
+        <h2 class="text-center">賞品の発送状況</h2>
+        <div class="row">
+            <div class="col-md-12 text-center">
+                
+                <p>賞品の発送が予定より遅れています。2月中のお届け予定となります。</p>
+
+                <div class="panel panel-default">
+                    <div class="panel-heading">発送状況</div>
+                    <div class="panel-body text-left">
+                        <p><i class="glyphicon glyphicon-bullhorn"></i> <span class="text-muted small">2014/01/29</span> GMOインターネット株式会社 提供の賞品は、発送を完了しました。</p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+
+
+    <script src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
+    <script>
+        (window.jQuery || document.write('<script src="../scripts/jquery-2.1.1.min.js"><\/script>'));
+    </script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="../scripts/jquery.easing.1.3.min.js"></script>
+    <script src="mediaelement/build/mediaelement-and-player.min.js"></script>
+    <script src="scripts/works-list.min.js"></script>
+    <script src="scripts/script.min.js"></script>
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-55180904-1', 'auto');
+        ga('send', 'pageview');
+
+    </script>
+</body>
+</html>

@@ -44,7 +44,7 @@ $(function () {
         $("#modal").modal();
     });
 
-    $("#character-img").click(function () {        
+    $("#character-img").click(function () {
         $("#modal").modal("hide");
     });
 
@@ -284,14 +284,17 @@ $(function () {
             }
         ];
     */
+
     var works_html = "";
-    for (var i = works.length - 1; i >= works.length - 5; i--) {
-        works_html +=
-            '<div class="col-xs-15 col-sm-15 col-md-15">' +
-            '<a href="works.html?id=' + works[i].id + '"><img src="' + ((works[i].thumb.lastIndexOf("http", 0) === 0) ? works[i].thumb : "images/works/" + works[i].thumb) + '" class="img-responsive img-rounded work hover-anime" data-anime="pulse" data-index="' + i + '" /></a>' +
-            '</div>';
+    if (!!works) {
+        for (var i = works.length - 1; i >= works.length - 5; i--) {
+            works_html +=
+                '<div class="col-xs-15 col-sm-15 col-md-15">' +
+                '<a href="works.html?id=' + works[i].id + '"><img src="' + ((works[i].thumb.lastIndexOf("http", 0) === 0) ? works[i].thumb : "images/works/" + works[i].thumb) + '" class="img-responsive img-rounded work hover-anime" data-anime="pulse" data-index="' + i + '" /></a>' +
+                '</div>';
+        }
+        $("#works-contents").html(works_html);
     }
-    $("#works-contents").html(works_html);
 
     // lang
     var jaKSwords = {
